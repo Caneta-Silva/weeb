@@ -1,11 +1,11 @@
 {
     "id": "5352413d4b455a76259826cb404c1930",
-    "title": "Futuristic Firefighter - A Studio Ghibli Inspired Landscape",
+    "title": "Futuristic Firefighter in the Style of Studio Ghibli",
     "description": "Create a landscape full body image of a futuristic firefighter in the style of Studio Ghibli",
-    "created": "2024-12-15 21:19:18.386209",
+    "created": "2024-12-15 21:24:25.904059",
     "prompt": {
         "prompt": "Create a landscape full body image of a futuristic firefighter in the style of Studio Ghibli",
-        "id": "912b381643333b02683e8d12980d80d6",
+        "id": "47f4c650c9844243721717d7271f9dbe",
         "prompt_history": [
             "Create a landscape full body image of a futuristic firefighter in the style of Studio Ghibli"
         ],
@@ -13,18 +13,18 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:11.831010",
+        "seeded_at": "2024-12-15 20:49:11.841227",
         "seed_prompt": "Create a landscape full body image of a futuristic firefighter in the style of Studio Ghibli",
         "metadata": {
             "element": "firefighter",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "tropical forest",
-            "animal": "giraffe",
+            "backdrop": "spaceship",
+            "animal": "gnu",
             "modifiers": {
                 "image": "full body",
                 "element": "futuristic",
-                "backdrop": "alien"
+                "backdrop": "futuristic alien"
             }
         },
         "template": {
@@ -41,15 +41,15 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Futuristic Firefighter - A Studio Ghibli Inspired Landscape"
+        "title": "Futuristic Firefighter in the Style of Studio Ghibli"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b643089494478.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b643800204445.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/5352413d4b455a76259826cb404c1930/5352413d4b455a76259826cb404c1930.jpg"
     },
     "tags": [],
     "model_version": "dreamshaper",
-    "name": "Futuristic Firefighter - A Studio Ghibli Inspired Landscape",
+    "name": "Futuristic Firefighter in the Style of Studio Ghibli",
     "symbol": "53524",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/5352413d4b455a76259826cb404c1930/5352413d4b455a76259826cb404c1930.jpg",
     "seller_fee_basis_points": 100,
