@@ -1,0 +1,55 @@
+{
+    "id": "2692d5d19ec6b47f5ee135f3261135d0",
+    "title": "Alien Paladin in the Style of Studio Ghibli",
+    "description": "Create a landscape full body image of a alien paladin style military in the style of Studio Ghibli",
+    "created": "2024-12-15 21:17:33.644995",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a alien paladin style military in the style of Studio Ghibli",
+        "id": "3ba8736105981be7a9f71461373f4a0d",
+        "prompt_history": [
+            "Create a landscape full body image of a alien paladin style military in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-15 20:49:11.871635",
+        "seed_prompt": "Create a landscape full body image of a alien paladin style military in the style of Studio Ghibli",
+        "metadata": {
+            "element": "paladin style military",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "spaceship",
+            "animal": "elephant",
+            "modifiers": {
+                "image": "full body",
+                "element": "alien",
+                "backdrop": "futuristic alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Alien Paladin in the Style of Studio Ghibli"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b641328104573.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/2692d5d19ec6b47f5ee135f3261135d0/2692d5d19ec6b47f5ee135f3261135d0.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "Galactic Defender",
+    "symbol": "2692D5D19",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/2692d5d19ec6b47f5ee135f3261135d0/2692d5d19ec6b47f5ee135f3261135d0.jpg"
+}
