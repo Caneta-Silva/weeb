@@ -1,11 +1,11 @@
 {
     "id": "8d6bbe136a0cc5bd1766be5ed2fb7dd2",
-    "title": "Futuristic Alien Shaman in the Style of Studio Ghibli",
+    "title": "Futuristic Alien Shaman in Studio Ghibli Style",
     "description": "Create a landscape full body image of a futuristic alien shaman in the style of Studio Ghibli",
-    "created": "2024-12-15 21:16:35.855909",
+    "created": "2024-12-15 22:08:31.011878",
     "prompt": {
         "prompt": "Create a landscape full body image of a futuristic alien shaman in the style of Studio Ghibli",
-        "id": "9eeb6c64a5bfca5389a3a3480d4a45e8",
+        "id": "7f26cb457c3c24e1173701600142ef45",
         "prompt_history": [
             "Create a landscape full body image of a futuristic alien shaman in the style of Studio Ghibli"
         ],
@@ -13,14 +13,14 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:12.102016",
+        "seeded_at": "2024-12-15 20:49:12.103109",
         "seed_prompt": "Create a landscape full body image of a futuristic alien shaman in the style of Studio Ghibli",
         "metadata": {
             "element": "shaman",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "forest",
-            "animal": "camel",
+            "backdrop": "fortress",
+            "animal": "deer",
             "modifiers": {
                 "image": "full body",
                 "element": "futuristic alien",
@@ -41,15 +41,15 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Futuristic Alien Shaman in the Style of Studio Ghibli"
+        "title": "Futuristic Alien Shaman in Studio Ghibli Style"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b64553455669.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b643808878041.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/8d6bbe136a0cc5bd1766be5ed2fb7dd2/8d6bbe136a0cc5bd1766be5ed2fb7dd2.jpg"
     },
     "tags": [],
     "model_version": "dreamshaper",
-    "name": "Futuristic Alien Shaman in the Style of Studio Ghibli",
+    "name": "Futuristic Alien Shaman in Studio Ghibli Style",
     "symbol": "8D6BB",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/8d6bbe136a0cc5bd1766be5ed2fb7dd2/8d6bbe136a0cc5bd1766be5ed2fb7dd2.jpg",
     "seller_fee_basis_points": 100,
