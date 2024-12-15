@@ -1,0 +1,78 @@
+{
+    "id": "dbdb4a74d74a4d97769d7f4b9705c1db",
+    "title": "Ethereal Alien Tribe Chief: A Studio Ghibli Inspired Creation",
+    "description": "Create a landscape full body image of a alien tribe chief in the style of Studio Ghibli",
+    "created": "2024-12-15 22:03:31.387967",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a alien tribe chief in the style of Studio Ghibli",
+        "id": "8fb66e65db68229e19f40aa7dccd33ef",
+        "prompt_history": [
+            "Create a landscape full body image of a alien tribe chief in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-15 20:49:11.930703",
+        "seed_prompt": "Create a landscape full body image of a alien tribe chief in the style of Studio Ghibli",
+        "metadata": {
+            "element": "tribe chief",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "waterfall",
+            "animal": "elephant",
+            "modifiers": {
+                "image": "full body",
+                "element": "alien",
+                "backdrop": "futuristic alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Ethereal Alien Tribe Chief: A Studio Ghibli Inspired Creation"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b643601635526.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/dbdb4a74d74a4d97769d7f4b9705c1db/dbdb4a74d74a4d97769d7f4b9705c1db.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "Ethereal Alien Tribe Chief: A Studio Ghibli Inspired Creation",
+    "symbol": "DBDB4",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/dbdb4a74d74a4d97769d7f4b9705c1db/dbdb4a74d74a4d97769d7f4b9705c1db.jpg",
+    "seller_fee_basis_points": 100,
+    "external_url": null,
+    "attributes": {},
+    "collection": {
+        "name": "weeb",
+        "family": "Caneta-Silva"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/dbdb4a74d74a4d97769d7f4b9705c1db/dbdb4a74d74a4d97769d7f4b9705c1db.jpg",
+                "type": "image/jpg"
+            }
+        ],
+        "category": "image",
+        "maxSupply": 0,
+        "creators": [
+            {
+                "address": "CXretoxLBQDmFwDbf4qJYVX49UaA4PPMy3pCtfm2yzVH",
+                "share": 100
+            }
+        ]
+    }
+}
