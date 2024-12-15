@@ -1,0 +1,55 @@
+{
+    "id": "b8f7563acbc523f0d3eef10f87c671c1",
+    "title": "Futuristic Alien Tribe Warrior of the Stars",
+    "description": "Create a landscape full body image of a futuristic alien tribe warrior in the style of Studio Ghibli",
+    "created": "2024-12-15 21:00:13.609882",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic alien tribe warrior in the style of Studio Ghibli",
+        "id": "d7c7c855f76a3f073d65927d881ba8ea",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic alien tribe warrior in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-15 20:49:12.066520",
+        "seed_prompt": "Create a landscape full body image of a futuristic alien tribe warrior in the style of Studio Ghibli",
+        "metadata": {
+            "element": "tribe warrior",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "tropical forest",
+            "animal": "rhino",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic alien",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Futuristic Alien Tribe Warrior of the Stars"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b64223476162.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/b8f7563acbc523f0d3eef10f87c671c1/b8f7563acbc523f0d3eef10f87c671c1.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "Nebula Warrior",
+    "symbol": "B8F7563AC",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/b8f7563acbc523f0d3eef10f87c671c1/b8f7563acbc523f0d3eef10f87c671c1.jpg"
+}
