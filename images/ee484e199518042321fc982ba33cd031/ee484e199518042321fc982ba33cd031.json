@@ -1,0 +1,52 @@
+{
+    "id": "ee484e199518042321fc982ba33cd031",
+    "title": "Galactic Enforcer: The Sentinel of Tomorrow",
+    "description": "Create a landscape full body image of a futuristic alien riot police robot in the style of Studio Ghibli",
+    "created": "2024-12-15 21:23:29.190175",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic alien riot police robot in the style of Studio Ghibli",
+        "id": "775594e91c9d7b7bc5e21c3978d95598",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic alien riot police robot in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-15 20:49:12.041677",
+        "seed_prompt": "Create a landscape full body image of a futuristic alien riot police robot in the style of Studio Ghibli",
+        "metadata": {
+            "element": "riot police robot",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "forest",
+            "animal": "horse",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic alien",
+                "backdrop": "futuristic alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Galactic Enforcer: The Sentinel of Tomorrow"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b641831306236.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/ee484e199518042321fc982ba33cd031/ee484e199518042321fc982ba33cd031.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper"
+}
