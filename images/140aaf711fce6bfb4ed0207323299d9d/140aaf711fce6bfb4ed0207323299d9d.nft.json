@@ -1,0 +1,78 @@
+{
+    "id": "140aaf711fce6bfb4ed0207323299d9d",
+    "title": "Futuristic Alien Paladin: A Studio Ghibli-Inspired Military Landscape",
+    "description": "Create a landscape full body image of a futuristic alien paladin style military in the style of Studio Ghibli",
+    "created": "2024-12-15 21:17:19.970694",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic alien paladin style military in the style of Studio Ghibli",
+        "id": "88687e1af60980e8b55ae5ad7db45803",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic alien paladin style military in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-15 20:49:12.022538",
+        "seed_prompt": "Create a landscape full body image of a futuristic alien paladin style military in the style of Studio Ghibli",
+        "metadata": {
+            "element": "paladin style military",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "fortress",
+            "animal": "horse",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic alien",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Futuristic Alien Paladin: A Studio Ghibli-Inspired Military Landscape"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b64641266349.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/140aaf711fce6bfb4ed0207323299d9d/140aaf711fce6bfb4ed0207323299d9d.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "Futuristic Alien Paladin: A Studio Ghibli-Inspired Military Landscape",
+    "symbol": "140AA",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/140aaf711fce6bfb4ed0207323299d9d/140aaf711fce6bfb4ed0207323299d9d.jpg",
+    "seller_fee_basis_points": 100,
+    "external_url": null,
+    "attributes": {},
+    "collection": {
+        "name": "weeb",
+        "family": "Caneta-Silva"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/140aaf711fce6bfb4ed0207323299d9d/140aaf711fce6bfb4ed0207323299d9d.jpg",
+                "type": "image/jpg"
+            }
+        ],
+        "category": "image",
+        "maxSupply": 0,
+        "creators": [
+            {
+                "address": "CXretoxLBQDmFwDbf4qJYVX49UaA4PPMy3pCtfm2yzVH",
+                "share": 100
+            }
+        ]
+    }
+}
