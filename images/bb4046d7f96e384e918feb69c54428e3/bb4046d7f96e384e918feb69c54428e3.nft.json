@@ -1,11 +1,11 @@
 {
     "id": "bb4046d7f96e384e918feb69c54428e3",
-    "title": "Futuristic Tribe Warrior of the Enchanted Valley",
-    "description": "Futuristic Tribe Warrior of the Enchanted Valley",
-    "created": "2024-12-16 20:00:28.934294",
+    "title": "Futuristic Tribe Warrior of the Enchanted Forest",
+    "description": "Futuristic Tribe Warrior of the Enchanted Forest",
+    "created": "2024-12-16 20:18:06.736527",
     "prompt": {
         "prompt": "Create a landscape full body image of a futuristic tribe warrior in the style of Studio Ghibli",
-        "id": "4f4542f32dbb0a6bde789929fd4b2b08",
+        "id": "6b1d010641f5568aa1159e5bc6d8dcf7",
         "prompt_history": [
             "Create a landscape full body image of a futuristic tribe warrior in the style of Studio Ghibli"
         ],
@@ -13,18 +13,18 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:11.746616",
+        "seeded_at": "2024-12-15 20:49:11.741904",
         "seed_prompt": "Create a landscape full body image of a futuristic tribe warrior in the style of Studio Ghibli",
         "metadata": {
             "element": "tribe warrior",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "Martial landscape",
-            "animal": "deer",
+            "backdrop": "desert landscape",
+            "animal": "giraffe",
             "modifiers": {
                 "image": "full body",
                 "element": "futuristic",
-                "backdrop": "alien"
+                "backdrop": "futuristic"
             }
         },
         "template": {
@@ -41,10 +41,10 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Futuristic Tribe Warrior of the Enchanted Valley"
+        "title": "Futuristic Tribe Warrior of the Enchanted Forest"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b644292335179.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b643073470576.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/bb4046d7f96e384e918feb69c54428e3/bb4046d7f96e384e918feb69c54428e3.jpg"
     },
     "tags": [],
