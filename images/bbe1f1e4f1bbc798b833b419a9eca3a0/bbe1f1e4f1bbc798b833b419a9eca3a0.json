@@ -1,11 +1,11 @@
 {
     "id": "bbe1f1e4f1bbc798b833b419a9eca3a0",
-    "title": "Futuristic Riot Police Robot in Studio Ghibli Style",
+    "title": "Futuristic Riot Police Robot in Studio Ghibli Style Landscape",
     "description": "Create a landscape full body image of a futuristic riot police robot in the style of Studio Ghibli",
-    "created": "2024-12-16 19:51:08.706202",
+    "created": "2024-12-16 19:57:37.947960",
     "prompt": {
         "prompt": "Create a landscape full body image of a futuristic riot police robot in the style of Studio Ghibli",
-        "id": "e5eda3704eac5def9d2cf10b8e929a28",
+        "id": "de87acdd74962c8bd05673fc5d650186",
         "prompt_history": [
             "Create a landscape full body image of a futuristic riot police robot in the style of Studio Ghibli"
         ],
@@ -13,14 +13,14 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:11.711923",
+        "seeded_at": "2024-12-15 20:49:11.711488",
         "seed_prompt": "Create a landscape full body image of a futuristic riot police robot in the style of Studio Ghibli",
         "metadata": {
             "element": "riot police robot",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "tropical forest",
-            "animal": "horse",
+            "backdrop": "waterfall",
+            "animal": "giraffe",
             "modifiers": {
                 "image": "full body",
                 "element": "futuristic",
@@ -41,10 +41,10 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Futuristic Riot Police Robot in Studio Ghibli Style"
+        "title": "Futuristic Riot Police Robot in Studio Ghibli Style Landscape"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b642074146638.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b642167136545.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/bbe1f1e4f1bbc798b833b419a9eca3a0/bbe1f1e4f1bbc798b833b419a9eca3a0.jpg"
     },
     "tags": [],
