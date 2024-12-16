@@ -1,11 +1,11 @@
 {
     "id": "f07f9ca03229da7db143a6bba30d5be9",
-    "title": "Alien Police in the Style of Studio Ghibli",
-    "description": "Create a landscape full body image of a alien police in the style of Studio Ghibli",
-    "created": "2024-12-15 21:18:53.966036",
+    "title": "Guardian of the Alien Galaxy",
+    "description": "Guardian of the Alien Galaxy",
+    "created": "2024-12-16 19:42:15.530930",
     "prompt": {
         "prompt": "Create a landscape full body image of a alien police in the style of Studio Ghibli",
-        "id": "a5936b2244243bef191bdf9d6de2fd44",
+        "id": "4b0cb6e2595be3af6e61226d34fcc2a9",
         "prompt_history": [
             "Create a landscape full body image of a alien police in the style of Studio Ghibli"
         ],
@@ -13,18 +13,18 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:11.977162",
+        "seeded_at": "2024-12-15 20:49:11.974756",
         "seed_prompt": "Create a landscape full body image of a alien police in the style of Studio Ghibli",
         "metadata": {
             "element": "police",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "Martial landscape",
-            "animal": "gnu",
+            "backdrop": "tropical forest",
+            "animal": "deer",
             "modifiers": {
                 "image": "full body",
                 "element": "alien",
-                "backdrop": "futuristic alien"
+                "backdrop": "alien"
             }
         },
         "template": {
@@ -41,15 +41,15 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Alien Police in the Style of Studio Ghibli"
+        "title": "Guardian of the Alien Galaxy"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b642099288937.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b64457092010.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/f07f9ca03229da7db143a6bba30d5be9/f07f9ca03229da7db143a6bba30d5be9.jpg"
     },
     "tags": [],
     "model_version": "dreamshaper",
-    "name": "Alien Police in the Style of Studio Ghibli",
+    "name": "GhibliCop",
     "symbol": "F07F9",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/f07f9ca03229da7db143a6bba30d5be9/f07f9ca03229da7db143a6bba30d5be9.jpg",
     "seller_fee_basis_points": 100,
