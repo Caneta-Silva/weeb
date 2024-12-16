@@ -1,11 +1,11 @@
 {
     "id": "c298e2236000b62554c13581b13668bd",
-    "title": "Alien Emperor of the Enchanted Galaxy",
-    "description": "Alien Emperor of the Enchanted Galaxy",
-    "created": "2024-12-16 18:44:52.542396",
+    "title": "The Majestic Alien Emperor of the Ghibli Universe",
+    "description": "The Majestic Alien Emperor of the Ghibli Universe",
+    "created": "2024-12-16 18:46:51.263594",
     "prompt": {
         "prompt": "Create a landscape full body image of a alien emperor in the style of Studio Ghibli",
-        "id": "9b1bd65ae4b17b9dd071def510c8a205",
+        "id": "5c404b37b30dfb922456631f50454edd",
         "prompt_history": [
             "Create a landscape full body image of a alien emperor in the style of Studio Ghibli"
         ],
@@ -13,14 +13,14 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:11.962138",
+        "seeded_at": "2024-12-15 20:49:11.965395",
         "seed_prompt": "Create a landscape full body image of a alien emperor in the style of Studio Ghibli",
         "metadata": {
             "element": "emperor",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "Martial landscape",
-            "animal": "gnu",
+            "backdrop": "forest",
+            "animal": "deer",
             "modifiers": {
                 "image": "full body",
                 "element": "alien",
@@ -41,15 +41,15 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Alien Emperor of the Enchanted Galaxy"
+        "title": "The Majestic Alien Emperor of the Ghibli Universe"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b641655887809.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b641370697124.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/c298e2236000b62554c13581b13668bd/c298e2236000b62554c13581b13668bd.jpg"
     },
     "tags": [],
     "model_version": "dreamshaper",
-    "name": "Nebula Sovereign",
+    "name": "GalaxianMonarch",
     "symbol": "C298E",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/c298e2236000b62554c13581b13668bd/c298e2236000b62554c13581b13668bd.jpg",
     "seller_fee_basis_points": 100,
