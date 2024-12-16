@@ -1,11 +1,11 @@
 {
     "id": "8bb6aa2cbe1c3d597941d856aee9aa98",
-    "title": "Alien Tribe Warrior in Studio Ghibli Style",
-    "description": "Alien Tribe Warrior in Studio Ghibli Style",
-    "created": "2024-12-16 14:02:47.111924",
+    "title": "Alien Tribe Warrior in the Style of Studio Ghibli",
+    "description": "Alien Tribe Warrior in the Style of Studio Ghibli",
+    "created": "2024-12-16 20:01:46.694858",
     "prompt": {
         "prompt": "Create a landscape full body image of a alien tribe warrior in the style of Studio Ghibli",
-        "id": "de460d6cd90e32ef76528b83dcda14cb",
+        "id": "e93e6ee8ab5da7343ee8c48eb783fae8",
         "prompt_history": [
             "Create a landscape full body image of a alien tribe warrior in the style of Studio Ghibli"
         ],
@@ -13,18 +13,18 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:11.910073",
+        "seeded_at": "2024-12-15 20:49:11.916587",
         "seed_prompt": "Create a landscape full body image of a alien tribe warrior in the style of Studio Ghibli",
         "metadata": {
             "element": "tribe warrior",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "desert",
+            "backdrop": "tropical forest",
             "animal": "camel",
             "modifiers": {
                 "image": "full body",
                 "element": "alien",
-                "backdrop": "alien"
+                "backdrop": "futuristic alien"
             }
         },
         "template": {
@@ -41,15 +41,15 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Alien Tribe Warrior in Studio Ghibli Style"
+        "title": "Alien Tribe Warrior in the Style of Studio Ghibli"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b644200686186.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b641577391660.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/8bb6aa2cbe1c3d597941d856aee9aa98/8bb6aa2cbe1c3d597941d856aee9aa98.jpg"
     },
     "tags": [],
     "model_version": "dreamshaper",
-    "name": "Ghibli War Alien",
+    "name": null,
     "symbol": "8BB6A",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/8bb6aa2cbe1c3d597941d856aee9aa98/8bb6aa2cbe1c3d597941d856aee9aa98.jpg",
     "seller_fee_basis_points": 100,
