@@ -1,11 +1,11 @@
 {
     "id": "aae26ff13d105c13954b203e9e5da79e",
-    "title": "Desert Nomad: A Futuristic Alien Warrior",
+    "title": "Wanderer of the Alien Sands",
     "description": "Create a landscape full body image of a futuristic alien desert tribe warrior in the style of Studio Ghibli",
-    "created": "2024-12-15 22:03:07.922125",
+    "created": "2024-12-16 19:44:51.180239",
     "prompt": {
         "prompt": "Create a landscape full body image of a futuristic alien desert tribe warrior in the style of Studio Ghibli",
-        "id": "861caa29757fa624e0dc3d42e8d797e2",
+        "id": "5da274e5caab0cc69e79328223305af5",
         "prompt_history": [
             "Create a landscape full body image of a futuristic alien desert tribe warrior in the style of Studio Ghibli"
         ],
@@ -13,18 +13,18 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:12.052886",
+        "seeded_at": "2024-12-15 20:49:12.046036",
         "seed_prompt": "Create a landscape full body image of a futuristic alien desert tribe warrior in the style of Studio Ghibli",
         "metadata": {
             "element": "desert tribe warrior",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "fortress",
-            "animal": "gnu",
+            "backdrop": "tropical forest",
+            "animal": "elephant",
             "modifiers": {
                 "image": "full body",
                 "element": "futuristic alien",
-                "backdrop": "alien"
+                "backdrop": "futuristic"
             }
         },
         "template": {
@@ -41,10 +41,10 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Desert Nomad: A Futuristic Alien Warrior"
+        "title": "Wanderer of the Alien Sands"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b641350616038.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b64580666370.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/aae26ff13d105c13954b203e9e5da79e/aae26ff13d105c13954b203e9e5da79e.jpg"
     },
     "tags": [],
