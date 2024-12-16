@@ -1,11 +1,11 @@
 {
     "id": "c298e2236000b62554c13581b13668bd",
-    "title": "Majestic Alien Emperor in Studio Ghibli Style",
+    "title": "The Galactic Sovereign: An Alien Emperor in Studio Ghibli Style",
     "description": "Create a landscape full body image of a alien emperor in the style of Studio Ghibli",
-    "created": "2024-12-16 19:57:25.366286",
+    "created": "2024-12-16 20:06:33.127619",
     "prompt": {
         "prompt": "Create a landscape full body image of a alien emperor in the style of Studio Ghibli",
-        "id": "2df629bc93fdd66b7870ea0f54f3cf81",
+        "id": "99ae569a4e96bfa0fd792f8dba7e500b",
         "prompt_history": [
             "Create a landscape full body image of a alien emperor in the style of Studio Ghibli"
         ],
@@ -13,18 +13,18 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:11.959886",
+        "seeded_at": "2024-12-15 20:49:11.951341",
         "seed_prompt": "Create a landscape full body image of a alien emperor in the style of Studio Ghibli",
         "metadata": {
             "element": "emperor",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "forest",
+            "backdrop": "desert",
             "animal": "camel",
             "modifiers": {
                 "image": "full body",
                 "element": "alien",
-                "backdrop": "alien"
+                "backdrop": "futuristic"
             }
         },
         "template": {
@@ -41,10 +41,10 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Majestic Alien Emperor in Studio Ghibli Style"
+        "title": "The Galactic Sovereign: An Alien Emperor in Studio Ghibli Style"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b641821328124.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b641999941290.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/c298e2236000b62554c13581b13668bd/c298e2236000b62554c13581b13668bd.jpg"
     },
     "tags": [],
