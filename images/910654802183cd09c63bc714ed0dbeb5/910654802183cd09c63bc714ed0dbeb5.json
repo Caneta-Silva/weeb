@@ -1,11 +1,11 @@
 {
     "id": "910654802183cd09c63bc714ed0dbeb5",
-    "title": "Galactic Sentinel: Alien Riot Police Robot",
+    "title": "Galactic Guardian: A Studio Ghibli-Inspired Alien Riot Police Robot",
     "description": "Create a landscape full body image of a alien riot police robot in the style of Studio Ghibli",
-    "created": "2024-12-16 14:15:53.378279",
+    "created": "2024-12-16 20:22:52.609612",
     "prompt": {
         "prompt": "Create a landscape full body image of a alien riot police robot in the style of Studio Ghibli",
-        "id": "7ab93f85874f9da6fef339fd3573e4df",
+        "id": "f305e7e6c9e79bd6fe85adf2c646e88b",
         "prompt_history": [
             "Create a landscape full body image of a alien riot police robot in the style of Studio Ghibli"
         ],
@@ -13,14 +13,14 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:11.877872",
+        "seeded_at": "2024-12-15 20:49:11.876861",
         "seed_prompt": "Create a landscape full body image of a alien riot police robot in the style of Studio Ghibli",
         "metadata": {
             "element": "riot police robot",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "fortress",
-            "animal": "rhino",
+            "backdrop": "spaceship",
+            "animal": "giraffe",
             "modifiers": {
                 "image": "full body",
                 "element": "alien",
@@ -41,10 +41,10 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Galactic Sentinel: Alien Riot Police Robot"
+        "title": "Galactic Guardian: A Studio Ghibli-Inspired Alien Riot Police Robot"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b644069663745.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b64342241135.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/910654802183cd09c63bc714ed0dbeb5/910654802183cd09c63bc714ed0dbeb5.jpg"
     },
     "tags": [],
