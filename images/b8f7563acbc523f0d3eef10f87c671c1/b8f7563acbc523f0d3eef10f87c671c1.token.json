@@ -1,11 +1,11 @@
 {
     "id": "b8f7563acbc523f0d3eef10f87c671c1",
-    "title": "Futuristic Alien Tribe Warrior of the Great Forest",
+    "title": "The Mystical Warrior of the Alien Tribe",
     "description": "Create a landscape full body image of a futuristic alien tribe warrior in the style of Studio Ghibli",
-    "created": "2024-12-16 18:47:13.588667",
+    "created": "2024-12-16 20:11:26.020438",
     "prompt": {
         "prompt": "Create a landscape full body image of a futuristic alien tribe warrior in the style of Studio Ghibli",
-        "id": "cf9509a07ddd2759a1d6b1589676960f",
+        "id": "9819635d86b1988ecb6cfba0529af991",
         "prompt_history": [
             "Create a landscape full body image of a futuristic alien tribe warrior in the style of Studio Ghibli"
         ],
@@ -13,18 +13,18 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:12.071741",
+        "seeded_at": "2024-12-15 20:49:12.066683",
         "seed_prompt": "Create a landscape full body image of a futuristic alien tribe warrior in the style of Studio Ghibli",
         "metadata": {
             "element": "tribe warrior",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
             "backdrop": "forest",
-            "animal": "deer",
+            "animal": "elephant",
             "modifiers": {
                 "image": "full body",
                 "element": "futuristic alien",
-                "backdrop": "futuristic alien"
+                "backdrop": "alien"
             }
         },
         "template": {
@@ -41,15 +41,15 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Futuristic Alien Tribe Warrior of the Great Forest"
+        "title": "The Mystical Warrior of the Alien Tribe"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b643594126759.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b641393525482.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/b8f7563acbc523f0d3eef10f87c671c1/b8f7563acbc523f0d3eef10f87c671c1.jpg"
     },
     "tags": [],
     "model_version": "dreamshaper",
-    "name": "Kazuko, the Etherian Warrior",
+    "name": "Sakuro the Lumina Warrior",
     "symbol": "B8F7563AC",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/b8f7563acbc523f0d3eef10f87c671c1/b8f7563acbc523f0d3eef10f87c671c1.jpg"
 }
