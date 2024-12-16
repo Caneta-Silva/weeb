@@ -1,11 +1,11 @@
 {
     "id": "8bb6aa2cbe1c3d597941d856aee9aa98",
-    "title": "Ghibli-inspired Alien Tribe Warrior in Lush Landscape",
+    "title": "Alien Tribe Warrior in Studio Ghibli Style",
     "description": "Create a landscape full body image of a alien tribe warrior in the style of Studio Ghibli",
-    "created": "2024-12-15 21:59:38.304178",
+    "created": "2024-12-16 14:02:47.111924",
     "prompt": {
         "prompt": "Create a landscape full body image of a alien tribe warrior in the style of Studio Ghibli",
-        "id": "e64afb3ca154c4d9f55f02be03f3379d",
+        "id": "de460d6cd90e32ef76528b83dcda14cb",
         "prompt_history": [
             "Create a landscape full body image of a alien tribe warrior in the style of Studio Ghibli"
         ],
@@ -13,18 +13,18 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:11.904972",
+        "seeded_at": "2024-12-15 20:49:11.910073",
         "seed_prompt": "Create a landscape full body image of a alien tribe warrior in the style of Studio Ghibli",
         "metadata": {
             "element": "tribe warrior",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
             "backdrop": "desert",
-            "animal": "giraffe",
+            "animal": "camel",
             "modifiers": {
                 "image": "full body",
                 "element": "alien",
-                "backdrop": "futuristic"
+                "backdrop": "alien"
             }
         },
         "template": {
@@ -41,15 +41,15 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Ghibli-inspired Alien Tribe Warrior in Lush Landscape"
+        "title": "Alien Tribe Warrior in Studio Ghibli Style"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b643621439226.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b644200686186.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/8bb6aa2cbe1c3d597941d856aee9aa98/8bb6aa2cbe1c3d597941d856aee9aa98.jpg"
     },
     "tags": [],
     "model_version": "dreamshaper",
-    "name": "Nalu",
+    "name": "Nokai, the Guardian of the Deep Jungle",
     "symbol": "8BB6AA2CB",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/8bb6aa2cbe1c3d597941d856aee9aa98/8bb6aa2cbe1c3d597941d856aee9aa98.jpg"
 }
