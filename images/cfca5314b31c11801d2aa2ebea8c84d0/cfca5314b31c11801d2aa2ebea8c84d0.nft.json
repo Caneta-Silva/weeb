@@ -1,11 +1,11 @@
 {
     "id": "cfca5314b31c11801d2aa2ebea8c84d0",
-    "title": "Mystical Alien Shaman in Studio Ghibli Style",
-    "description": "Create a landscape full body image of a alien shaman in the style of Studio Ghibli",
-    "created": "2024-12-15 21:21:57.694925",
+    "title": "Luminous Alien Shaman in the Style of Studio Ghibli",
+    "description": "Luminous Alien Shaman in the Style of Studio Ghibli",
+    "created": "2024-12-16 14:17:19.009831",
     "prompt": {
         "prompt": "Create a landscape full body image of a alien shaman in the style of Studio Ghibli",
-        "id": "5186b945726904c444fe1c45585675ef",
+        "id": "c37b9f45822bf8464f27cc2bb7d203e6",
         "prompt_history": [
             "Create a landscape full body image of a alien shaman in the style of Studio Ghibli"
         ],
@@ -13,18 +13,18 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:11.941045",
+        "seeded_at": "2024-12-15 20:49:11.934412",
         "seed_prompt": "Create a landscape full body image of a alien shaman in the style of Studio Ghibli",
         "metadata": {
             "element": "shaman",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "waterfall",
-            "animal": "horse",
+            "backdrop": "Martial landscape",
+            "animal": "camel",
             "modifiers": {
                 "image": "full body",
                 "element": "alien",
-                "backdrop": "alien"
+                "backdrop": "futuristic"
             }
         },
         "template": {
@@ -41,15 +41,15 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Mystical Alien Shaman in Studio Ghibli Style"
+        "title": "Luminous Alien Shaman in the Style of Studio Ghibli"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b641346159951.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b6475115586.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/cfca5314b31c11801d2aa2ebea8c84d0/cfca5314b31c11801d2aa2ebea8c84d0.jpg"
     },
     "tags": [],
     "model_version": "dreamshaper",
-    "name": "Mystical Alien Shaman in Studio Ghibli Style",
+    "name": "GhibliAlienShamanArt",
     "symbol": "CFCA5",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/cfca5314b31c11801d2aa2ebea8c84d0/cfca5314b31c11801d2aa2ebea8c84d0.jpg",
     "seller_fee_basis_points": 100,
