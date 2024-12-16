@@ -2,10 +2,10 @@
     "id": "bbe1f1e4f1bbc798b833b419a9eca3a0",
     "title": "Futuristic Riot Police Robot in Studio Ghibli Style",
     "description": "Create a landscape full body image of a futuristic riot police robot in the style of Studio Ghibli",
-    "created": "2024-12-16 18:48:55.495159",
+    "created": "2024-12-16 19:51:08.706202",
     "prompt": {
         "prompt": "Create a landscape full body image of a futuristic riot police robot in the style of Studio Ghibli",
-        "id": "61d9f0cb8dfcd93c7199121dda0a6cf9",
+        "id": "e5eda3704eac5def9d2cf10b8e929a28",
         "prompt_history": [
             "Create a landscape full body image of a futuristic riot police robot in the style of Studio Ghibli"
         ],
@@ -13,18 +13,18 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:11.721625",
+        "seeded_at": "2024-12-15 20:49:11.711923",
         "seed_prompt": "Create a landscape full body image of a futuristic riot police robot in the style of Studio Ghibli",
         "metadata": {
             "element": "riot police robot",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "desert",
-            "animal": "camel",
+            "backdrop": "tropical forest",
+            "animal": "horse",
             "modifiers": {
                 "image": "full body",
                 "element": "futuristic",
-                "backdrop": "futuristic alien"
+                "backdrop": "futuristic"
             }
         },
         "template": {
@@ -44,7 +44,7 @@
         "title": "Futuristic Riot Police Robot in Studio Ghibli Style"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b642918420562.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b642074146638.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/bbe1f1e4f1bbc798b833b419a9eca3a0/bbe1f1e4f1bbc798b833b419a9eca3a0.jpg"
     },
     "tags": [],
