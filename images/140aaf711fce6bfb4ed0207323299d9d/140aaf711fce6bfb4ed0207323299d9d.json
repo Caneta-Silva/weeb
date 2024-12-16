@@ -1,11 +1,11 @@
 {
     "id": "140aaf711fce6bfb4ed0207323299d9d",
-    "title": "Futuristic Alien Paladin: A Studio Ghibli-Inspired Masterpiece",
+    "title": "Futuristic Alien Paladin in Studio Ghibli Style",
     "description": "Create a landscape full body image of a futuristic alien paladin style military in the style of Studio Ghibli",
-    "created": "2024-12-16 18:41:26.543428",
+    "created": "2024-12-16 19:42:44.117699",
     "prompt": {
         "prompt": "Create a landscape full body image of a futuristic alien paladin style military in the style of Studio Ghibli",
-        "id": "bda1a7d912cd3fb8ff0a9aee6fd6fa00",
+        "id": "d86db8af7b919d2d7395d8eb3ee36558",
         "prompt_history": [
             "Create a landscape full body image of a futuristic alien paladin style military in the style of Studio Ghibli"
         ],
@@ -13,18 +13,18 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:12.022262",
+        "seeded_at": "2024-12-15 20:49:12.023812",
         "seed_prompt": "Create a landscape full body image of a futuristic alien paladin style military in the style of Studio Ghibli",
         "metadata": {
             "element": "paladin style military",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "spaceship",
-            "animal": "gnu",
+            "backdrop": "desert landscape",
+            "animal": "horse",
             "modifiers": {
                 "image": "full body",
                 "element": "futuristic alien",
-                "backdrop": "alien"
+                "backdrop": "futuristic alien"
             }
         },
         "template": {
@@ -41,10 +41,10 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Futuristic Alien Paladin: A Studio Ghibli-Inspired Masterpiece"
+        "title": "Futuristic Alien Paladin in Studio Ghibli Style"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b643472691688.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b642876891036.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/140aaf711fce6bfb4ed0207323299d9d/140aaf711fce6bfb4ed0207323299d9d.jpg"
     },
     "tags": [],
