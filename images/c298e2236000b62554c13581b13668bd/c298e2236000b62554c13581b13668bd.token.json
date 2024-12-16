@@ -1,11 +1,11 @@
 {
     "id": "c298e2236000b62554c13581b13668bd",
-    "title": "Alien Emperor's Serene Dominion",
+    "title": "The Alien Emperor's Ethereal Kingdom",
     "description": "Create a landscape full body image of a alien emperor in the style of Studio Ghibli",
-    "created": "2024-12-15 21:19:37.628020",
+    "created": "2024-12-16 14:21:15.281185",
     "prompt": {
         "prompt": "Create a landscape full body image of a alien emperor in the style of Studio Ghibli",
-        "id": "c69e82d2efccb3a6fe893417cf4e28d1",
+        "id": "ba7e622b25d46bbc8a5b834a0a0346fd",
         "prompt_history": [
             "Create a landscape full body image of a alien emperor in the style of Studio Ghibli"
         ],
@@ -13,14 +13,14 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:11.955890",
+        "seeded_at": "2024-12-15 20:49:11.961501",
         "seed_prompt": "Create a landscape full body image of a alien emperor in the style of Studio Ghibli",
         "metadata": {
             "element": "emperor",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "Martial landscape",
-            "animal": "giraffe",
+            "backdrop": "fortress",
+            "animal": "rhino",
             "modifiers": {
                 "image": "full body",
                 "element": "alien",
@@ -41,15 +41,15 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Alien Emperor's Serene Dominion"
+        "title": "The Alien Emperor's Ethereal Kingdom"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b644082820587.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b643243520613.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/c298e2236000b62554c13581b13668bd/c298e2236000b62554c13581b13668bd.jpg"
     },
     "tags": [],
     "model_version": "dreamshaper",
-    "name": "Galactic Sovereign",
+    "name": "Zorlun, Emperor of the Celestial Realm",
     "symbol": "C298E2236",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/c298e2236000b62554c13581b13668bd/c298e2236000b62554c13581b13668bd.jpg"
 }
