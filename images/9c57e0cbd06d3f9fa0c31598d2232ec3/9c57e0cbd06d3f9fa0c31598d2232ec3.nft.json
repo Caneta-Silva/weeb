@@ -1,11 +1,11 @@
 {
     "id": "9c57e0cbd06d3f9fa0c31598d2232ec3",
-    "title": "Futuristic Alien Medic in Studio Ghibli Style",
-    "description": "Create a landscape full body image of a futuristic alien medic in the style of Studio Ghibli",
-    "created": "2024-12-15 21:52:55.683077",
+    "title": "Futuristic Alien Medic: A Studio Ghibli Inspired Portrait",
+    "description": "Futuristic Alien Medic: A Studio Ghibli Inspired Portrait",
+    "created": "2024-12-16 18:40:17.518069",
     "prompt": {
         "prompt": "Create a landscape full body image of a futuristic alien medic in the style of Studio Ghibli",
-        "id": "0167358e0c013b848f8f07c744bbbe61",
+        "id": "9015699796eaac3fc35fa7247794b29c",
         "prompt_history": [
             "Create a landscape full body image of a futuristic alien medic in the style of Studio Ghibli"
         ],
@@ -13,18 +13,18 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:12.154024",
+        "seeded_at": "2024-12-15 20:49:12.159869",
         "seed_prompt": "Create a landscape full body image of a futuristic alien medic in the style of Studio Ghibli",
         "metadata": {
             "element": "medic",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "Martial landscape",
-            "animal": "giraffe",
+            "backdrop": "desert landscape",
+            "animal": "camel",
             "modifiers": {
                 "image": "full body",
                 "element": "futuristic alien",
-                "backdrop": "alien"
+                "backdrop": "futuristic alien"
             }
         },
         "template": {
@@ -41,15 +41,15 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Futuristic Alien Medic in Studio Ghibli Style"
+        "title": "Futuristic Alien Medic: A Studio Ghibli Inspired Portrait"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b643028005848.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b643324474129.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/9c57e0cbd06d3f9fa0c31598d2232ec3/9c57e0cbd06d3f9fa0c31598d2232ec3.jpg"
     },
     "tags": [],
     "model_version": "dreamshaper",
-    "name": "Futuristic Alien Medic in Studio Ghibli Style",
+    "name": "NebulaHealer",
     "symbol": "9C57E",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/9c57e0cbd06d3f9fa0c31598d2232ec3/9c57e0cbd06d3f9fa0c31598d2232ec3.jpg",
     "seller_fee_basis_points": 100,
