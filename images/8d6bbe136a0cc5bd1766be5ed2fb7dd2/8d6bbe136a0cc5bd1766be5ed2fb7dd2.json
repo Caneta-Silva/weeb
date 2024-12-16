@@ -2,10 +2,10 @@
     "id": "8d6bbe136a0cc5bd1766be5ed2fb7dd2",
     "title": "Futuristic Alien Shaman in Studio Ghibli Style",
     "description": "Create a landscape full body image of a futuristic alien shaman in the style of Studio Ghibli",
-    "created": "2024-12-16 14:19:25.633332",
+    "created": "2024-12-16 19:51:47.879756",
     "prompt": {
         "prompt": "Create a landscape full body image of a futuristic alien shaman in the style of Studio Ghibli",
-        "id": "394cdef58e3fe85eb9b64be50762f374",
+        "id": "5ca2adecc391777a56c06dfc6631949f",
         "prompt_history": [
             "Create a landscape full body image of a futuristic alien shaman in the style of Studio Ghibli"
         ],
@@ -13,18 +13,18 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:12.098339",
+        "seeded_at": "2024-12-15 20:49:12.101741",
         "seed_prompt": "Create a landscape full body image of a futuristic alien shaman in the style of Studio Ghibli",
         "metadata": {
             "element": "shaman",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "fortress",
-            "animal": "camel",
+            "backdrop": "forest",
+            "animal": "giraffe",
             "modifiers": {
                 "image": "full body",
                 "element": "futuristic alien",
-                "backdrop": "alien"
+                "backdrop": "futuristic alien"
             }
         },
         "template": {
@@ -44,7 +44,7 @@
         "title": "Futuristic Alien Shaman in Studio Ghibli Style"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b642299520515.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b643572332700.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/8d6bbe136a0cc5bd1766be5ed2fb7dd2/8d6bbe136a0cc5bd1766be5ed2fb7dd2.jpg"
     },
     "tags": [],
