@@ -1,0 +1,52 @@
+{
+    "id": "efa36871f190c28ffe12b1a89bb981b8",
+    "title": "Futuristic Alien Firefighter in a Ghibli-esque Landscape",
+    "description": "Create a landscape full body image of a futuristic alien firefighter in the style of Studio Ghibli",
+    "created": "2024-12-16 18:51:06.526077",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic alien firefighter in the style of Studio Ghibli",
+        "id": "22d548997321ff8ca86acfa6bd236781",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic alien firefighter in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-15 20:49:12.136165",
+        "seed_prompt": "Create a landscape full body image of a futuristic alien firefighter in the style of Studio Ghibli",
+        "metadata": {
+            "element": "firefighter",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "waterfall",
+            "animal": "rhino",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic alien",
+                "backdrop": "futuristic"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Futuristic Alien Firefighter in a Ghibli-esque Landscape"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b642344967989.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/efa36871f190c28ffe12b1a89bb981b8/efa36871f190c28ffe12b1a89bb981b8.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper"
+}
