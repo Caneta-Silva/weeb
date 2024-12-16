@@ -1,11 +1,11 @@
 {
     "id": "c298e2236000b62554c13581b13668bd",
-    "title": "The Alien Emperor's Ethereal Kingdom",
+    "title": "Alien Emperor in Studio Ghibli Style",
     "description": "Create a landscape full body image of a alien emperor in the style of Studio Ghibli",
-    "created": "2024-12-16 14:21:15.281185",
+    "created": "2024-12-16 14:26:14.172586",
     "prompt": {
         "prompt": "Create a landscape full body image of a alien emperor in the style of Studio Ghibli",
-        "id": "ba7e622b25d46bbc8a5b834a0a0346fd",
+        "id": "ef5c30bea4a879bb82b91bf23156a006",
         "prompt_history": [
             "Create a landscape full body image of a alien emperor in the style of Studio Ghibli"
         ],
@@ -13,18 +13,18 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:11.961501",
+        "seeded_at": "2024-12-15 20:49:11.950185",
         "seed_prompt": "Create a landscape full body image of a alien emperor in the style of Studio Ghibli",
         "metadata": {
             "element": "emperor",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "fortress",
-            "animal": "rhino",
+            "backdrop": "desert landscape",
+            "animal": "horse",
             "modifiers": {
                 "image": "full body",
                 "element": "alien",
-                "backdrop": "alien"
+                "backdrop": "futuristic"
             }
         },
         "template": {
@@ -41,15 +41,15 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "The Alien Emperor's Ethereal Kingdom"
+        "title": "Alien Emperor in Studio Ghibli Style"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b643243520613.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b643888016405.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/c298e2236000b62554c13581b13668bd/c298e2236000b62554c13581b13668bd.jpg"
     },
     "tags": [],
     "model_version": "dreamshaper",
-    "name": "Zorlun, Emperor of the Celestial Realm",
+    "name": "Galaxorah, the Cosmic Monarch",
     "symbol": "C298E2236",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/c298e2236000b62554c13581b13668bd/c298e2236000b62554c13581b13668bd.jpg"
 }
