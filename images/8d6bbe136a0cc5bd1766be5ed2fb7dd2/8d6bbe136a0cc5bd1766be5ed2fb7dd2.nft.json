@@ -1,11 +1,11 @@
 {
     "id": "8d6bbe136a0cc5bd1766be5ed2fb7dd2",
-    "title": "Futuristic Alien Shaman in the Style of Studio Ghibli",
-    "description": "Futuristic Alien Shaman in the Style of Studio Ghibli",
-    "created": "2024-12-16 09:55:46.092876",
+    "title": "Futuristic Alien Shaman in Studio Ghibli Style",
+    "description": "Futuristic Alien Shaman in Studio Ghibli Style",
+    "created": "2024-12-16 14:19:25.633332",
     "prompt": {
         "prompt": "Create a landscape full body image of a futuristic alien shaman in the style of Studio Ghibli",
-        "id": "832d95c1aba1be191cd5567ae8315278",
+        "id": "394cdef58e3fe85eb9b64be50762f374",
         "prompt_history": [
             "Create a landscape full body image of a futuristic alien shaman in the style of Studio Ghibli"
         ],
@@ -13,14 +13,14 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:12.098168",
+        "seeded_at": "2024-12-15 20:49:12.098339",
         "seed_prompt": "Create a landscape full body image of a futuristic alien shaman in the style of Studio Ghibli",
         "metadata": {
             "element": "shaman",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
             "backdrop": "fortress",
-            "animal": "deer",
+            "animal": "camel",
             "modifiers": {
                 "image": "full body",
                 "element": "futuristic alien",
@@ -41,15 +41,15 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Futuristic Alien Shaman in the Style of Studio Ghibli"
+        "title": "Futuristic Alien Shaman in Studio Ghibli Style"
     },
     "urls": {
-        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-jGBv5ctPydHJRx2EXOCK2Rfo.png?st=2024-12-16T08%3A55%3A39Z&se=2024-12-16T10%3A55%3A39Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-16T09%3A34%3A24Z&ske=2024-12-17T09%3A34%3A24Z&sks=b&skv=2024-08-04&sig=BBrcxDSpDPGlIx/cmfIqz3RcQVQrK12LB0YvGB/XE1Y%3D",
+        "openai": "http://192.168.1.85:8081/generated-images/b642299520515.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/8d6bbe136a0cc5bd1766be5ed2fb7dd2/8d6bbe136a0cc5bd1766be5ed2fb7dd2.jpg"
     },
     "tags": [],
-    "model_version": "dall-e-2",
-    "name": "Xenoshine",
+    "model_version": "dreamshaper",
+    "name": null,
     "symbol": "8D6BB",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/8d6bbe136a0cc5bd1766be5ed2fb7dd2/8d6bbe136a0cc5bd1766be5ed2fb7dd2.jpg",
     "seller_fee_basis_points": 100,
