@@ -1,31 +1,31 @@
 [
     {
-        "id": "2692d5d19ec6b47f5ee135f3261135d0",
-        "title": "Alien Paladin in the Style of Studio Ghibli",
-        "description": "Create a landscape full body image of a alien paladin style military in the style of Studio Ghibli",
-        "created": "2024-12-15 21:17:33.644995",
+        "id": "f49a4869b1ea0c3e1007278dfdcf568f",
+        "title": "Futuristic Desert Tribe Warrior in Studio Ghibli Style",
+        "description": "Create a landscape full body image of a futuristic desert tribe warrior in the style of Studio Ghibli",
+        "created": "2024-12-15 22:04:54.977939",
         "prompt": {
-            "prompt": "Create a landscape full body image of a alien paladin style military in the style of Studio Ghibli",
-            "id": "3ba8736105981be7a9f71461373f4a0d",
+            "prompt": "Create a landscape full body image of a futuristic desert tribe warrior in the style of Studio Ghibli",
+            "id": "428c05948bda35216929d6ee9072d762",
             "prompt_history": [
-                "Create a landscape full body image of a alien paladin style military in the style of Studio Ghibli"
+                "Create a landscape full body image of a futuristic desert tribe warrior in the style of Studio Ghibli"
             ],
             "revised_at": null,
             "revised_prompt": false,
             "enhanced_at": null,
             "enhanced_prompt": false,
-            "seeded_at": "2024-12-15 20:49:11.871635",
-            "seed_prompt": "Create a landscape full body image of a alien paladin style military in the style of Studio Ghibli",
+            "seeded_at": "2024-12-15 20:49:11.725870",
+            "seed_prompt": "Create a landscape full body image of a futuristic desert tribe warrior in the style of Studio Ghibli",
             "metadata": {
-                "element": "paladin style military",
+                "element": "desert tribe warrior",
                 "style": "Studio Ghibli",
                 "aspect_ratio": "landscape",
-                "backdrop": "spaceship",
+                "backdrop": "desert landscape",
                 "animal": "elephant",
                 "modifiers": {
                     "image": "full body",
-                    "element": "alien",
-                    "backdrop": "futuristic alien"
+                    "element": "futuristic",
+                    "backdrop": "futuristic"
                 }
             },
             "template": {
@@ -42,17 +42,202 @@
                 "name": "Standard",
                 "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
             },
-            "title": "Alien Paladin in the Style of Studio Ghibli"
+            "title": "Futuristic Desert Tribe Warrior in Studio Ghibli Style"
         },
         "urls": {
-            "openai": "http://192.168.1.85:8081/generated-images/b641328104573.png",
-            "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/2692d5d19ec6b47f5ee135f3261135d0/2692d5d19ec6b47f5ee135f3261135d0.jpg"
+            "openai": "http://192.168.1.85:8081/generated-images/b643279391278.png",
+            "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/f49a4869b1ea0c3e1007278dfdcf568f/f49a4869b1ea0c3e1007278dfdcf568f.jpg"
         },
         "tags": [],
         "model_version": "dreamshaper",
-        "name": "Galactic Defender",
-        "symbol": "2692D5D19",
-        "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/2692d5d19ec6b47f5ee135f3261135d0/2692d5d19ec6b47f5ee135f3261135d0.jpg"
+        "name": "Sandstorm Nomad",
+        "symbol": "F49A4869B",
+        "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/f49a4869b1ea0c3e1007278dfdcf568f/f49a4869b1ea0c3e1007278dfdcf568f.jpg"
+    },
+    {
+        "id": "b8f7563acbc523f0d3eef10f87c671c1",
+        "title": "The Mystical Warrior of the Alien Tribe",
+        "description": "Create a landscape full body image of a futuristic alien tribe warrior in the style of Studio Ghibli",
+        "created": "2024-12-16 20:11:26.020438",
+        "prompt": {
+            "prompt": "Create a landscape full body image of a futuristic alien tribe warrior in the style of Studio Ghibli",
+            "id": "9819635d86b1988ecb6cfba0529af991",
+            "prompt_history": [
+                "Create a landscape full body image of a futuristic alien tribe warrior in the style of Studio Ghibli"
+            ],
+            "revised_at": null,
+            "revised_prompt": false,
+            "enhanced_at": null,
+            "enhanced_prompt": false,
+            "seeded_at": "2024-12-15 20:49:12.066683",
+            "seed_prompt": "Create a landscape full body image of a futuristic alien tribe warrior in the style of Studio Ghibli",
+            "metadata": {
+                "element": "tribe warrior",
+                "style": "Studio Ghibli",
+                "aspect_ratio": "landscape",
+                "backdrop": "forest",
+                "animal": "elephant",
+                "modifiers": {
+                    "image": "full body",
+                    "element": "futuristic alien",
+                    "backdrop": "alien"
+                }
+            },
+            "template": {
+                "style": true,
+                "aspect_ratio": true,
+                "element": true,
+                "backdrop": false,
+                "modifiers": {
+                    "image": true,
+                    "element": false,
+                    "backdrop": false
+                },
+                "animal": false,
+                "name": "Standard",
+                "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+            },
+            "title": "The Mystical Warrior of the Alien Tribe"
+        },
+        "urls": {
+            "openai": "http://192.168.1.85:8081/generated-images/b641393525482.png",
+            "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/b8f7563acbc523f0d3eef10f87c671c1/b8f7563acbc523f0d3eef10f87c671c1.jpg"
+        },
+        "tags": [],
+        "model_version": "dreamshaper",
+        "name": "Sakuro the Lumina Warrior",
+        "symbol": "B8F7563AC",
+        "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/b8f7563acbc523f0d3eef10f87c671c1/b8f7563acbc523f0d3eef10f87c671c1.jpg"
+    },
+    {
+        "id": "415569b922fd56a71354d7655dd33718",
+        "title": "Desert Warrior of the Alien Tribe",
+        "description": "Create a landscape full body image of a alien desert tribe warrior in the style of Studio Ghibli",
+        "created": "2024-12-16 20:20:52.814043",
+        "prompt": {
+            "prompt": "Create a landscape full body image of a alien desert tribe warrior in the style of Studio Ghibli",
+            "id": "020f4f47ac50eebc9103227562f1ff6d",
+            "prompt_history": [
+                "Create a landscape full body image of a alien desert tribe warrior in the style of Studio Ghibli"
+            ],
+            "revised_at": null,
+            "revised_prompt": false,
+            "enhanced_at": null,
+            "enhanced_prompt": false,
+            "seeded_at": "2024-12-15 20:49:11.897349",
+            "seed_prompt": "Create a landscape full body image of a alien desert tribe warrior in the style of Studio Ghibli",
+            "metadata": {
+                "element": "desert tribe warrior",
+                "style": "Studio Ghibli",
+                "aspect_ratio": "landscape",
+                "backdrop": "spaceship",
+                "animal": "deer",
+                "modifiers": {
+                    "image": "full body",
+                    "element": "alien",
+                    "backdrop": "alien"
+                }
+            },
+            "template": {
+                "style": true,
+                "aspect_ratio": true,
+                "element": true,
+                "backdrop": false,
+                "modifiers": {
+                    "image": true,
+                    "element": false,
+                    "backdrop": false
+                },
+                "animal": false,
+                "name": "Standard",
+                "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+            },
+            "title": "Desert Warrior of the Alien Tribe"
+        },
+        "urls": {
+            "openai": "http://192.168.1.85:8081/generated-images/b642042801539.png",
+            "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/415569b922fd56a71354d7655dd33718/415569b922fd56a71354d7655dd33718.jpg"
+        },
+        "tags": [],
+        "model_version": "dreamshaper"
+    },
+    {
+        "id": "1c080de39d85244f7fa628b9bc42d9f3",
+        "title": "Futuristic Alien Police Officer in Studio Ghibli Style Landscape",
+        "description": "Futuristic Alien Police Officer in Studio Ghibli Style Landscape",
+        "created": "2024-12-16 20:04:03.754191",
+        "prompt": {
+            "prompt": "Create a landscape full body image of a futuristic alien police in the style of Studio Ghibli",
+            "id": "a2f6d6bf80f2c35c2623114d3b65c4fa",
+            "prompt_history": [
+                "Create a landscape full body image of a futuristic alien police in the style of Studio Ghibli"
+            ],
+            "revised_at": null,
+            "revised_prompt": false,
+            "enhanced_at": null,
+            "enhanced_prompt": false,
+            "seeded_at": "2024-12-15 20:49:12.124165",
+            "seed_prompt": "Create a landscape full body image of a futuristic alien police in the style of Studio Ghibli",
+            "metadata": {
+                "element": "police",
+                "style": "Studio Ghibli",
+                "aspect_ratio": "landscape",
+                "backdrop": "Martial landscape",
+                "animal": "gnu",
+                "modifiers": {
+                    "image": "full body",
+                    "element": "futuristic alien",
+                    "backdrop": "alien"
+                }
+            },
+            "template": {
+                "style": true,
+                "aspect_ratio": true,
+                "element": true,
+                "backdrop": false,
+                "modifiers": {
+                    "image": true,
+                    "element": false,
+                    "backdrop": false
+                },
+                "animal": false,
+                "name": "Standard",
+                "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+            },
+            "title": "Futuristic Alien Police Officer in Studio Ghibli Style Landscape"
+        },
+        "urls": {
+            "openai": "http://192.168.1.85:8081/generated-images/b643257797238.png",
+            "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/1c080de39d85244f7fa628b9bc42d9f3/1c080de39d85244f7fa628b9bc42d9f3.jpg"
+        },
+        "tags": [],
+        "model_version": "dreamshaper",
+        "name": "GhibliCop",
+        "symbol": "1C080",
+        "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/1c080de39d85244f7fa628b9bc42d9f3/1c080de39d85244f7fa628b9bc42d9f3.jpg",
+        "seller_fee_basis_points": 100,
+        "external_url": null,
+        "attributes": {},
+        "collection": {
+            "name": "weeb",
+            "family": "Caneta-Silva"
+        },
+        "properties": {
+            "files": [
+                {
+                    "uri": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/1c080de39d85244f7fa628b9bc42d9f3/1c080de39d85244f7fa628b9bc42d9f3.jpg",
+                    "type": "image/jpg"
+                }
+            ],
+            "category": "image",
+            "maxSupply": 0,
+            "creators": [
+                {
+                    "address": "CXretoxLBQDmFwDbf4qJYVX49UaA4PPMy3pCtfm2yzVH",
+                    "share": 100
+                }
+            ]
+        }
     },
     {
         "id": "9c57e0cbd06d3f9fa0c31598d2232ec3",
@@ -133,100 +318,22 @@
         }
     },
     {
-        "id": "ae41bafc14b4099a860f5590df3aac48",
-        "title": "Cosmic Healer: An Alien Medic's Journey",
-        "description": "Cosmic Healer: An Alien Medic's Journey",
-        "created": "2024-12-16 18:39:10.027965",
+        "id": "e46ea160cb294451411f238a112f5c62",
+        "title": "Futuristic Paladin Military in Ghibli Style",
+        "description": "Create a landscape full body image of a futuristic paladin style military in the style of Studio Ghibli",
+        "created": "2024-12-16 20:08:16.316656",
         "prompt": {
-            "prompt": "Create a landscape full body image of a alien medic in the style of Studio Ghibli",
-            "id": "7138cfa21def640b0e5823ccbdb9b1e3",
+            "prompt": "Create a landscape full body image of a futuristic paladin style military in the style of Studio Ghibli",
+            "id": "5de66c7df550f94b3651780ddaf772b5",
             "prompt_history": [
-                "Create a landscape full body image of a alien medic in the style of Studio Ghibli"
+                "Create a landscape full body image of a futuristic paladin style military in the style of Studio Ghibli"
             ],
             "revised_at": null,
             "revised_prompt": false,
             "enhanced_at": null,
             "enhanced_prompt": false,
-            "seeded_at": "2024-12-15 20:49:12.011035",
-            "seed_prompt": "Create a landscape full body image of a alien medic in the style of Studio Ghibli",
-            "metadata": {
-                "element": "medic",
-                "style": "Studio Ghibli",
-                "aspect_ratio": "landscape",
-                "backdrop": "tropical forest",
-                "animal": "giraffe",
-                "modifiers": {
-                    "image": "full body",
-                    "element": "alien",
-                    "backdrop": "futuristic alien"
-                }
-            },
-            "template": {
-                "style": true,
-                "aspect_ratio": true,
-                "element": true,
-                "backdrop": false,
-                "modifiers": {
-                    "image": true,
-                    "element": false,
-                    "backdrop": false
-                },
-                "animal": false,
-                "name": "Standard",
-                "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
-            },
-            "title": "Cosmic Healer: An Alien Medic's Journey"
-        },
-        "urls": {
-            "openai": "http://192.168.1.85:8081/generated-images/b64605341979.png",
-            "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/ae41bafc14b4099a860f5590df3aac48/ae41bafc14b4099a860f5590df3aac48.jpg"
-        },
-        "tags": [],
-        "model_version": "dreamshaper",
-        "name": "AlienHeal-GhibliStyle",
-        "symbol": "AE41B",
-        "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/ae41bafc14b4099a860f5590df3aac48/ae41bafc14b4099a860f5590df3aac48.jpg",
-        "seller_fee_basis_points": 100,
-        "external_url": null,
-        "attributes": {},
-        "collection": {
-            "name": "weeb",
-            "family": "Caneta-Silva"
-        },
-        "properties": {
-            "files": [
-                {
-                    "uri": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/ae41bafc14b4099a860f5590df3aac48/ae41bafc14b4099a860f5590df3aac48.jpg",
-                    "type": "image/jpg"
-                }
-            ],
-            "category": "image",
-            "maxSupply": 0,
-            "creators": [
-                {
-                    "address": "CXretoxLBQDmFwDbf4qJYVX49UaA4PPMy3pCtfm2yzVH",
-                    "share": 100
-                }
-            ]
-        }
-    },
-    {
-        "id": "140aaf711fce6bfb4ed0207323299d9d",
-        "title": "Futuristic Alien Paladin: A Studio Ghibli-Inspired Masterpiece",
-        "description": "Create a landscape full body image of a futuristic alien paladin style military in the style of Studio Ghibli",
-        "created": "2024-12-16 18:41:26.543428",
-        "prompt": {
-            "prompt": "Create a landscape full body image of a futuristic alien paladin style military in the style of Studio Ghibli",
-            "id": "bda1a7d912cd3fb8ff0a9aee6fd6fa00",
-            "prompt_history": [
-                "Create a landscape full body image of a futuristic alien paladin style military in the style of Studio Ghibli"
-            ],
-            "revised_at": null,
-            "revised_prompt": false,
-            "enhanced_at": null,
-            "enhanced_prompt": false,
-            "seeded_at": "2024-12-15 20:49:12.022262",
-            "seed_prompt": "Create a landscape full body image of a futuristic alien paladin style military in the style of Studio Ghibli",
+            "seeded_at": "2024-12-15 20:49:11.708541",
+            "seed_prompt": "Create a landscape full body image of a futuristic paladin style military in the style of Studio Ghibli",
             "metadata": {
                 "element": "paladin style military",
                 "style": "Studio Ghibli",
@@ -235,59 +342,7 @@
                 "animal": "gnu",
                 "modifiers": {
                     "image": "full body",
-                    "element": "futuristic alien",
-                    "backdrop": "alien"
-                }
-            },
-            "template": {
-                "style": true,
-                "aspect_ratio": true,
-                "element": true,
-                "backdrop": false,
-                "modifiers": {
-                    "image": true,
-                    "element": false,
-                    "backdrop": false
-                },
-                "animal": false,
-                "name": "Standard",
-                "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
-            },
-            "title": "Futuristic Alien Paladin: A Studio Ghibli-Inspired Masterpiece"
-        },
-        "urls": {
-            "openai": "http://192.168.1.85:8081/generated-images/b643472691688.png",
-            "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/140aaf711fce6bfb4ed0207323299d9d/140aaf711fce6bfb4ed0207323299d9d.jpg"
-        },
-        "tags": [],
-        "model_version": "dreamshaper"
-    },
-    {
-        "id": "b8f7563acbc523f0d3eef10f87c671c1",
-        "title": "Futuristic Alien Tribe Warrior of the Great Forest",
-        "description": "Create a landscape full body image of a futuristic alien tribe warrior in the style of Studio Ghibli",
-        "created": "2024-12-16 18:47:13.588667",
-        "prompt": {
-            "prompt": "Create a landscape full body image of a futuristic alien tribe warrior in the style of Studio Ghibli",
-            "id": "cf9509a07ddd2759a1d6b1589676960f",
-            "prompt_history": [
-                "Create a landscape full body image of a futuristic alien tribe warrior in the style of Studio Ghibli"
-            ],
-            "revised_at": null,
-            "revised_prompt": false,
-            "enhanced_at": null,
-            "enhanced_prompt": false,
-            "seeded_at": "2024-12-15 20:49:12.071741",
-            "seed_prompt": "Create a landscape full body image of a futuristic alien tribe warrior in the style of Studio Ghibli",
-            "metadata": {
-                "element": "tribe warrior",
-                "style": "Studio Ghibli",
-                "aspect_ratio": "landscape",
-                "backdrop": "forest",
-                "animal": "deer",
-                "modifiers": {
-                    "image": "full body",
-                    "element": "futuristic alien",
+                    "element": "futuristic",
                     "backdrop": "futuristic alien"
                 }
             },
@@ -305,26 +360,26 @@
                 "name": "Standard",
                 "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
             },
-            "title": "Futuristic Alien Tribe Warrior of the Great Forest"
+            "title": "Futuristic Paladin Military in Ghibli Style"
         },
         "urls": {
-            "openai": "http://192.168.1.85:8081/generated-images/b643594126759.png",
-            "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/b8f7563acbc523f0d3eef10f87c671c1/b8f7563acbc523f0d3eef10f87c671c1.jpg"
+            "openai": "http://192.168.1.85:8081/generated-images/b64153317516.png",
+            "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/e46ea160cb294451411f238a112f5c62/e46ea160cb294451411f238a112f5c62.jpg"
         },
         "tags": [],
         "model_version": "dreamshaper",
-        "name": "Kazuko, the Etherian Warrior",
-        "symbol": "B8F7563AC",
-        "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/b8f7563acbc523f0d3eef10f87c671c1/b8f7563acbc523f0d3eef10f87c671c1.jpg"
+        "name": "Aetherian Guardian",
+        "symbol": "E46EA160C",
+        "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/e46ea160cb294451411f238a112f5c62/e46ea160cb294451411f238a112f5c62.jpg"
     },
     {
         "id": "d9f8b2f0cedbd9e16b4d597f289c6327",
-        "title": "Futuristic Medic in Studio Ghibli Style",
+        "title": "Futuristic Medic in Ghibli Style",
         "description": "Create a landscape full body image of a futuristic medic in the style of Studio Ghibli",
-        "created": "2024-12-16 18:42:54.810512",
+        "created": "2024-12-16 20:18:31.091247",
         "prompt": {
             "prompt": "Create a landscape full body image of a futuristic medic in the style of Studio Ghibli",
-            "id": "207d68dddef76b082e410abcc4d4aa0c",
+            "id": "ad0cb5010c177c52135205d3551693ba",
             "prompt_history": [
                 "Create a landscape full body image of a futuristic medic in the style of Studio Ghibli"
             ],
@@ -332,14 +387,14 @@
             "revised_prompt": false,
             "enhanced_at": null,
             "enhanced_prompt": false,
-            "seeded_at": "2024-12-15 20:49:11.855715",
+            "seeded_at": "2024-12-15 20:49:11.852634",
             "seed_prompt": "Create a landscape full body image of a futuristic medic in the style of Studio Ghibli",
             "metadata": {
                 "element": "medic",
                 "style": "Studio Ghibli",
                 "aspect_ratio": "landscape",
-                "backdrop": "forest",
-                "animal": "horse",
+                "backdrop": "Martial landscape",
+                "animal": "deer",
                 "modifiers": {
                     "image": "full body",
                     "element": "futuristic",
@@ -360,156 +415,23 @@
                 "name": "Standard",
                 "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
             },
-            "title": "Futuristic Medic in Studio Ghibli Style"
+            "title": "Futuristic Medic in Ghibli Style"
         },
         "urls": {
-            "openai": "http://192.168.1.85:8081/generated-images/b64961680476.png",
+            "openai": "http://192.168.1.85:8081/generated-images/b642057179416.png",
             "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/d9f8b2f0cedbd9e16b4d597f289c6327/d9f8b2f0cedbd9e16b4d597f289c6327.jpg"
-        },
-        "tags": [],
-        "model_version": "dreamshaper",
-        "name": "Aria Healing",
-        "symbol": "D9F8B2F0C",
-        "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/d9f8b2f0cedbd9e16b4d597f289c6327/d9f8b2f0cedbd9e16b4d597f289c6327.jpg"
-    },
-    {
-        "id": "bbe1f1e4f1bbc798b833b419a9eca3a0",
-        "title": "Futuristic Riot Police Robot in Studio Ghibli Style",
-        "description": "Futuristic Riot Police Robot in Studio Ghibli Style",
-        "created": "2024-12-16 18:48:55.495159",
-        "prompt": {
-            "prompt": "Create a landscape full body image of a futuristic riot police robot in the style of Studio Ghibli",
-            "id": "61d9f0cb8dfcd93c7199121dda0a6cf9",
-            "prompt_history": [
-                "Create a landscape full body image of a futuristic riot police robot in the style of Studio Ghibli"
-            ],
-            "revised_at": null,
-            "revised_prompt": false,
-            "enhanced_at": null,
-            "enhanced_prompt": false,
-            "seeded_at": "2024-12-15 20:49:11.721625",
-            "seed_prompt": "Create a landscape full body image of a futuristic riot police robot in the style of Studio Ghibli",
-            "metadata": {
-                "element": "riot police robot",
-                "style": "Studio Ghibli",
-                "aspect_ratio": "landscape",
-                "backdrop": "desert",
-                "animal": "camel",
-                "modifiers": {
-                    "image": "full body",
-                    "element": "futuristic",
-                    "backdrop": "futuristic alien"
-                }
-            },
-            "template": {
-                "style": true,
-                "aspect_ratio": true,
-                "element": true,
-                "backdrop": false,
-                "modifiers": {
-                    "image": true,
-                    "element": false,
-                    "backdrop": false
-                },
-                "animal": false,
-                "name": "Standard",
-                "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
-            },
-            "title": "Futuristic Riot Police Robot in Studio Ghibli Style"
-        },
-        "urls": {
-            "openai": "http://192.168.1.85:8081/generated-images/b642918420562.png",
-            "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/bbe1f1e4f1bbc798b833b419a9eca3a0/bbe1f1e4f1bbc798b833b419a9eca3a0.jpg"
-        },
-        "tags": [],
-        "model_version": "dreamshaper",
-        "name": "GhibliGuardian",
-        "symbol": "BBE1F",
-        "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/bbe1f1e4f1bbc798b833b419a9eca3a0/bbe1f1e4f1bbc798b833b419a9eca3a0.jpg",
-        "seller_fee_basis_points": 100,
-        "external_url": null,
-        "attributes": {},
-        "collection": {
-            "name": "weeb",
-            "family": "Caneta-Silva"
-        },
-        "properties": {
-            "files": [
-                {
-                    "uri": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/bbe1f1e4f1bbc798b833b419a9eca3a0/bbe1f1e4f1bbc798b833b419a9eca3a0.jpg",
-                    "type": "image/jpg"
-                }
-            ],
-            "category": "image",
-            "maxSupply": 0,
-            "creators": [
-                {
-                    "address": "CXretoxLBQDmFwDbf4qJYVX49UaA4PPMy3pCtfm2yzVH",
-                    "share": 100
-                }
-            ]
-        }
-    },
-    {
-        "id": "006e64737e0cc3ba620118495f38f953",
-        "title": "Futuristic Alien Tribe Chief in Studio Ghibli Style",
-        "description": "Create a landscape full body image of a futuristic alien tribe chief in the style of Studio Ghibli",
-        "created": "2024-12-16 14:23:38.573786",
-        "prompt": {
-            "prompt": "Create a landscape full body image of a futuristic alien tribe chief in the style of Studio Ghibli",
-            "id": "7717b38f64c5999062503d0cc37e9428",
-            "prompt_history": [
-                "Create a landscape full body image of a futuristic alien tribe chief in the style of Studio Ghibli"
-            ],
-            "revised_at": null,
-            "revised_prompt": false,
-            "enhanced_at": null,
-            "enhanced_prompt": false,
-            "seeded_at": "2024-12-15 20:49:12.085343",
-            "seed_prompt": "Create a landscape full body image of a futuristic alien tribe chief in the style of Studio Ghibli",
-            "metadata": {
-                "element": "tribe chief",
-                "style": "Studio Ghibli",
-                "aspect_ratio": "landscape",
-                "backdrop": "desert",
-                "animal": "camel",
-                "modifiers": {
-                    "image": "full body",
-                    "element": "futuristic alien",
-                    "backdrop": "futuristic alien"
-                }
-            },
-            "template": {
-                "style": true,
-                "aspect_ratio": true,
-                "element": true,
-                "backdrop": false,
-                "modifiers": {
-                    "image": true,
-                    "element": false,
-                    "backdrop": false
-                },
-                "animal": false,
-                "name": "Standard",
-                "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
-            },
-            "title": "Futuristic Alien Tribe Chief in Studio Ghibli Style"
-        },
-        "urls": {
-            "openai": "http://192.168.1.85:8081/generated-images/b643676450115.png",
-            "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/006e64737e0cc3ba620118495f38f953/006e64737e0cc3ba620118495f38f953.jpg"
         },
         "tags": [],
         "model_version": "dreamshaper"
     },
     {
         "id": "910654802183cd09c63bc714ed0dbeb5",
-        "title": "Galactic Sentinel: Alien Riot Police Robot",
-        "description": "Galactic Sentinel: Alien Riot Police Robot",
-        "created": "2024-12-16 14:15:53.378279",
+        "title": "Galactic Guardian: A Studio Ghibli-Inspired Alien Riot Police Robot",
+        "description": "Galactic Guardian: A Studio Ghibli-Inspired Alien Riot Police Robot",
+        "created": "2024-12-16 20:22:52.609612",
         "prompt": {
             "prompt": "Create a landscape full body image of a alien riot police robot in the style of Studio Ghibli",
-            "id": "7ab93f85874f9da6fef339fd3573e4df",
+            "id": "f305e7e6c9e79bd6fe85adf2c646e88b",
             "prompt_history": [
                 "Create a landscape full body image of a alien riot police robot in the style of Studio Ghibli"
             ],
@@ -517,14 +439,14 @@
             "revised_prompt": false,
             "enhanced_at": null,
             "enhanced_prompt": false,
-            "seeded_at": "2024-12-15 20:49:11.877872",
+            "seeded_at": "2024-12-15 20:49:11.876861",
             "seed_prompt": "Create a landscape full body image of a alien riot police robot in the style of Studio Ghibli",
             "metadata": {
                 "element": "riot police robot",
                 "style": "Studio Ghibli",
                 "aspect_ratio": "landscape",
-                "backdrop": "fortress",
-                "animal": "rhino",
+                "backdrop": "spaceship",
+                "animal": "giraffe",
                 "modifiers": {
                     "image": "full body",
                     "element": "alien",
@@ -545,15 +467,15 @@
                 "name": "Standard",
                 "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
             },
-            "title": "Galactic Sentinel: Alien Riot Police Robot"
+            "title": "Galactic Guardian: A Studio Ghibli-Inspired Alien Riot Police Robot"
         },
         "urls": {
-            "openai": "http://192.168.1.85:8081/generated-images/b644069663745.png",
+            "openai": "http://192.168.1.85:8081/generated-images/b64342241135.png",
             "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/910654802183cd09c63bc714ed0dbeb5/910654802183cd09c63bc714ed0dbeb5.jpg"
         },
         "tags": [],
         "model_version": "dreamshaper",
-        "name": null,
+        "name": "RiotBot-GhibliLndscp",
         "symbol": "91065",
         "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/910654802183cd09c63bc714ed0dbeb5/910654802183cd09c63bc714ed0dbeb5.jpg",
         "seller_fee_basis_points": 100,
@@ -583,7 +505,7 @@
     {
         "id": "9d4e8cfc6750ee90e8224f933f6631c3",
         "title": "Wanderer of Tomorrow: The Futuristic Emperor",
-        "description": "Wanderer of Tomorrow: The Futuristic Emperor",
+        "description": "Create a landscape full body image of a futuristic emperor in the style of Studio Ghibli",
         "created": "2024-12-16 14:21:02.891499",
         "prompt": {
             "prompt": "Create a landscape full body image of a futuristic emperor in the style of Studio Ghibli",
@@ -628,399 +550,6 @@
         "urls": {
             "openai": "http://192.168.1.85:8081/generated-images/b643343043328.png",
             "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/9d4e8cfc6750ee90e8224f933f6631c3/9d4e8cfc6750ee90e8224f933f6631c3.jpg"
-        },
-        "tags": [],
-        "model_version": "dreamshaper",
-        "name": null,
-        "symbol": "9D4E8",
-        "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/9d4e8cfc6750ee90e8224f933f6631c3/9d4e8cfc6750ee90e8224f933f6631c3.jpg",
-        "seller_fee_basis_points": 100,
-        "external_url": null,
-        "attributes": {},
-        "collection": {
-            "name": "weeb",
-            "family": "Caneta-Silva"
-        },
-        "properties": {
-            "files": [
-                {
-                    "uri": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/9d4e8cfc6750ee90e8224f933f6631c3/9d4e8cfc6750ee90e8224f933f6631c3.jpg",
-                    "type": "image/jpg"
-                }
-            ],
-            "category": "image",
-            "maxSupply": 0,
-            "creators": [
-                {
-                    "address": "CXretoxLBQDmFwDbf4qJYVX49UaA4PPMy3pCtfm2yzVH",
-                    "share": 100
-                }
-            ]
-        }
-    },
-    {
-        "id": "8d6bbe136a0cc5bd1766be5ed2fb7dd2",
-        "title": "Futuristic Alien Shaman in Studio Ghibli Style",
-        "description": "Futuristic Alien Shaman in Studio Ghibli Style",
-        "created": "2024-12-16 14:19:25.633332",
-        "prompt": {
-            "prompt": "Create a landscape full body image of a futuristic alien shaman in the style of Studio Ghibli",
-            "id": "394cdef58e3fe85eb9b64be50762f374",
-            "prompt_history": [
-                "Create a landscape full body image of a futuristic alien shaman in the style of Studio Ghibli"
-            ],
-            "revised_at": null,
-            "revised_prompt": false,
-            "enhanced_at": null,
-            "enhanced_prompt": false,
-            "seeded_at": "2024-12-15 20:49:12.098339",
-            "seed_prompt": "Create a landscape full body image of a futuristic alien shaman in the style of Studio Ghibli",
-            "metadata": {
-                "element": "shaman",
-                "style": "Studio Ghibli",
-                "aspect_ratio": "landscape",
-                "backdrop": "fortress",
-                "animal": "camel",
-                "modifiers": {
-                    "image": "full body",
-                    "element": "futuristic alien",
-                    "backdrop": "alien"
-                }
-            },
-            "template": {
-                "style": true,
-                "aspect_ratio": true,
-                "element": true,
-                "backdrop": false,
-                "modifiers": {
-                    "image": true,
-                    "element": false,
-                    "backdrop": false
-                },
-                "animal": false,
-                "name": "Standard",
-                "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
-            },
-            "title": "Futuristic Alien Shaman in Studio Ghibli Style"
-        },
-        "urls": {
-            "openai": "http://192.168.1.85:8081/generated-images/b642299520515.png",
-            "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/8d6bbe136a0cc5bd1766be5ed2fb7dd2/8d6bbe136a0cc5bd1766be5ed2fb7dd2.jpg"
-        },
-        "tags": [],
-        "model_version": "dreamshaper",
-        "name": null,
-        "symbol": "8D6BB",
-        "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/8d6bbe136a0cc5bd1766be5ed2fb7dd2/8d6bbe136a0cc5bd1766be5ed2fb7dd2.jpg",
-        "seller_fee_basis_points": 100,
-        "external_url": null,
-        "attributes": {},
-        "collection": {
-            "name": "weeb",
-            "family": "Caneta-Silva"
-        },
-        "properties": {
-            "files": [
-                {
-                    "uri": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/8d6bbe136a0cc5bd1766be5ed2fb7dd2/8d6bbe136a0cc5bd1766be5ed2fb7dd2.jpg",
-                    "type": "image/jpg"
-                }
-            ],
-            "category": "image",
-            "maxSupply": 0,
-            "creators": [
-                {
-                    "address": "CXretoxLBQDmFwDbf4qJYVX49UaA4PPMy3pCtfm2yzVH",
-                    "share": 100
-                }
-            ]
-        }
-    },
-    {
-        "id": "5352413d4b455a76259826cb404c1930",
-        "title": "Futuristic Firefighter in Studio Ghibli Style",
-        "description": "Create a landscape full body image of a futuristic firefighter in the style of Studio Ghibli",
-        "created": "2024-12-16 14:00:46.286847",
-        "prompt": {
-            "prompt": "Create a landscape full body image of a futuristic firefighter in the style of Studio Ghibli",
-            "id": "c823112dce17cf36ff4265b7bf3b67da",
-            "prompt_history": [
-                "Create a landscape full body image of a futuristic firefighter in the style of Studio Ghibli"
-            ],
-            "revised_at": null,
-            "revised_prompt": false,
-            "enhanced_at": null,
-            "enhanced_prompt": false,
-            "seeded_at": "2024-12-15 20:49:11.830060",
-            "seed_prompt": "Create a landscape full body image of a futuristic firefighter in the style of Studio Ghibli",
-            "metadata": {
-                "element": "firefighter",
-                "style": "Studio Ghibli",
-                "aspect_ratio": "landscape",
-                "backdrop": "waterfall",
-                "animal": "gnu",
-                "modifiers": {
-                    "image": "full body",
-                    "element": "futuristic",
-                    "backdrop": "alien"
-                }
-            },
-            "template": {
-                "style": true,
-                "aspect_ratio": true,
-                "element": true,
-                "backdrop": false,
-                "modifiers": {
-                    "image": true,
-                    "element": false,
-                    "backdrop": false
-                },
-                "animal": false,
-                "name": "Standard",
-                "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
-            },
-            "title": "Futuristic Firefighter in Studio Ghibli Style"
-        },
-        "urls": {
-            "openai": "http://192.168.1.85:8081/generated-images/b641051311728.png",
-            "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/5352413d4b455a76259826cb404c1930/5352413d4b455a76259826cb404c1930.jpg"
-        },
-        "tags": [],
-        "model_version": "dreamshaper"
-    },
-    {
-        "id": "f49a4869b1ea0c3e1007278dfdcf568f",
-        "title": "Futuristic Desert Tribe Warrior in Studio Ghibli Style",
-        "description": "Create a landscape full body image of a futuristic desert tribe warrior in the style of Studio Ghibli",
-        "created": "2024-12-15 22:04:54.977939",
-        "prompt": {
-            "prompt": "Create a landscape full body image of a futuristic desert tribe warrior in the style of Studio Ghibli",
-            "id": "428c05948bda35216929d6ee9072d762",
-            "prompt_history": [
-                "Create a landscape full body image of a futuristic desert tribe warrior in the style of Studio Ghibli"
-            ],
-            "revised_at": null,
-            "revised_prompt": false,
-            "enhanced_at": null,
-            "enhanced_prompt": false,
-            "seeded_at": "2024-12-15 20:49:11.725870",
-            "seed_prompt": "Create a landscape full body image of a futuristic desert tribe warrior in the style of Studio Ghibli",
-            "metadata": {
-                "element": "desert tribe warrior",
-                "style": "Studio Ghibli",
-                "aspect_ratio": "landscape",
-                "backdrop": "desert landscape",
-                "animal": "elephant",
-                "modifiers": {
-                    "image": "full body",
-                    "element": "futuristic",
-                    "backdrop": "futuristic"
-                }
-            },
-            "template": {
-                "style": true,
-                "aspect_ratio": true,
-                "element": true,
-                "backdrop": false,
-                "modifiers": {
-                    "image": true,
-                    "element": false,
-                    "backdrop": false
-                },
-                "animal": false,
-                "name": "Standard",
-                "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
-            },
-            "title": "Futuristic Desert Tribe Warrior in Studio Ghibli Style"
-        },
-        "urls": {
-            "openai": "http://192.168.1.85:8081/generated-images/b643279391278.png",
-            "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/f49a4869b1ea0c3e1007278dfdcf568f/f49a4869b1ea0c3e1007278dfdcf568f.jpg"
-        },
-        "tags": [],
-        "model_version": "dreamshaper",
-        "name": "Sandstorm Nomad",
-        "symbol": "F49A4869B",
-        "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/f49a4869b1ea0c3e1007278dfdcf568f/f49a4869b1ea0c3e1007278dfdcf568f.jpg"
-    },
-    {
-        "id": "c654236276bf5d988438d32d8385d073",
-        "title": "Futuristic Shaman in the Spirit of Studio Ghibli",
-        "description": "Create a landscape full body image of a futuristic shaman in the style of Studio Ghibli",
-        "created": "2024-12-16 14:16:14.645333",
-        "prompt": {
-            "prompt": "Create a landscape full body image of a futuristic shaman in the style of Studio Ghibli",
-            "id": "b4094781d21347fbff5f20db5697e159",
-            "prompt_history": [
-                "Create a landscape full body image of a futuristic shaman in the style of Studio Ghibli"
-            ],
-            "revised_at": null,
-            "revised_prompt": false,
-            "enhanced_at": null,
-            "enhanced_prompt": false,
-            "seeded_at": "2024-12-15 20:49:11.781078",
-            "seed_prompt": "Create a landscape full body image of a futuristic shaman in the style of Studio Ghibli",
-            "metadata": {
-                "element": "shaman",
-                "style": "Studio Ghibli",
-                "aspect_ratio": "landscape",
-                "backdrop": "spaceship",
-                "animal": "camel",
-                "modifiers": {
-                    "image": "full body",
-                    "element": "futuristic",
-                    "backdrop": "alien"
-                }
-            },
-            "template": {
-                "style": true,
-                "aspect_ratio": true,
-                "element": true,
-                "backdrop": false,
-                "modifiers": {
-                    "image": true,
-                    "element": false,
-                    "backdrop": false
-                },
-                "animal": false,
-                "name": "Standard",
-                "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
-            },
-            "title": "Futuristic Shaman in the Spirit of Studio Ghibli"
-        },
-        "urls": {
-            "openai": "http://192.168.1.85:8081/generated-images/b641752213590.png",
-            "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/c654236276bf5d988438d32d8385d073/c654236276bf5d988438d32d8385d073.jpg"
-        },
-        "tags": [],
-        "model_version": "dreamshaper"
-    },
-    {
-        "id": "f07f9ca03229da7db143a6bba30d5be9",
-        "title": "Alien Police in the Style of Studio Ghibli",
-        "description": "Create a landscape full body image of a alien police in the style of Studio Ghibli",
-        "created": "2024-12-15 21:18:53.966036",
-        "prompt": {
-            "prompt": "Create a landscape full body image of a alien police in the style of Studio Ghibli",
-            "id": "a5936b2244243bef191bdf9d6de2fd44",
-            "prompt_history": [
-                "Create a landscape full body image of a alien police in the style of Studio Ghibli"
-            ],
-            "revised_at": null,
-            "revised_prompt": false,
-            "enhanced_at": null,
-            "enhanced_prompt": false,
-            "seeded_at": "2024-12-15 20:49:11.977162",
-            "seed_prompt": "Create a landscape full body image of a alien police in the style of Studio Ghibli",
-            "metadata": {
-                "element": "police",
-                "style": "Studio Ghibli",
-                "aspect_ratio": "landscape",
-                "backdrop": "Martial landscape",
-                "animal": "gnu",
-                "modifiers": {
-                    "image": "full body",
-                    "element": "alien",
-                    "backdrop": "futuristic alien"
-                }
-            },
-            "template": {
-                "style": true,
-                "aspect_ratio": true,
-                "element": true,
-                "backdrop": false,
-                "modifiers": {
-                    "image": true,
-                    "element": false,
-                    "backdrop": false
-                },
-                "animal": false,
-                "name": "Standard",
-                "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
-            },
-            "title": "Alien Police in the Style of Studio Ghibli"
-        },
-        "urls": {
-            "openai": "http://192.168.1.85:8081/generated-images/b642099288937.png",
-            "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/f07f9ca03229da7db143a6bba30d5be9/f07f9ca03229da7db143a6bba30d5be9.jpg"
-        },
-        "tags": [],
-        "model_version": "dreamshaper",
-        "name": "Alien Police in the Style of Studio Ghibli",
-        "symbol": "F07F9",
-        "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/f07f9ca03229da7db143a6bba30d5be9/f07f9ca03229da7db143a6bba30d5be9.jpg",
-        "seller_fee_basis_points": 100,
-        "external_url": null,
-        "attributes": {},
-        "collection": {
-            "name": "weeb",
-            "family": "Caneta-Silva"
-        },
-        "properties": {
-            "files": [
-                {
-                    "uri": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/f07f9ca03229da7db143a6bba30d5be9/f07f9ca03229da7db143a6bba30d5be9.jpg",
-                    "type": "image/jpg"
-                }
-            ],
-            "category": "image",
-            "maxSupply": 0,
-            "creators": [
-                {
-                    "address": "CXretoxLBQDmFwDbf4qJYVX49UaA4PPMy3pCtfm2yzVH",
-                    "share": 100
-                }
-            ]
-        }
-    },
-    {
-        "id": "98aea12a0515955e2ff39f82da9c7d0c",
-        "title": "Futuristic Police Officer in a Studio Ghibli-Style Landscape",
-        "description": "Create a landscape full body image of a futuristic police in the style of Studio Ghibli",
-        "created": "2024-12-16 18:45:47.921945",
-        "prompt": {
-            "prompt": "Create a landscape full body image of a futuristic police in the style of Studio Ghibli",
-            "id": "11db45b5f9afd7ebcd55bed67c45102c",
-            "prompt_history": [
-                "Create a landscape full body image of a futuristic police in the style of Studio Ghibli"
-            ],
-            "revised_at": null,
-            "revised_prompt": false,
-            "enhanced_at": null,
-            "enhanced_prompt": false,
-            "seeded_at": "2024-12-15 20:49:11.814500",
-            "seed_prompt": "Create a landscape full body image of a futuristic police in the style of Studio Ghibli",
-            "metadata": {
-                "element": "police",
-                "style": "Studio Ghibli",
-                "aspect_ratio": "landscape",
-                "backdrop": "desert",
-                "animal": "giraffe",
-                "modifiers": {
-                    "image": "full body",
-                    "element": "futuristic",
-                    "backdrop": "futuristic alien"
-                }
-            },
-            "template": {
-                "style": true,
-                "aspect_ratio": true,
-                "element": true,
-                "backdrop": false,
-                "modifiers": {
-                    "image": true,
-                    "element": false,
-                    "backdrop": false
-                },
-                "animal": false,
-                "name": "Standard",
-                "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
-            },
-            "title": "Futuristic Police Officer in a Studio Ghibli-Style Landscape"
-        },
-        "urls": {
-            "openai": "http://192.168.1.85:8081/generated-images/b641732614241.png",
-            "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/98aea12a0515955e2ff39f82da9c7d0c/98aea12a0515955e2ff39f82da9c7d0c.jpg"
         },
         "tags": [],
         "model_version": "dreamshaper"
@@ -1078,13 +607,510 @@
         "model_version": "dreamshaper"
     },
     {
+        "id": "8bb6aa2cbe1c3d597941d856aee9aa98",
+        "title": "Alien Tribe Warrior - Studio Ghibli Style",
+        "description": "Alien Tribe Warrior - Studio Ghibli Style",
+        "created": "2024-12-16 20:10:29.951131",
+        "prompt": {
+            "prompt": "Create a landscape full body image of a alien tribe warrior in the style of Studio Ghibli",
+            "id": "d5e08e33ac6435340ddeb54b9972d8eb",
+            "prompt_history": [
+                "Create a landscape full body image of a alien tribe warrior in the style of Studio Ghibli"
+            ],
+            "revised_at": null,
+            "revised_prompt": false,
+            "enhanced_at": null,
+            "enhanced_prompt": false,
+            "seeded_at": "2024-12-15 20:49:11.908397",
+            "seed_prompt": "Create a landscape full body image of a alien tribe warrior in the style of Studio Ghibli",
+            "metadata": {
+                "element": "tribe warrior",
+                "style": "Studio Ghibli",
+                "aspect_ratio": "landscape",
+                "backdrop": "fortress",
+                "animal": "rhino",
+                "modifiers": {
+                    "image": "full body",
+                    "element": "alien",
+                    "backdrop": "futuristic"
+                }
+            },
+            "template": {
+                "style": true,
+                "aspect_ratio": true,
+                "element": true,
+                "backdrop": false,
+                "modifiers": {
+                    "image": true,
+                    "element": false,
+                    "backdrop": false
+                },
+                "animal": false,
+                "name": "Standard",
+                "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+            },
+            "title": "Alien Tribe Warrior - Studio Ghibli Style"
+        },
+        "urls": {
+            "openai": "http://192.168.1.85:8081/generated-images/b641943915459.png",
+            "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/8bb6aa2cbe1c3d597941d856aee9aa98/8bb6aa2cbe1c3d597941d856aee9aa98.jpg"
+        },
+        "tags": [],
+        "model_version": "dreamshaper",
+        "name": "GhibliAlienWarrior",
+        "symbol": "8BB6A",
+        "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/8bb6aa2cbe1c3d597941d856aee9aa98/8bb6aa2cbe1c3d597941d856aee9aa98.jpg",
+        "seller_fee_basis_points": 100,
+        "external_url": null,
+        "attributes": {},
+        "collection": {
+            "name": "weeb",
+            "family": "Caneta-Silva"
+        },
+        "properties": {
+            "files": [
+                {
+                    "uri": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/8bb6aa2cbe1c3d597941d856aee9aa98/8bb6aa2cbe1c3d597941d856aee9aa98.jpg",
+                    "type": "image/jpg"
+                }
+            ],
+            "category": "image",
+            "maxSupply": 0,
+            "creators": [
+                {
+                    "address": "CXretoxLBQDmFwDbf4qJYVX49UaA4PPMy3pCtfm2yzVH",
+                    "share": 100
+                }
+            ]
+        }
+    },
+    {
+        "id": "bb4046d7f96e384e918feb69c54428e3",
+        "title": "Futuristic Tribe Warrior of the Enchanted Forest",
+        "description": "Futuristic Tribe Warrior of the Enchanted Forest",
+        "created": "2024-12-16 20:18:06.736527",
+        "prompt": {
+            "prompt": "Create a landscape full body image of a futuristic tribe warrior in the style of Studio Ghibli",
+            "id": "6b1d010641f5568aa1159e5bc6d8dcf7",
+            "prompt_history": [
+                "Create a landscape full body image of a futuristic tribe warrior in the style of Studio Ghibli"
+            ],
+            "revised_at": null,
+            "revised_prompt": false,
+            "enhanced_at": null,
+            "enhanced_prompt": false,
+            "seeded_at": "2024-12-15 20:49:11.741904",
+            "seed_prompt": "Create a landscape full body image of a futuristic tribe warrior in the style of Studio Ghibli",
+            "metadata": {
+                "element": "tribe warrior",
+                "style": "Studio Ghibli",
+                "aspect_ratio": "landscape",
+                "backdrop": "desert landscape",
+                "animal": "giraffe",
+                "modifiers": {
+                    "image": "full body",
+                    "element": "futuristic",
+                    "backdrop": "futuristic"
+                }
+            },
+            "template": {
+                "style": true,
+                "aspect_ratio": true,
+                "element": true,
+                "backdrop": false,
+                "modifiers": {
+                    "image": true,
+                    "element": false,
+                    "backdrop": false
+                },
+                "animal": false,
+                "name": "Standard",
+                "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+            },
+            "title": "Futuristic Tribe Warrior of the Enchanted Forest"
+        },
+        "urls": {
+            "openai": "http://192.168.1.85:8081/generated-images/b643073470576.png",
+            "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/bb4046d7f96e384e918feb69c54428e3/bb4046d7f96e384e918feb69c54428e3.jpg"
+        },
+        "tags": [],
+        "model_version": "dreamshaper",
+        "name": null,
+        "symbol": "BB404",
+        "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/bb4046d7f96e384e918feb69c54428e3/bb4046d7f96e384e918feb69c54428e3.jpg",
+        "seller_fee_basis_points": 100,
+        "external_url": null,
+        "attributes": {},
+        "collection": {
+            "name": "weeb",
+            "family": "Caneta-Silva"
+        },
+        "properties": {
+            "files": [
+                {
+                    "uri": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/bb4046d7f96e384e918feb69c54428e3/bb4046d7f96e384e918feb69c54428e3.jpg",
+                    "type": "image/jpg"
+                }
+            ],
+            "category": "image",
+            "maxSupply": 0,
+            "creators": [
+                {
+                    "address": "CXretoxLBQDmFwDbf4qJYVX49UaA4PPMy3pCtfm2yzVH",
+                    "share": 100
+                }
+            ]
+        }
+    },
+    {
+        "id": "ee484e199518042321fc982ba33cd031",
+        "title": "Futuristic Alien Riot Police Robot in the Style of Studio Ghibli",
+        "description": "Create a landscape full body image of a futuristic alien riot police robot in the style of Studio Ghibli",
+        "created": "2024-12-16 20:05:13.835699",
+        "prompt": {
+            "prompt": "Create a landscape full body image of a futuristic alien riot police robot in the style of Studio Ghibli",
+            "id": "d0903e1d9c2aa262a1b87b2fe95fd80a",
+            "prompt_history": [
+                "Create a landscape full body image of a futuristic alien riot police robot in the style of Studio Ghibli"
+            ],
+            "revised_at": null,
+            "revised_prompt": false,
+            "enhanced_at": null,
+            "enhanced_prompt": false,
+            "seeded_at": "2024-12-15 20:49:12.029305",
+            "seed_prompt": "Create a landscape full body image of a futuristic alien riot police robot in the style of Studio Ghibli",
+            "metadata": {
+                "element": "riot police robot",
+                "style": "Studio Ghibli",
+                "aspect_ratio": "landscape",
+                "backdrop": "desert landscape",
+                "animal": "rhino",
+                "modifiers": {
+                    "image": "full body",
+                    "element": "futuristic alien",
+                    "backdrop": "futuristic"
+                }
+            },
+            "template": {
+                "style": true,
+                "aspect_ratio": true,
+                "element": true,
+                "backdrop": false,
+                "modifiers": {
+                    "image": true,
+                    "element": false,
+                    "backdrop": false
+                },
+                "animal": false,
+                "name": "Standard",
+                "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+            },
+            "title": "Futuristic Alien Riot Police Robot in the Style of Studio Ghibli"
+        },
+        "urls": {
+            "openai": "http://192.168.1.85:8081/generated-images/b643858356246.png",
+            "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/ee484e199518042321fc982ba33cd031/ee484e199518042321fc982ba33cd031.jpg"
+        },
+        "tags": [],
+        "model_version": "dreamshaper",
+        "name": "Ghiblex Enforcer",
+        "symbol": "EE484E199",
+        "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/ee484e199518042321fc982ba33cd031/ee484e199518042321fc982ba33cd031.jpg"
+    },
+    {
+        "id": "8d6bbe136a0cc5bd1766be5ed2fb7dd2",
+        "title": "Futuristic Alien Shaman in Studio Ghibli Style",
+        "description": "Create a landscape full body image of a futuristic alien shaman in the style of Studio Ghibli",
+        "created": "2024-12-16 19:51:47.879756",
+        "prompt": {
+            "prompt": "Create a landscape full body image of a futuristic alien shaman in the style of Studio Ghibli",
+            "id": "5ca2adecc391777a56c06dfc6631949f",
+            "prompt_history": [
+                "Create a landscape full body image of a futuristic alien shaman in the style of Studio Ghibli"
+            ],
+            "revised_at": null,
+            "revised_prompt": false,
+            "enhanced_at": null,
+            "enhanced_prompt": false,
+            "seeded_at": "2024-12-15 20:49:12.101741",
+            "seed_prompt": "Create a landscape full body image of a futuristic alien shaman in the style of Studio Ghibli",
+            "metadata": {
+                "element": "shaman",
+                "style": "Studio Ghibli",
+                "aspect_ratio": "landscape",
+                "backdrop": "forest",
+                "animal": "giraffe",
+                "modifiers": {
+                    "image": "full body",
+                    "element": "futuristic alien",
+                    "backdrop": "futuristic alien"
+                }
+            },
+            "template": {
+                "style": true,
+                "aspect_ratio": true,
+                "element": true,
+                "backdrop": false,
+                "modifiers": {
+                    "image": true,
+                    "element": false,
+                    "backdrop": false
+                },
+                "animal": false,
+                "name": "Standard",
+                "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+            },
+            "title": "Futuristic Alien Shaman in Studio Ghibli Style"
+        },
+        "urls": {
+            "openai": "http://192.168.1.85:8081/generated-images/b643572332700.png",
+            "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/8d6bbe136a0cc5bd1766be5ed2fb7dd2/8d6bbe136a0cc5bd1766be5ed2fb7dd2.jpg"
+        },
+        "tags": [],
+        "model_version": "dreamshaper"
+    },
+    {
+        "id": "f07f9ca03229da7db143a6bba30d5be9",
+        "title": "Guardian of the Alien Galaxy",
+        "description": "Guardian of the Alien Galaxy",
+        "created": "2024-12-16 19:42:15.530930",
+        "prompt": {
+            "prompt": "Create a landscape full body image of a alien police in the style of Studio Ghibli",
+            "id": "4b0cb6e2595be3af6e61226d34fcc2a9",
+            "prompt_history": [
+                "Create a landscape full body image of a alien police in the style of Studio Ghibli"
+            ],
+            "revised_at": null,
+            "revised_prompt": false,
+            "enhanced_at": null,
+            "enhanced_prompt": false,
+            "seeded_at": "2024-12-15 20:49:11.974756",
+            "seed_prompt": "Create a landscape full body image of a alien police in the style of Studio Ghibli",
+            "metadata": {
+                "element": "police",
+                "style": "Studio Ghibli",
+                "aspect_ratio": "landscape",
+                "backdrop": "tropical forest",
+                "animal": "deer",
+                "modifiers": {
+                    "image": "full body",
+                    "element": "alien",
+                    "backdrop": "alien"
+                }
+            },
+            "template": {
+                "style": true,
+                "aspect_ratio": true,
+                "element": true,
+                "backdrop": false,
+                "modifiers": {
+                    "image": true,
+                    "element": false,
+                    "backdrop": false
+                },
+                "animal": false,
+                "name": "Standard",
+                "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+            },
+            "title": "Guardian of the Alien Galaxy"
+        },
+        "urls": {
+            "openai": "http://192.168.1.85:8081/generated-images/b64457092010.png",
+            "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/f07f9ca03229da7db143a6bba30d5be9/f07f9ca03229da7db143a6bba30d5be9.jpg"
+        },
+        "tags": [],
+        "model_version": "dreamshaper",
+        "name": "GhibliCop",
+        "symbol": "F07F9",
+        "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/f07f9ca03229da7db143a6bba30d5be9/f07f9ca03229da7db143a6bba30d5be9.jpg",
+        "seller_fee_basis_points": 100,
+        "external_url": null,
+        "attributes": {},
+        "collection": {
+            "name": "weeb",
+            "family": "Caneta-Silva"
+        },
+        "properties": {
+            "files": [
+                {
+                    "uri": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/f07f9ca03229da7db143a6bba30d5be9/f07f9ca03229da7db143a6bba30d5be9.jpg",
+                    "type": "image/jpg"
+                }
+            ],
+            "category": "image",
+            "maxSupply": 0,
+            "creators": [
+                {
+                    "address": "CXretoxLBQDmFwDbf4qJYVX49UaA4PPMy3pCtfm2yzVH",
+                    "share": 100
+                }
+            ]
+        }
+    },
+    {
+        "id": "006e64737e0cc3ba620118495f38f953",
+        "title": "Futuristic Alien Tribe Chief in Studio Ghibli Style",
+        "description": "Futuristic Alien Tribe Chief in Studio Ghibli Style",
+        "created": "2024-12-16 14:23:38.573786",
+        "prompt": {
+            "prompt": "Create a landscape full body image of a futuristic alien tribe chief in the style of Studio Ghibli",
+            "id": "7717b38f64c5999062503d0cc37e9428",
+            "prompt_history": [
+                "Create a landscape full body image of a futuristic alien tribe chief in the style of Studio Ghibli"
+            ],
+            "revised_at": null,
+            "revised_prompt": false,
+            "enhanced_at": null,
+            "enhanced_prompt": false,
+            "seeded_at": "2024-12-15 20:49:12.085343",
+            "seed_prompt": "Create a landscape full body image of a futuristic alien tribe chief in the style of Studio Ghibli",
+            "metadata": {
+                "element": "tribe chief",
+                "style": "Studio Ghibli",
+                "aspect_ratio": "landscape",
+                "backdrop": "desert",
+                "animal": "camel",
+                "modifiers": {
+                    "image": "full body",
+                    "element": "futuristic alien",
+                    "backdrop": "futuristic alien"
+                }
+            },
+            "template": {
+                "style": true,
+                "aspect_ratio": true,
+                "element": true,
+                "backdrop": false,
+                "modifiers": {
+                    "image": true,
+                    "element": false,
+                    "backdrop": false
+                },
+                "animal": false,
+                "name": "Standard",
+                "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+            },
+            "title": "Futuristic Alien Tribe Chief in Studio Ghibli Style"
+        },
+        "urls": {
+            "openai": "http://192.168.1.85:8081/generated-images/b643676450115.png",
+            "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/006e64737e0cc3ba620118495f38f953/006e64737e0cc3ba620118495f38f953.jpg"
+        },
+        "tags": [],
+        "model_version": "dreamshaper",
+        "name": "NebulaTribalLeader",
+        "symbol": "006E6",
+        "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/006e64737e0cc3ba620118495f38f953/006e64737e0cc3ba620118495f38f953.jpg",
+        "seller_fee_basis_points": 100,
+        "external_url": null,
+        "attributes": {},
+        "collection": {
+            "name": "weeb",
+            "family": "Caneta-Silva"
+        },
+        "properties": {
+            "files": [
+                {
+                    "uri": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/006e64737e0cc3ba620118495f38f953/006e64737e0cc3ba620118495f38f953.jpg",
+                    "type": "image/jpg"
+                }
+            ],
+            "category": "image",
+            "maxSupply": 0,
+            "creators": [
+                {
+                    "address": "CXretoxLBQDmFwDbf4qJYVX49UaA4PPMy3pCtfm2yzVH",
+                    "share": 100
+                }
+            ]
+        }
+    },
+    {
+        "id": "c654236276bf5d988438d32d8385d073",
+        "title": "Futuristic Shaman of the Enchanted Valley",
+        "description": "Futuristic Shaman of the Enchanted Valley",
+        "created": "2024-12-16 20:18:18.717086",
+        "prompt": {
+            "prompt": "Create a landscape full body image of a futuristic shaman in the style of Studio Ghibli",
+            "id": "88c382cc948aa169a17da0d156490785",
+            "prompt_history": [
+                "Create a landscape full body image of a futuristic shaman in the style of Studio Ghibli"
+            ],
+            "revised_at": null,
+            "revised_prompt": false,
+            "enhanced_at": null,
+            "enhanced_prompt": false,
+            "seeded_at": "2024-12-15 20:49:11.780634",
+            "seed_prompt": "Create a landscape full body image of a futuristic shaman in the style of Studio Ghibli",
+            "metadata": {
+                "element": "shaman",
+                "style": "Studio Ghibli",
+                "aspect_ratio": "landscape",
+                "backdrop": "spaceship",
+                "animal": "horse",
+                "modifiers": {
+                    "image": "full body",
+                    "element": "futuristic",
+                    "backdrop": "alien"
+                }
+            },
+            "template": {
+                "style": true,
+                "aspect_ratio": true,
+                "element": true,
+                "backdrop": false,
+                "modifiers": {
+                    "image": true,
+                    "element": false,
+                    "backdrop": false
+                },
+                "animal": false,
+                "name": "Standard",
+                "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+            },
+            "title": "Futuristic Shaman of the Enchanted Valley"
+        },
+        "urls": {
+            "openai": "http://192.168.1.85:8081/generated-images/b643250296639.png",
+            "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/c654236276bf5d988438d32d8385d073/c654236276bf5d988438d32d8385d073.jpg"
+        },
+        "tags": [],
+        "model_version": "dreamshaper",
+        "name": null,
+        "symbol": "C6542",
+        "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/c654236276bf5d988438d32d8385d073/c654236276bf5d988438d32d8385d073.jpg",
+        "seller_fee_basis_points": 100,
+        "external_url": null,
+        "attributes": {},
+        "collection": {
+            "name": "weeb",
+            "family": "Caneta-Silva"
+        },
+        "properties": {
+            "files": [
+                {
+                    "uri": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/c654236276bf5d988438d32d8385d073/c654236276bf5d988438d32d8385d073.jpg",
+                    "type": "image/jpg"
+                }
+            ],
+            "category": "image",
+            "maxSupply": 0,
+            "creators": [
+                {
+                    "address": "CXretoxLBQDmFwDbf4qJYVX49UaA4PPMy3pCtfm2yzVH",
+                    "share": 100
+                }
+            ]
+        }
+    },
+    {
         "id": "aae26ff13d105c13954b203e9e5da79e",
-        "title": "Desert Nomad: A Futuristic Alien Warrior",
-        "description": "Create a landscape full body image of a futuristic alien desert tribe warrior in the style of Studio Ghibli",
-        "created": "2024-12-15 22:03:07.922125",
+        "title": "Wanderer of the Alien Sands",
+        "description": "Wanderer of the Alien Sands",
+        "created": "2024-12-16 19:44:51.180239",
         "prompt": {
             "prompt": "Create a landscape full body image of a futuristic alien desert tribe warrior in the style of Studio Ghibli",
-            "id": "861caa29757fa624e0dc3d42e8d797e2",
+            "id": "5da274e5caab0cc69e79328223305af5",
             "prompt_history": [
                 "Create a landscape full body image of a futuristic alien desert tribe warrior in the style of Studio Ghibli"
             ],
@@ -1092,66 +1118,14 @@
             "revised_prompt": false,
             "enhanced_at": null,
             "enhanced_prompt": false,
-            "seeded_at": "2024-12-15 20:49:12.052886",
+            "seeded_at": "2024-12-15 20:49:12.046036",
             "seed_prompt": "Create a landscape full body image of a futuristic alien desert tribe warrior in the style of Studio Ghibli",
             "metadata": {
                 "element": "desert tribe warrior",
                 "style": "Studio Ghibli",
                 "aspect_ratio": "landscape",
-                "backdrop": "fortress",
-                "animal": "gnu",
-                "modifiers": {
-                    "image": "full body",
-                    "element": "futuristic alien",
-                    "backdrop": "alien"
-                }
-            },
-            "template": {
-                "style": true,
-                "aspect_ratio": true,
-                "element": true,
-                "backdrop": false,
-                "modifiers": {
-                    "image": true,
-                    "element": false,
-                    "backdrop": false
-                },
-                "animal": false,
-                "name": "Standard",
-                "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
-            },
-            "title": "Desert Nomad: A Futuristic Alien Warrior"
-        },
-        "urls": {
-            "openai": "http://192.168.1.85:8081/generated-images/b641350616038.png",
-            "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/aae26ff13d105c13954b203e9e5da79e/aae26ff13d105c13954b203e9e5da79e.jpg"
-        },
-        "tags": [],
-        "model_version": "dreamshaper"
-    },
-    {
-        "id": "1c080de39d85244f7fa628b9bc42d9f3",
-        "title": "Futuristic Alien Police in Studio Ghibli Style",
-        "description": "Create a landscape full body image of a futuristic alien police in the style of Studio Ghibli",
-        "created": "2024-12-16 14:23:55.347898",
-        "prompt": {
-            "prompt": "Create a landscape full body image of a futuristic alien police in the style of Studio Ghibli",
-            "id": "afe7b15a5ab6eb06df7cfb420ac3f9c3",
-            "prompt_history": [
-                "Create a landscape full body image of a futuristic alien police in the style of Studio Ghibli"
-            ],
-            "revised_at": null,
-            "revised_prompt": false,
-            "enhanced_at": null,
-            "enhanced_prompt": false,
-            "seeded_at": "2024-12-15 20:49:12.119196",
-            "seed_prompt": "Create a landscape full body image of a futuristic alien police in the style of Studio Ghibli",
-            "metadata": {
-                "element": "police",
-                "style": "Studio Ghibli",
-                "aspect_ratio": "landscape",
-                "backdrop": "Martial landscape",
-                "animal": "camel",
+                "backdrop": "tropical forest",
+                "animal": "elephant",
                 "modifiers": {
                     "image": "full body",
                     "element": "futuristic alien",
@@ -1172,41 +1146,67 @@
                 "name": "Standard",
                 "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
             },
-            "title": "Futuristic Alien Police in Studio Ghibli Style"
+            "title": "Wanderer of the Alien Sands"
         },
         "urls": {
-            "openai": "http://192.168.1.85:8081/generated-images/b643348388854.png",
-            "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/1c080de39d85244f7fa628b9bc42d9f3/1c080de39d85244f7fa628b9bc42d9f3.jpg"
+            "openai": "http://192.168.1.85:8081/generated-images/b64580666370.png",
+            "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/aae26ff13d105c13954b203e9e5da79e/aae26ff13d105c13954b203e9e5da79e.jpg"
         },
         "tags": [],
-        "model_version": "dreamshaper"
+        "model_version": "dreamshaper",
+        "name": "GhibliDesertWarrior",
+        "symbol": "AAE26",
+        "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/aae26ff13d105c13954b203e9e5da79e/aae26ff13d105c13954b203e9e5da79e.jpg",
+        "seller_fee_basis_points": 100,
+        "external_url": null,
+        "attributes": {},
+        "collection": {
+            "name": "weeb",
+            "family": "Caneta-Silva"
+        },
+        "properties": {
+            "files": [
+                {
+                    "uri": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/aae26ff13d105c13954b203e9e5da79e/aae26ff13d105c13954b203e9e5da79e.jpg",
+                    "type": "image/jpg"
+                }
+            ],
+            "category": "image",
+            "maxSupply": 0,
+            "creators": [
+                {
+                    "address": "CXretoxLBQDmFwDbf4qJYVX49UaA4PPMy3pCtfm2yzVH",
+                    "share": 100
+                }
+            ]
+        }
     },
     {
-        "id": "c298e2236000b62554c13581b13668bd",
-        "title": "The Alien Emperor's Serene Dominion",
-        "description": "Create a landscape full body image of a alien emperor in the style of Studio Ghibli",
-        "created": "2024-12-16 18:48:38.290288",
+        "id": "140aaf711fce6bfb4ed0207323299d9d",
+        "title": "Futuristic Alien Paladin: A Studio Ghibli-Inspired Masterpiece",
+        "description": "Create a landscape full body image of a futuristic alien paladin style military in the style of Studio Ghibli",
+        "created": "2024-12-16 19:45:37.149172",
         "prompt": {
-            "prompt": "Create a landscape full body image of a alien emperor in the style of Studio Ghibli",
-            "id": "ff6ade23597689da8241decc1e188148",
+            "prompt": "Create a landscape full body image of a futuristic alien paladin style military in the style of Studio Ghibli",
+            "id": "50cf6be59113523730ca0d4a7a52f383",
             "prompt_history": [
-                "Create a landscape full body image of a alien emperor in the style of Studio Ghibli"
+                "Create a landscape full body image of a futuristic alien paladin style military in the style of Studio Ghibli"
             ],
             "revised_at": null,
             "revised_prompt": false,
             "enhanced_at": null,
             "enhanced_prompt": false,
-            "seeded_at": "2024-12-15 20:49:11.956654",
-            "seed_prompt": "Create a landscape full body image of a alien emperor in the style of Studio Ghibli",
+            "seeded_at": "2024-12-15 20:49:12.018782",
+            "seed_prompt": "Create a landscape full body image of a futuristic alien paladin style military in the style of Studio Ghibli",
             "metadata": {
-                "element": "emperor",
+                "element": "paladin style military",
                 "style": "Studio Ghibli",
                 "aspect_ratio": "landscape",
                 "backdrop": "desert landscape",
                 "animal": "horse",
                 "modifiers": {
                     "image": "full body",
-                    "element": "alien",
+                    "element": "futuristic alien",
                     "backdrop": "alien"
                 }
             },
@@ -1224,66 +1224,17 @@
                 "name": "Standard",
                 "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
             },
-            "title": "The Alien Emperor's Serene Dominion"
+            "title": "Futuristic Alien Paladin: A Studio Ghibli-Inspired Masterpiece"
         },
         "urls": {
-            "openai": "http://192.168.1.85:8081/generated-images/b641823267522.png",
-            "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/c298e2236000b62554c13581b13668bd/c298e2236000b62554c13581b13668bd.jpg"
+            "openai": "http://192.168.1.85:8081/generated-images/b643918703177.png",
+            "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/140aaf711fce6bfb4ed0207323299d9d/140aaf711fce6bfb4ed0207323299d9d.jpg"
         },
         "tags": [],
-        "model_version": "dreamshaper"
-    },
-    {
-        "id": "cfca5314b31c11801d2aa2ebea8c84d0",
-        "title": "Luminous Alien Shaman in the Style of Studio Ghibli",
-        "description": "Create a landscape full body image of a alien shaman in the style of Studio Ghibli",
-        "created": "2024-12-16 14:17:19.009831",
-        "prompt": {
-            "prompt": "Create a landscape full body image of a alien shaman in the style of Studio Ghibli",
-            "id": "c37b9f45822bf8464f27cc2bb7d203e6",
-            "prompt_history": [
-                "Create a landscape full body image of a alien shaman in the style of Studio Ghibli"
-            ],
-            "revised_at": null,
-            "revised_prompt": false,
-            "enhanced_at": null,
-            "enhanced_prompt": false,
-            "seeded_at": "2024-12-15 20:49:11.934412",
-            "seed_prompt": "Create a landscape full body image of a alien shaman in the style of Studio Ghibli",
-            "metadata": {
-                "element": "shaman",
-                "style": "Studio Ghibli",
-                "aspect_ratio": "landscape",
-                "backdrop": "Martial landscape",
-                "animal": "camel",
-                "modifiers": {
-                    "image": "full body",
-                    "element": "alien",
-                    "backdrop": "futuristic"
-                }
-            },
-            "template": {
-                "style": true,
-                "aspect_ratio": true,
-                "element": true,
-                "backdrop": false,
-                "modifiers": {
-                    "image": true,
-                    "element": false,
-                    "backdrop": false
-                },
-                "animal": false,
-                "name": "Standard",
-                "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
-            },
-            "title": "Luminous Alien Shaman in the Style of Studio Ghibli"
-        },
-        "urls": {
-            "openai": "http://192.168.1.85:8081/generated-images/b6475115586.png",
-            "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/cfca5314b31c11801d2aa2ebea8c84d0/cfca5314b31c11801d2aa2ebea8c84d0.jpg"
-        },
-        "tags": [],
-        "model_version": "dreamshaper"
+        "model_version": "dreamshaper",
+        "name": "Nebula Sentinel",
+        "symbol": "140AAF711",
+        "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/140aaf711fce6bfb4ed0207323299d9d/140aaf711fce6bfb4ed0207323299d9d.jpg"
     },
     {
         "id": "dbdb4a74d74a4d97769d7f4b9705c1db",
@@ -1338,131 +1289,27 @@
         "model_version": "dreamshaper"
     },
     {
-        "id": "2cac825646900e41a55595a384ba0bf2",
-        "title": "The Enigmatic Emperor of the Galactic Realm",
-        "description": "Create a landscape full body image of a futuristic alien emperor in the style of Studio Ghibli",
-        "created": "2024-12-15 22:01:09.919146",
+        "id": "d674be8abaf7ffa4850bfa0bbbab6304",
+        "title": "The Brave Alien Firefighter of the Ghibli Landscape",
+        "description": "Create a landscape full body image of a alien firefighter in the style of Studio Ghibli",
+        "created": "2024-12-16 20:12:40.723326",
         "prompt": {
-            "prompt": "Create a landscape full body image of a futuristic alien emperor in the style of Studio Ghibli",
-            "id": "44b9180a18944cdcd3e23f9f9b81cbe9",
+            "prompt": "Create a landscape full body image of a alien firefighter in the style of Studio Ghibli",
+            "id": "7f19f42e11bc5782260f08c22cbb0a86",
             "prompt_history": [
-                "Create a landscape full body image of a futuristic alien emperor in the style of Studio Ghibli"
+                "Create a landscape full body image of a alien firefighter in the style of Studio Ghibli"
             ],
             "revised_at": null,
             "revised_prompt": false,
             "enhanced_at": null,
             "enhanced_prompt": false,
-            "seeded_at": "2024-12-15 20:49:12.107629",
-            "seed_prompt": "Create a landscape full body image of a futuristic alien emperor in the style of Studio Ghibli",
+            "seeded_at": "2024-12-15 20:49:11.989513",
+            "seed_prompt": "Create a landscape full body image of a alien firefighter in the style of Studio Ghibli",
             "metadata": {
-                "element": "emperor",
+                "element": "firefighter",
                 "style": "Studio Ghibli",
                 "aspect_ratio": "landscape",
-                "backdrop": "spaceship",
-                "animal": "horse",
-                "modifiers": {
-                    "image": "full body",
-                    "element": "futuristic alien",
-                    "backdrop": "futuristic"
-                }
-            },
-            "template": {
-                "style": true,
-                "aspect_ratio": true,
-                "element": true,
-                "backdrop": false,
-                "modifiers": {
-                    "image": true,
-                    "element": false,
-                    "backdrop": false
-                },
-                "animal": false,
-                "name": "Standard",
-                "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
-            },
-            "title": "The Enigmatic Emperor of the Galactic Realm"
-        },
-        "urls": {
-            "openai": "http://192.168.1.85:8081/generated-images/b644171669269.png",
-            "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/2cac825646900e41a55595a384ba0bf2/2cac825646900e41a55595a384ba0bf2.jpg"
-        },
-        "tags": [],
-        "model_version": "dreamshaper"
-    },
-    {
-        "id": "bb4046d7f96e384e918feb69c54428e3",
-        "title": "Futuristic Tribe Warrior of the Enchanted Valley",
-        "description": "Create a landscape full body image of a futuristic tribe warrior in the style of Studio Ghibli",
-        "created": "2024-12-16 14:24:09.337236",
-        "prompt": {
-            "prompt": "Create a landscape full body image of a futuristic tribe warrior in the style of Studio Ghibli",
-            "id": "8fb21ae9245ccb8cf4b89dbbf7a39513",
-            "prompt_history": [
-                "Create a landscape full body image of a futuristic tribe warrior in the style of Studio Ghibli"
-            ],
-            "revised_at": null,
-            "revised_prompt": false,
-            "enhanced_at": null,
-            "enhanced_prompt": false,
-            "seeded_at": "2024-12-15 20:49:11.743780",
-            "seed_prompt": "Create a landscape full body image of a futuristic tribe warrior in the style of Studio Ghibli",
-            "metadata": {
-                "element": "tribe warrior",
-                "style": "Studio Ghibli",
-                "aspect_ratio": "landscape",
-                "backdrop": "tropical forest",
-                "animal": "elephant",
-                "modifiers": {
-                    "image": "full body",
-                    "element": "futuristic",
-                    "backdrop": "futuristic"
-                }
-            },
-            "template": {
-                "style": true,
-                "aspect_ratio": true,
-                "element": true,
-                "backdrop": false,
-                "modifiers": {
-                    "image": true,
-                    "element": false,
-                    "backdrop": false
-                },
-                "animal": false,
-                "name": "Standard",
-                "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
-            },
-            "title": "Futuristic Tribe Warrior of the Enchanted Valley"
-        },
-        "urls": {
-            "openai": "http://192.168.1.85:8081/generated-images/b641434281718.png",
-            "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/bb4046d7f96e384e918feb69c54428e3/bb4046d7f96e384e918feb69c54428e3.jpg"
-        },
-        "tags": [],
-        "model_version": "dreamshaper"
-    },
-    {
-        "id": "8bb6aa2cbe1c3d597941d856aee9aa98",
-        "title": "Alien Tribe Warrior in Studio Ghibli Style",
-        "description": "Create a landscape full body image of a alien tribe warrior in the style of Studio Ghibli",
-        "created": "2024-12-16 14:02:47.111924",
-        "prompt": {
-            "prompt": "Create a landscape full body image of a alien tribe warrior in the style of Studio Ghibli",
-            "id": "de460d6cd90e32ef76528b83dcda14cb",
-            "prompt_history": [
-                "Create a landscape full body image of a alien tribe warrior in the style of Studio Ghibli"
-            ],
-            "revised_at": null,
-            "revised_prompt": false,
-            "enhanced_at": null,
-            "enhanced_prompt": false,
-            "seeded_at": "2024-12-15 20:49:11.910073",
-            "seed_prompt": "Create a landscape full body image of a alien tribe warrior in the style of Studio Ghibli",
-            "metadata": {
-                "element": "tribe warrior",
-                "style": "Studio Ghibli",
-                "aspect_ratio": "landscape",
-                "backdrop": "desert",
+                "backdrop": "waterfall",
                 "animal": "camel",
                 "modifiers": {
                     "image": "full body",
@@ -1484,90 +1331,38 @@
                 "name": "Standard",
                 "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
             },
-            "title": "Alien Tribe Warrior in Studio Ghibli Style"
+            "title": "The Brave Alien Firefighter of the Ghibli Landscape"
         },
         "urls": {
-            "openai": "http://192.168.1.85:8081/generated-images/b644200686186.png",
-            "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/8bb6aa2cbe1c3d597941d856aee9aa98/8bb6aa2cbe1c3d597941d856aee9aa98.jpg"
+            "openai": "http://192.168.1.85:8081/generated-images/b64974763353.png",
+            "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/d674be8abaf7ffa4850bfa0bbbab6304/d674be8abaf7ffa4850bfa0bbbab6304.jpg"
         },
         "tags": [],
         "model_version": "dreamshaper"
     },
     {
-        "id": "ee484e199518042321fc982ba33cd031",
-        "title": "Galactic Enforcer: The Sentinel of Tomorrow",
-        "description": "Create a landscape full body image of a futuristic alien riot police robot in the style of Studio Ghibli",
-        "created": "2024-12-15 21:23:29.190175",
+        "id": "2692d5d19ec6b47f5ee135f3261135d0",
+        "title": "Alien Paladin Military in Studio Ghibli Style",
+        "description": "Alien Paladin Military in Studio Ghibli Style",
+        "created": "2024-12-16 20:21:34.621309",
         "prompt": {
-            "prompt": "Create a landscape full body image of a futuristic alien riot police robot in the style of Studio Ghibli",
-            "id": "775594e91c9d7b7bc5e21c3978d95598",
+            "prompt": "Create a landscape full body image of a alien paladin style military in the style of Studio Ghibli",
+            "id": "71546e78d00d7268880051253e4bd7a0",
             "prompt_history": [
-                "Create a landscape full body image of a futuristic alien riot police robot in the style of Studio Ghibli"
+                "Create a landscape full body image of a alien paladin style military in the style of Studio Ghibli"
             ],
             "revised_at": null,
             "revised_prompt": false,
             "enhanced_at": null,
             "enhanced_prompt": false,
-            "seeded_at": "2024-12-15 20:49:12.041677",
-            "seed_prompt": "Create a landscape full body image of a futuristic alien riot police robot in the style of Studio Ghibli",
+            "seeded_at": "2024-12-15 20:49:11.871351",
+            "seed_prompt": "Create a landscape full body image of a alien paladin style military in the style of Studio Ghibli",
             "metadata": {
-                "element": "riot police robot",
+                "element": "paladin style military",
                 "style": "Studio Ghibli",
                 "aspect_ratio": "landscape",
                 "backdrop": "forest",
-                "animal": "horse",
-                "modifiers": {
-                    "image": "full body",
-                    "element": "futuristic alien",
-                    "backdrop": "futuristic alien"
-                }
-            },
-            "template": {
-                "style": true,
-                "aspect_ratio": true,
-                "element": true,
-                "backdrop": false,
-                "modifiers": {
-                    "image": true,
-                    "element": false,
-                    "backdrop": false
-                },
-                "animal": false,
-                "name": "Standard",
-                "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
-            },
-            "title": "Galactic Enforcer: The Sentinel of Tomorrow"
-        },
-        "urls": {
-            "openai": "http://192.168.1.85:8081/generated-images/b641831306236.png",
-            "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/ee484e199518042321fc982ba33cd031/ee484e199518042321fc982ba33cd031.jpg"
-        },
-        "tags": [],
-        "model_version": "dreamshaper"
-    },
-    {
-        "id": "415569b922fd56a71354d7655dd33718",
-        "title": "The Desert Warrior of the Alien Tribe",
-        "description": "Create a landscape full body image of a alien desert tribe warrior in the style of Studio Ghibli",
-        "created": "2024-12-15 22:31:59.756246",
-        "prompt": {
-            "prompt": "Create a landscape full body image of a alien desert tribe warrior in the style of Studio Ghibli",
-            "id": "9c91c5d786219bef1f12772ffa005354",
-            "prompt_history": [
-                "Create a landscape full body image of a alien desert tribe warrior in the style of Studio Ghibli"
-            ],
-            "revised_at": null,
-            "revised_prompt": false,
-            "enhanced_at": null,
-            "enhanced_prompt": false,
-            "seeded_at": "2024-12-15 20:49:11.902300",
-            "seed_prompt": "Create a landscape full body image of a alien desert tribe warrior in the style of Studio Ghibli",
-            "metadata": {
-                "element": "desert tribe warrior",
-                "style": "Studio Ghibli",
-                "aspect_ratio": "landscape",
-                "backdrop": "spaceship",
-                "animal": "elephant",
+                "animal": "camel",
                 "modifiers": {
                     "image": "full body",
                     "element": "alien",
@@ -1588,17 +1383,17 @@
                 "name": "Standard",
                 "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
             },
-            "title": "The Desert Warrior of the Alien Tribe"
+            "title": "Alien Paladin Military in Studio Ghibli Style"
         },
         "urls": {
-            "openai": "http://192.168.1.85:8081/generated-images/b642052056666.png",
-            "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/415569b922fd56a71354d7655dd33718/415569b922fd56a71354d7655dd33718.jpg"
+            "openai": "http://192.168.1.85:8081/generated-images/b64324587706.png",
+            "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/2692d5d19ec6b47f5ee135f3261135d0/2692d5d19ec6b47f5ee135f3261135d0.jpg"
         },
         "tags": [],
         "model_version": "dreamshaper",
-        "name": "The Desert Warrior of the Alien Tribe",
-        "symbol": "41556",
-        "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/415569b922fd56a71354d7655dd33718/415569b922fd56a71354d7655dd33718.jpg",
+        "name": "AlienPaladGhibli-32",
+        "symbol": "2692D",
+        "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/2692d5d19ec6b47f5ee135f3261135d0/2692d5d19ec6b47f5ee135f3261135d0.jpg",
         "seller_fee_basis_points": 100,
         "external_url": null,
         "attributes": {},
@@ -1609,7 +1404,7 @@
         "properties": {
             "files": [
                 {
-                    "uri": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/415569b922fd56a71354d7655dd33718/415569b922fd56a71354d7655dd33718.jpg",
+                    "uri": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/2692d5d19ec6b47f5ee135f3261135d0/2692d5d19ec6b47f5ee135f3261135d0.jpg",
                     "type": "image/jpg"
                 }
             ],
@@ -1624,28 +1419,106 @@
         }
     },
     {
-        "id": "efa36871f190c28ffe12b1a89bb981b8",
-        "title": "Futuristic Alien Firefighter in a Ghibli-esque Landscape",
-        "description": "Create a landscape full body image of a futuristic alien firefighter in the style of Studio Ghibli",
-        "created": "2024-12-16 18:51:06.526077",
+        "id": "ae41bafc14b4099a860f5590df3aac48",
+        "title": "Alien Medic in Studio Ghibli Style",
+        "description": "Alien Medic in Studio Ghibli Style",
+        "created": "2024-12-16 19:42:38.841591",
         "prompt": {
-            "prompt": "Create a landscape full body image of a futuristic alien firefighter in the style of Studio Ghibli",
-            "id": "22d548997321ff8ca86acfa6bd236781",
+            "prompt": "Create a landscape full body image of a alien medic in the style of Studio Ghibli",
+            "id": "8e3d6b38fe54592ccb1c0c24d993909c",
             "prompt_history": [
-                "Create a landscape full body image of a futuristic alien firefighter in the style of Studio Ghibli"
+                "Create a landscape full body image of a alien medic in the style of Studio Ghibli"
             ],
             "revised_at": null,
             "revised_prompt": false,
             "enhanced_at": null,
             "enhanced_prompt": false,
-            "seeded_at": "2024-12-15 20:49:12.136165",
-            "seed_prompt": "Create a landscape full body image of a futuristic alien firefighter in the style of Studio Ghibli",
+            "seeded_at": "2024-12-15 20:49:12.006921",
+            "seed_prompt": "Create a landscape full body image of a alien medic in the style of Studio Ghibli",
             "metadata": {
-                "element": "firefighter",
+                "element": "medic",
                 "style": "Studio Ghibli",
                 "aspect_ratio": "landscape",
-                "backdrop": "waterfall",
-                "animal": "rhino",
+                "backdrop": "forest",
+                "animal": "gnu",
+                "modifiers": {
+                    "image": "full body",
+                    "element": "alien",
+                    "backdrop": "alien"
+                }
+            },
+            "template": {
+                "style": true,
+                "aspect_ratio": true,
+                "element": true,
+                "backdrop": false,
+                "modifiers": {
+                    "image": true,
+                    "element": false,
+                    "backdrop": false
+                },
+                "animal": false,
+                "name": "Standard",
+                "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+            },
+            "title": "Alien Medic in Studio Ghibli Style"
+        },
+        "urls": {
+            "openai": "http://192.168.1.85:8081/generated-images/b642010867247.png",
+            "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/ae41bafc14b4099a860f5590df3aac48/ae41bafc14b4099a860f5590df3aac48.jpg"
+        },
+        "tags": [],
+        "model_version": "dreamshaper",
+        "name": "AlienHealerGhibliStyle",
+        "symbol": "AE41B",
+        "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/ae41bafc14b4099a860f5590df3aac48/ae41bafc14b4099a860f5590df3aac48.jpg",
+        "seller_fee_basis_points": 100,
+        "external_url": null,
+        "attributes": {},
+        "collection": {
+            "name": "weeb",
+            "family": "Caneta-Silva"
+        },
+        "properties": {
+            "files": [
+                {
+                    "uri": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/ae41bafc14b4099a860f5590df3aac48/ae41bafc14b4099a860f5590df3aac48.jpg",
+                    "type": "image/jpg"
+                }
+            ],
+            "category": "image",
+            "maxSupply": 0,
+            "creators": [
+                {
+                    "address": "CXretoxLBQDmFwDbf4qJYVX49UaA4PPMy3pCtfm2yzVH",
+                    "share": 100
+                }
+            ]
+        }
+    },
+    {
+        "id": "2cac825646900e41a55595a384ba0bf2",
+        "title": "Futuristic Alien Emperor under the Ghibli Sky",
+        "description": "Create a landscape full body image of a futuristic alien emperor in the style of Studio Ghibli",
+        "created": "2024-12-16 20:20:34.138744",
+        "prompt": {
+            "prompt": "Create a landscape full body image of a futuristic alien emperor in the style of Studio Ghibli",
+            "id": "0ba43f5e4b792f1a3158e6291dc7c47b",
+            "prompt_history": [
+                "Create a landscape full body image of a futuristic alien emperor in the style of Studio Ghibli"
+            ],
+            "revised_at": null,
+            "revised_prompt": false,
+            "enhanced_at": null,
+            "enhanced_prompt": false,
+            "seeded_at": "2024-12-15 20:49:12.104891",
+            "seed_prompt": "Create a landscape full body image of a futuristic alien emperor in the style of Studio Ghibli",
+            "metadata": {
+                "element": "emperor",
+                "style": "Studio Ghibli",
+                "aspect_ratio": "landscape",
+                "backdrop": "desert",
+                "animal": "elephant",
                 "modifiers": {
                     "image": "full body",
                     "element": "futuristic alien",
@@ -1666,16 +1539,389 @@
                 "name": "Standard",
                 "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
             },
-            "title": "Futuristic Alien Firefighter in a Ghibli-esque Landscape"
+            "title": "Futuristic Alien Emperor under the Ghibli Sky"
         },
         "urls": {
-            "openai": "http://192.168.1.85:8081/generated-images/b642344967989.png",
+            "openai": "http://192.168.1.85:8081/generated-images/b641006473879.png",
+            "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/2cac825646900e41a55595a384ba0bf2/2cac825646900e41a55595a384ba0bf2.jpg"
+        },
+        "tags": [],
+        "model_version": "dreamshaper"
+    },
+    {
+        "id": "efa36871f190c28ffe12b1a89bb981b8",
+        "title": "Futuristic Alien Firefighter in Studio Ghibli Style",
+        "description": "Create a landscape full body image of a futuristic alien firefighter in the style of Studio Ghibli",
+        "created": "2024-12-16 20:01:59.175181",
+        "prompt": {
+            "prompt": "Create a landscape full body image of a futuristic alien firefighter in the style of Studio Ghibli",
+            "id": "d3a4038b2d4cd71e880c68ac813eafe0",
+            "prompt_history": [
+                "Create a landscape full body image of a futuristic alien firefighter in the style of Studio Ghibli"
+            ],
+            "revised_at": null,
+            "revised_prompt": false,
+            "enhanced_at": null,
+            "enhanced_prompt": false,
+            "seeded_at": "2024-12-15 20:49:12.138643",
+            "seed_prompt": "Create a landscape full body image of a futuristic alien firefighter in the style of Studio Ghibli",
+            "metadata": {
+                "element": "firefighter",
+                "style": "Studio Ghibli",
+                "aspect_ratio": "landscape",
+                "backdrop": "fortress",
+                "animal": "giraffe",
+                "modifiers": {
+                    "image": "full body",
+                    "element": "futuristic alien",
+                    "backdrop": "futuristic"
+                }
+            },
+            "template": {
+                "style": true,
+                "aspect_ratio": true,
+                "element": true,
+                "backdrop": false,
+                "modifiers": {
+                    "image": true,
+                    "element": false,
+                    "backdrop": false
+                },
+                "animal": false,
+                "name": "Standard",
+                "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+            },
+            "title": "Futuristic Alien Firefighter in Studio Ghibli Style"
+        },
+        "urls": {
+            "openai": "http://192.168.1.85:8081/generated-images/b643293443499.png",
             "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/efa36871f190c28ffe12b1a89bb981b8/efa36871f190c28ffe12b1a89bb981b8.jpg"
         },
         "tags": [],
         "model_version": "dreamshaper",
-        "name": "Zephyr Flameheart",
+        "name": "Nova Sentinel",
         "symbol": "EFA36871F",
         "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/efa36871f190c28ffe12b1a89bb981b8/efa36871f190c28ffe12b1a89bb981b8.jpg"
+    },
+    {
+        "id": "5352413d4b455a76259826cb404c1930",
+        "title": "Futuristic Firefighter in Studio Ghibli Style",
+        "description": "Futuristic Firefighter in Studio Ghibli Style",
+        "created": "2024-12-16 14:00:46.286847",
+        "prompt": {
+            "prompt": "Create a landscape full body image of a futuristic firefighter in the style of Studio Ghibli",
+            "id": "c823112dce17cf36ff4265b7bf3b67da",
+            "prompt_history": [
+                "Create a landscape full body image of a futuristic firefighter in the style of Studio Ghibli"
+            ],
+            "revised_at": null,
+            "revised_prompt": false,
+            "enhanced_at": null,
+            "enhanced_prompt": false,
+            "seeded_at": "2024-12-15 20:49:11.830060",
+            "seed_prompt": "Create a landscape full body image of a futuristic firefighter in the style of Studio Ghibli",
+            "metadata": {
+                "element": "firefighter",
+                "style": "Studio Ghibli",
+                "aspect_ratio": "landscape",
+                "backdrop": "waterfall",
+                "animal": "gnu",
+                "modifiers": {
+                    "image": "full body",
+                    "element": "futuristic",
+                    "backdrop": "alien"
+                }
+            },
+            "template": {
+                "style": true,
+                "aspect_ratio": true,
+                "element": true,
+                "backdrop": false,
+                "modifiers": {
+                    "image": true,
+                    "element": false,
+                    "backdrop": false
+                },
+                "animal": false,
+                "name": "Standard",
+                "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+            },
+            "title": "Futuristic Firefighter in Studio Ghibli Style"
+        },
+        "urls": {
+            "openai": "http://192.168.1.85:8081/generated-images/b641051311728.png",
+            "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/5352413d4b455a76259826cb404c1930/5352413d4b455a76259826cb404c1930.jpg"
+        },
+        "tags": [],
+        "model_version": "dreamshaper",
+        "name": null,
+        "symbol": "53524",
+        "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/5352413d4b455a76259826cb404c1930/5352413d4b455a76259826cb404c1930.jpg",
+        "seller_fee_basis_points": 100,
+        "external_url": null,
+        "attributes": {},
+        "collection": {
+            "name": "weeb",
+            "family": "Caneta-Silva"
+        },
+        "properties": {
+            "files": [
+                {
+                    "uri": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/5352413d4b455a76259826cb404c1930/5352413d4b455a76259826cb404c1930.jpg",
+                    "type": "image/jpg"
+                }
+            ],
+            "category": "image",
+            "maxSupply": 0,
+            "creators": [
+                {
+                    "address": "CXretoxLBQDmFwDbf4qJYVX49UaA4PPMy3pCtfm2yzVH",
+                    "share": 100
+                }
+            ]
+        }
+    },
+    {
+        "id": "cfca5314b31c11801d2aa2ebea8c84d0",
+        "title": "Mystical Alien Shaman in Studio Ghibli Style",
+        "description": "Create a landscape full body image of a alien shaman in the style of Studio Ghibli",
+        "created": "2024-12-16 19:59:42.081487",
+        "prompt": {
+            "prompt": "Create a landscape full body image of a alien shaman in the style of Studio Ghibli",
+            "id": "7c2ebfa5b043ed2911eeb66167eee933",
+            "prompt_history": [
+                "Create a landscape full body image of a alien shaman in the style of Studio Ghibli"
+            ],
+            "revised_at": null,
+            "revised_prompt": false,
+            "enhanced_at": null,
+            "enhanced_prompt": false,
+            "seeded_at": "2024-12-15 20:49:11.943538",
+            "seed_prompt": "Create a landscape full body image of a alien shaman in the style of Studio Ghibli",
+            "metadata": {
+                "element": "shaman",
+                "style": "Studio Ghibli",
+                "aspect_ratio": "landscape",
+                "backdrop": "spaceship",
+                "animal": "camel",
+                "modifiers": {
+                    "image": "full body",
+                    "element": "alien",
+                    "backdrop": "alien"
+                }
+            },
+            "template": {
+                "style": true,
+                "aspect_ratio": true,
+                "element": true,
+                "backdrop": false,
+                "modifiers": {
+                    "image": true,
+                    "element": false,
+                    "backdrop": false
+                },
+                "animal": false,
+                "name": "Standard",
+                "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+            },
+            "title": "Mystical Alien Shaman in Studio Ghibli Style"
+        },
+        "urls": {
+            "openai": "http://192.168.1.85:8081/generated-images/b643288535219.png",
+            "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/cfca5314b31c11801d2aa2ebea8c84d0/cfca5314b31c11801d2aa2ebea8c84d0.jpg"
+        },
+        "tags": [],
+        "model_version": "dreamshaper",
+        "name": "Nebula Dreamwalker",
+        "symbol": "CFCA5314B",
+        "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/cfca5314b31c11801d2aa2ebea8c84d0/cfca5314b31c11801d2aa2ebea8c84d0.jpg"
+    },
+    {
+        "id": "c298e2236000b62554c13581b13668bd",
+        "title": "The Galactic Sovereign: An Alien Emperor in Studio Ghibli Style",
+        "description": "The Galactic Sovereign: An Alien Emperor in Studio Ghibli Style",
+        "created": "2024-12-16 20:06:33.127619",
+        "prompt": {
+            "prompt": "Create a landscape full body image of a alien emperor in the style of Studio Ghibli",
+            "id": "99ae569a4e96bfa0fd792f8dba7e500b",
+            "prompt_history": [
+                "Create a landscape full body image of a alien emperor in the style of Studio Ghibli"
+            ],
+            "revised_at": null,
+            "revised_prompt": false,
+            "enhanced_at": null,
+            "enhanced_prompt": false,
+            "seeded_at": "2024-12-15 20:49:11.951341",
+            "seed_prompt": "Create a landscape full body image of a alien emperor in the style of Studio Ghibli",
+            "metadata": {
+                "element": "emperor",
+                "style": "Studio Ghibli",
+                "aspect_ratio": "landscape",
+                "backdrop": "desert",
+                "animal": "camel",
+                "modifiers": {
+                    "image": "full body",
+                    "element": "alien",
+                    "backdrop": "futuristic"
+                }
+            },
+            "template": {
+                "style": true,
+                "aspect_ratio": true,
+                "element": true,
+                "backdrop": false,
+                "modifiers": {
+                    "image": true,
+                    "element": false,
+                    "backdrop": false
+                },
+                "animal": false,
+                "name": "Standard",
+                "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+            },
+            "title": "The Galactic Sovereign: An Alien Emperor in Studio Ghibli Style"
+        },
+        "urls": {
+            "openai": "http://192.168.1.85:8081/generated-images/b641999941290.png",
+            "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/c298e2236000b62554c13581b13668bd/c298e2236000b62554c13581b13668bd.jpg"
+        },
+        "tags": [],
+        "model_version": "dreamshaper",
+        "name": "GalaxianMajesty",
+        "symbol": "C298E",
+        "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/c298e2236000b62554c13581b13668bd/c298e2236000b62554c13581b13668bd.jpg",
+        "seller_fee_basis_points": 100,
+        "external_url": null,
+        "attributes": {},
+        "collection": {
+            "name": "weeb",
+            "family": "Caneta-Silva"
+        },
+        "properties": {
+            "files": [
+                {
+                    "uri": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/c298e2236000b62554c13581b13668bd/c298e2236000b62554c13581b13668bd.jpg",
+                    "type": "image/jpg"
+                }
+            ],
+            "category": "image",
+            "maxSupply": 0,
+            "creators": [
+                {
+                    "address": "CXretoxLBQDmFwDbf4qJYVX49UaA4PPMy3pCtfm2yzVH",
+                    "share": 100
+                }
+            ]
+        }
+    },
+    {
+        "id": "98aea12a0515955e2ff39f82da9c7d0c",
+        "title": "Futuristic Police Officer in the Style of Studio Ghibli",
+        "description": "Create a landscape full body image of a futuristic police in the style of Studio Ghibli",
+        "created": "2024-12-16 20:03:18.502651",
+        "prompt": {
+            "prompt": "Create a landscape full body image of a futuristic police in the style of Studio Ghibli",
+            "id": "a14f9fc334f8384c315fd51d9fd7a981",
+            "prompt_history": [
+                "Create a landscape full body image of a futuristic police in the style of Studio Ghibli"
+            ],
+            "revised_at": null,
+            "revised_prompt": false,
+            "enhanced_at": null,
+            "enhanced_prompt": false,
+            "seeded_at": "2024-12-15 20:49:11.815516",
+            "seed_prompt": "Create a landscape full body image of a futuristic police in the style of Studio Ghibli",
+            "metadata": {
+                "element": "police",
+                "style": "Studio Ghibli",
+                "aspect_ratio": "landscape",
+                "backdrop": "waterfall",
+                "animal": "elephant",
+                "modifiers": {
+                    "image": "full body",
+                    "element": "futuristic",
+                    "backdrop": "futuristic alien"
+                }
+            },
+            "template": {
+                "style": true,
+                "aspect_ratio": true,
+                "element": true,
+                "backdrop": false,
+                "modifiers": {
+                    "image": true,
+                    "element": false,
+                    "backdrop": false
+                },
+                "animal": false,
+                "name": "Standard",
+                "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+            },
+            "title": "Futuristic Police Officer in the Style of Studio Ghibli"
+        },
+        "urls": {
+            "openai": "http://192.168.1.85:8081/generated-images/b6480522141.png",
+            "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/98aea12a0515955e2ff39f82da9c7d0c/98aea12a0515955e2ff39f82da9c7d0c.jpg"
+        },
+        "tags": [],
+        "model_version": "dreamshaper",
+        "name": "Guardian of Tomorrow",
+        "symbol": "98AEA12A0",
+        "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/98aea12a0515955e2ff39f82da9c7d0c/98aea12a0515955e2ff39f82da9c7d0c.jpg"
+    },
+    {
+        "id": "bbe1f1e4f1bbc798b833b419a9eca3a0",
+        "title": "Futuristic Riot Police Robot in Studio Ghibli Style",
+        "description": "Create a landscape full body image of a futuristic riot police robot in the style of Studio Ghibli",
+        "created": "2024-12-16 20:14:57.337211",
+        "prompt": {
+            "prompt": "Create a landscape full body image of a futuristic riot police robot in the style of Studio Ghibli",
+            "id": "99437451477a09c1d0ddf61fd402fc71",
+            "prompt_history": [
+                "Create a landscape full body image of a futuristic riot police robot in the style of Studio Ghibli"
+            ],
+            "revised_at": null,
+            "revised_prompt": false,
+            "enhanced_at": null,
+            "enhanced_prompt": false,
+            "seeded_at": "2024-12-15 20:49:11.716090",
+            "seed_prompt": "Create a landscape full body image of a futuristic riot police robot in the style of Studio Ghibli",
+            "metadata": {
+                "element": "riot police robot",
+                "style": "Studio Ghibli",
+                "aspect_ratio": "landscape",
+                "backdrop": "desert",
+                "animal": "elephant",
+                "modifiers": {
+                    "image": "full body",
+                    "element": "futuristic",
+                    "backdrop": "alien"
+                }
+            },
+            "template": {
+                "style": true,
+                "aspect_ratio": true,
+                "element": true,
+                "backdrop": false,
+                "modifiers": {
+                    "image": true,
+                    "element": false,
+                    "backdrop": false
+                },
+                "animal": false,
+                "name": "Standard",
+                "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+            },
+            "title": "Futuristic Riot Police Robot in Studio Ghibli Style"
+        },
+        "urls": {
+            "openai": "http://192.168.1.85:8081/generated-images/b643298126193.png",
+            "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/bbe1f1e4f1bbc798b833b419a9eca3a0/bbe1f1e4f1bbc798b833b419a9eca3a0.jpg"
+        },
+        "tags": [],
+        "model_version": "dreamshaper",
+        "name": "Harbinger Blue",
+        "symbol": "BBE1F1E4F",
+        "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/bbe1f1e4f1bbc798b833b419a9eca3a0/bbe1f1e4f1bbc798b833b419a9eca3a0.jpg"
     }
 ]
