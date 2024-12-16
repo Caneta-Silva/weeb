@@ -1,11 +1,11 @@
 {
     "id": "dbdb4a74d74a4d97769d7f4b9705c1db",
-    "title": "Ethereal Alien Tribe Chief: A Studio Ghibli Inspired Creation",
+    "title": "The Alien Tribe Chief of Enchanted Lands",
     "description": "Create a landscape full body image of a alien tribe chief in the style of Studio Ghibli",
-    "created": "2024-12-15 22:03:31.387967",
+    "created": "2024-12-16 09:16:26.813754",
     "prompt": {
         "prompt": "Create a landscape full body image of a alien tribe chief in the style of Studio Ghibli",
-        "id": "8fb66e65db68229e19f40aa7dccd33ef",
+        "id": "53fe83d3485c464aa894b6c0e7621aef",
         "prompt_history": [
             "Create a landscape full body image of a alien tribe chief in the style of Studio Ghibli"
         ],
@@ -13,18 +13,18 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:11.930703",
+        "seeded_at": "2024-12-15 20:49:11.926391",
         "seed_prompt": "Create a landscape full body image of a alien tribe chief in the style of Studio Ghibli",
         "metadata": {
             "element": "tribe chief",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "waterfall",
-            "animal": "elephant",
+            "backdrop": "tropical forest",
+            "animal": "deer",
             "modifiers": {
                 "image": "full body",
                 "element": "alien",
-                "backdrop": "futuristic alien"
+                "backdrop": "alien"
             }
         },
         "template": {
@@ -41,12 +41,12 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Ethereal Alien Tribe Chief: A Studio Ghibli Inspired Creation"
+        "title": "The Alien Tribe Chief of Enchanted Lands"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b643601635526.png",
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-edpBtn3gc6M66T3Ac5chF9gq.png?st=2024-12-16T08%3A16%3A20Z&se=2024-12-16T10%3A16%3A20Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-15T19%3A15%3A30Z&ske=2024-12-16T19%3A15%3A30Z&sks=b&skv=2024-08-04&sig=V0AdAS7GMixNb%2Ba7kD9hfnrkWopUH3Jpzx4wvIxwfRo%3D",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/dbdb4a74d74a4d97769d7f4b9705c1db/dbdb4a74d74a4d97769d7f4b9705c1db.jpg"
     },
     "tags": [],
-    "model_version": "dreamshaper"
+    "model_version": "dall-e-2"
 }
