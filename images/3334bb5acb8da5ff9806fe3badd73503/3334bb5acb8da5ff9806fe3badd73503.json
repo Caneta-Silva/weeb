@@ -2,10 +2,10 @@
     "id": "3334bb5acb8da5ff9806fe3badd73503",
     "title": "Futuristic Tribe Chief in Studio Ghibli Style",
     "description": "Create a landscape full body image of a futuristic tribe chief in the style of Studio Ghibli",
-    "created": "2024-12-15 21:21:04.393017",
+    "created": "2024-12-16 18:43:19.145287",
     "prompt": {
         "prompt": "Create a landscape full body image of a futuristic tribe chief in the style of Studio Ghibli",
-        "id": "e07ee4234b453a9bcf4e971e751d5639",
+        "id": "fbe750f8495f78cdc630a838e1a76211",
         "prompt_history": [
             "Create a landscape full body image of a futuristic tribe chief in the style of Studio Ghibli"
         ],
@@ -13,14 +13,14 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:11.771110",
+        "seeded_at": "2024-12-15 20:49:11.766620",
         "seed_prompt": "Create a landscape full body image of a futuristic tribe chief in the style of Studio Ghibli",
         "metadata": {
             "element": "tribe chief",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "fortress",
-            "animal": "camel",
+            "backdrop": "Martial landscape",
+            "animal": "giraffe",
             "modifiers": {
                 "image": "full body",
                 "element": "futuristic",
@@ -44,7 +44,7 @@
         "title": "Futuristic Tribe Chief in Studio Ghibli Style"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b643333823098.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b642659024861.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/3334bb5acb8da5ff9806fe3badd73503/3334bb5acb8da5ff9806fe3badd73503.jpg"
     },
     "tags": [],
