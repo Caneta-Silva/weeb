@@ -1,11 +1,11 @@
 {
     "id": "c298e2236000b62554c13581b13668bd",
-    "title": "The Alien Emperor's Enchanted Domain",
-    "description": "The Alien Emperor's Enchanted Domain",
-    "created": "2024-12-16 19:51:27.242837",
+    "title": "Majestic Alien Emperor in Studio Ghibli Style",
+    "description": "Majestic Alien Emperor in Studio Ghibli Style",
+    "created": "2024-12-16 19:57:25.366286",
     "prompt": {
         "prompt": "Create a landscape full body image of a alien emperor in the style of Studio Ghibli",
-        "id": "b904dae28238b82c1ef9c0d1fa2fa5f2",
+        "id": "2df629bc93fdd66b7870ea0f54f3cf81",
         "prompt_history": [
             "Create a landscape full body image of a alien emperor in the style of Studio Ghibli"
         ],
@@ -13,14 +13,14 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:11.957653",
+        "seeded_at": "2024-12-15 20:49:11.959886",
         "seed_prompt": "Create a landscape full body image of a alien emperor in the style of Studio Ghibli",
         "metadata": {
             "element": "emperor",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "desert",
-            "animal": "deer",
+            "backdrop": "forest",
+            "animal": "camel",
             "modifiers": {
                 "image": "full body",
                 "element": "alien",
@@ -41,15 +41,15 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "The Alien Emperor's Enchanted Domain"
+        "title": "Majestic Alien Emperor in Studio Ghibli Style"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b642759897581.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b641821328124.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/c298e2236000b62554c13581b13668bd/c298e2236000b62554c13581b13668bd.jpg"
     },
     "tags": [],
     "model_version": "dreamshaper",
-    "name": "GalactoRuler",
+    "name": "Nebulonroyal",
     "symbol": "C298E",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/c298e2236000b62554c13581b13668bd/c298e2236000b62554c13581b13668bd.jpg",
     "seller_fee_basis_points": 100,
