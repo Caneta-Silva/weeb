@@ -1,11 +1,11 @@
 {
     "id": "8bb6aa2cbe1c3d597941d856aee9aa98",
-    "title": "Warrior of the Alien Tribe",
-    "description": "Warrior of the Alien Tribe",
-    "created": "2024-12-16 20:06:09.820186",
+    "title": "Alien Tribe Warrior - Studio Ghibli Style",
+    "description": "Alien Tribe Warrior - Studio Ghibli Style",
+    "created": "2024-12-16 20:10:29.951131",
     "prompt": {
         "prompt": "Create a landscape full body image of a alien tribe warrior in the style of Studio Ghibli",
-        "id": "a7028f74e5295816d4aec0717332342a",
+        "id": "d5e08e33ac6435340ddeb54b9972d8eb",
         "prompt_history": [
             "Create a landscape full body image of a alien tribe warrior in the style of Studio Ghibli"
         ],
@@ -13,18 +13,18 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:11.908826",
+        "seeded_at": "2024-12-15 20:49:11.908397",
         "seed_prompt": "Create a landscape full body image of a alien tribe warrior in the style of Studio Ghibli",
         "metadata": {
             "element": "tribe warrior",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "Martial landscape",
-            "animal": "gnu",
+            "backdrop": "fortress",
+            "animal": "rhino",
             "modifiers": {
                 "image": "full body",
                 "element": "alien",
-                "backdrop": "alien"
+                "backdrop": "futuristic"
             }
         },
         "template": {
@@ -41,15 +41,15 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Warrior of the Alien Tribe"
+        "title": "Alien Tribe Warrior - Studio Ghibli Style"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b642142716484.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b641943915459.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/8bb6aa2cbe1c3d597941d856aee9aa98/8bb6aa2cbe1c3d597941d856aee9aa98.jpg"
     },
     "tags": [],
     "model_version": "dreamshaper",
-    "name": "Zar'khal the Warden",
+    "name": "GhibliAlienWarrior",
     "symbol": "8BB6A",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/8bb6aa2cbe1c3d597941d856aee9aa98/8bb6aa2cbe1c3d597941d856aee9aa98.jpg",
     "seller_fee_basis_points": 100,
