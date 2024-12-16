@@ -1,11 +1,11 @@
 {
     "id": "efa36871f190c28ffe12b1a89bb981b8",
-    "title": "Futuristic Alien Firefighter: A Studio Ghibli Inspired Landscape",
+    "title": "Futuristic Alien Firefighter in Studio Ghibli Style",
     "description": "Create a landscape full body image of a futuristic alien firefighter in the style of Studio Ghibli",
-    "created": "2024-12-16 19:54:25.470795",
+    "created": "2024-12-16 20:01:59.175181",
     "prompt": {
         "prompt": "Create a landscape full body image of a futuristic alien firefighter in the style of Studio Ghibli",
-        "id": "8563e995a01eff4dea8d5c60fe3044dd",
+        "id": "d3a4038b2d4cd71e880c68ac813eafe0",
         "prompt_history": [
             "Create a landscape full body image of a futuristic alien firefighter in the style of Studio Ghibli"
         ],
@@ -13,18 +13,18 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:12.143063",
+        "seeded_at": "2024-12-15 20:49:12.138643",
         "seed_prompt": "Create a landscape full body image of a futuristic alien firefighter in the style of Studio Ghibli",
         "metadata": {
             "element": "firefighter",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "spaceship",
-            "animal": "deer",
+            "backdrop": "fortress",
+            "animal": "giraffe",
             "modifiers": {
                 "image": "full body",
                 "element": "futuristic alien",
-                "backdrop": "alien"
+                "backdrop": "futuristic"
             }
         },
         "template": {
@@ -41,15 +41,15 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Futuristic Alien Firefighter: A Studio Ghibli Inspired Landscape"
+        "title": "Futuristic Alien Firefighter in Studio Ghibli Style"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b644123797438.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b643293443499.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/efa36871f190c28ffe12b1a89bb981b8/efa36871f190c28ffe12b1a89bb981b8.jpg"
     },
     "tags": [],
     "model_version": "dreamshaper",
-    "name": "Nebula Flame Guardian",
+    "name": "Nova Sentinel",
     "symbol": "EFA36871F",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/efa36871f190c28ffe12b1a89bb981b8/efa36871f190c28ffe12b1a89bb981b8.jpg"
 }
