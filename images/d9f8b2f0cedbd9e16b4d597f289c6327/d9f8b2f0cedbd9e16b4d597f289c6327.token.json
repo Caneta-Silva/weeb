@@ -1,11 +1,11 @@
 {
     "id": "d9f8b2f0cedbd9e16b4d597f289c6327",
-    "title": "Futuristic Medic in Studio Ghibli Style",
+    "title": "Futuristic Medic in Ghibli Style",
     "description": "Create a landscape full body image of a futuristic medic in the style of Studio Ghibli",
-    "created": "2024-12-16 18:42:54.810512",
+    "created": "2024-12-16 20:18:31.091247",
     "prompt": {
         "prompt": "Create a landscape full body image of a futuristic medic in the style of Studio Ghibli",
-        "id": "207d68dddef76b082e410abcc4d4aa0c",
+        "id": "ad0cb5010c177c52135205d3551693ba",
         "prompt_history": [
             "Create a landscape full body image of a futuristic medic in the style of Studio Ghibli"
         ],
@@ -13,14 +13,14 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:11.855715",
+        "seeded_at": "2024-12-15 20:49:11.852634",
         "seed_prompt": "Create a landscape full body image of a futuristic medic in the style of Studio Ghibli",
         "metadata": {
             "element": "medic",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "forest",
-            "animal": "horse",
+            "backdrop": "Martial landscape",
+            "animal": "deer",
             "modifiers": {
                 "image": "full body",
                 "element": "futuristic",
@@ -41,15 +41,15 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Futuristic Medic in Studio Ghibli Style"
+        "title": "Futuristic Medic in Ghibli Style"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b64961680476.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b642057179416.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/d9f8b2f0cedbd9e16b4d597f289c6327/d9f8b2f0cedbd9e16b4d597f289c6327.jpg"
     },
     "tags": [],
     "model_version": "dreamshaper",
-    "name": "Aria Healing",
+    "name": "Naru Lumina",
     "symbol": "D9F8B2F0C",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/d9f8b2f0cedbd9e16b4d597f289c6327/d9f8b2f0cedbd9e16b4d597f289c6327.jpg"
 }
