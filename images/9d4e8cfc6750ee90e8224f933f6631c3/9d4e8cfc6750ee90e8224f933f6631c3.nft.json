@@ -1,11 +1,11 @@
 {
     "id": "9d4e8cfc6750ee90e8224f933f6631c3",
-    "title": "Wanderer of Tomorrow: The Futuristic Emperor",
-    "description": "Wanderer of Tomorrow: The Futuristic Emperor",
-    "created": "2024-12-16 14:21:02.891499",
+    "title": "Emperor of Tomorrow",
+    "description": "Emperor of Tomorrow",
+    "created": "2024-12-17 22:53:25.991127",
     "prompt": {
         "prompt": "Create a landscape full body image of a futuristic emperor in the style of Studio Ghibli",
-        "id": "f958ed2a413061b5f34fdb2a3ce91be8",
+        "id": "251a7e340bce9cc5bb1ed1bd53ab9a35",
         "prompt_history": [
             "Create a landscape full body image of a futuristic emperor in the style of Studio Ghibli"
         ],
@@ -13,14 +13,14 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:11.800834",
+        "seeded_at": "2024-12-15 20:49:11.801809",
         "seed_prompt": "Create a landscape full body image of a futuristic emperor in the style of Studio Ghibli",
         "metadata": {
             "element": "emperor",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "forest",
-            "animal": "camel",
+            "backdrop": "fortress",
+            "animal": "elephant",
             "modifiers": {
                 "image": "full body",
                 "element": "futuristic",
@@ -41,15 +41,15 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Wanderer of Tomorrow: The Futuristic Emperor"
+        "title": "Emperor of Tomorrow"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b643343043328.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b642556064865.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/9d4e8cfc6750ee90e8224f933f6631c3/9d4e8cfc6750ee90e8224f933f6631c3.jpg"
     },
     "tags": [],
     "model_version": "dreamshaper",
-    "name": null,
+    "name": "NeoGhibliEmperor",
     "symbol": "9D4E8",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/9d4e8cfc6750ee90e8224f933f6631c3/9d4e8cfc6750ee90e8224f933f6631c3.jpg",
     "seller_fee_basis_points": 100,
