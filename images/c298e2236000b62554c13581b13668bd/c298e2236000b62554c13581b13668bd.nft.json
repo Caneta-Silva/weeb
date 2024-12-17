@@ -1,11 +1,11 @@
 {
     "id": "c298e2236000b62554c13581b13668bd",
-    "title": "The Galactic Sovereign: An Alien Emperor in Studio Ghibli Style",
-    "description": "The Galactic Sovereign: An Alien Emperor in Studio Ghibli Style",
-    "created": "2024-12-16 20:06:33.127619",
+    "title": "Galactic Royalty: The Alien Emperor",
+    "description": "Galactic Royalty: The Alien Emperor",
+    "created": "2024-12-17 22:53:12.704922",
     "prompt": {
         "prompt": "Create a landscape full body image of a alien emperor in the style of Studio Ghibli",
-        "id": "99ae569a4e96bfa0fd792f8dba7e500b",
+        "id": "22f74274f2296b2ad754d1b3e2add810",
         "prompt_history": [
             "Create a landscape full body image of a alien emperor in the style of Studio Ghibli"
         ],
@@ -13,18 +13,18 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:11.951341",
+        "seeded_at": "2024-12-15 20:49:11.961164",
         "seed_prompt": "Create a landscape full body image of a alien emperor in the style of Studio Ghibli",
         "metadata": {
             "element": "emperor",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "desert",
-            "animal": "camel",
+            "backdrop": "fortress",
+            "animal": "gnu",
             "modifiers": {
                 "image": "full body",
                 "element": "alien",
-                "backdrop": "futuristic"
+                "backdrop": "alien"
             }
         },
         "template": {
@@ -41,15 +41,15 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "The Galactic Sovereign: An Alien Emperor in Studio Ghibli Style"
+        "title": "Galactic Royalty: The Alien Emperor"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b641999941290.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b644207781172.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/c298e2236000b62554c13581b13668bd/c298e2236000b62554c13581b13668bd.jpg"
     },
     "tags": [],
     "model_version": "dreamshaper",
-    "name": "GalaxianMajesty",
+    "name": null,
     "symbol": "C298E",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/c298e2236000b62554c13581b13668bd/c298e2236000b62554c13581b13668bd.jpg",
     "seller_fee_basis_points": 100,
