@@ -2,10 +2,10 @@
     "id": "bbe1f1e4f1bbc798b833b419a9eca3a0",
     "title": "Futuristic Riot Police Robot in Studio Ghibli Style",
     "description": "Futuristic Riot Police Robot in Studio Ghibli Style",
-    "created": "2024-12-16 20:14:57.337211",
+    "created": "2024-12-17 11:40:27.070595",
     "prompt": {
         "prompt": "Create a landscape full body image of a futuristic riot police robot in the style of Studio Ghibli",
-        "id": "99437451477a09c1d0ddf61fd402fc71",
+        "id": "c9b9735ad21bc30bfabd9eedad351fc3",
         "prompt_history": [
             "Create a landscape full body image of a futuristic riot police robot in the style of Studio Ghibli"
         ],
@@ -13,18 +13,18 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:11.716090",
+        "seeded_at": "2024-12-15 20:49:11.721308",
         "seed_prompt": "Create a landscape full body image of a futuristic riot police robot in the style of Studio Ghibli",
         "metadata": {
             "element": "riot police robot",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
             "backdrop": "desert",
-            "animal": "elephant",
+            "animal": "giraffe",
             "modifiers": {
                 "image": "full body",
                 "element": "futuristic",
-                "backdrop": "alien"
+                "backdrop": "futuristic alien"
             }
         },
         "template": {
@@ -44,12 +44,12 @@
         "title": "Futuristic Riot Police Robot in Studio Ghibli Style"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b643298126193.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b643024376277.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/bbe1f1e4f1bbc798b833b419a9eca3a0/bbe1f1e4f1bbc798b833b419a9eca3a0.jpg"
     },
     "tags": [],
     "model_version": "dreamshaper",
-    "name": null,
+    "name": "RiotBot-Ghibli",
     "symbol": "BBE1F",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/bbe1f1e4f1bbc798b833b419a9eca3a0/bbe1f1e4f1bbc798b833b419a9eca3a0.jpg",
     "seller_fee_basis_points": 100,
