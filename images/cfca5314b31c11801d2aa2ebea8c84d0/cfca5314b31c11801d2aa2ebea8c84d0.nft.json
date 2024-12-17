@@ -1,11 +1,11 @@
 {
     "id": "cfca5314b31c11801d2aa2ebea8c84d0",
-    "title": "Mystical Alien Shaman in Studio Ghibli Style",
-    "description": "Mystical Alien Shaman in Studio Ghibli Style",
-    "created": "2024-12-16 19:59:42.081487",
+    "title": "Alien Shaman Serenity",
+    "description": "Alien Shaman Serenity",
+    "created": "2024-12-17 22:55:27.117933",
     "prompt": {
         "prompt": "Create a landscape full body image of a alien shaman in the style of Studio Ghibli",
-        "id": "7c2ebfa5b043ed2911eeb66167eee933",
+        "id": "07c68b51cccc04a1d18d878526c0c650",
         "prompt_history": [
             "Create a landscape full body image of a alien shaman in the style of Studio Ghibli"
         ],
@@ -13,14 +13,14 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:11.943538",
+        "seeded_at": "2024-12-15 20:49:11.941127",
         "seed_prompt": "Create a landscape full body image of a alien shaman in the style of Studio Ghibli",
         "metadata": {
             "element": "shaman",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "spaceship",
-            "animal": "camel",
+            "backdrop": "waterfall",
+            "animal": "elephant",
             "modifiers": {
                 "image": "full body",
                 "element": "alien",
@@ -41,15 +41,15 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Mystical Alien Shaman in Studio Ghibli Style"
+        "title": "Alien Shaman Serenity"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b643288535219.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b643879154411.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/cfca5314b31c11801d2aa2ebea8c84d0/cfca5314b31c11801d2aa2ebea8c84d0.jpg"
     },
     "tags": [],
     "model_version": "dreamshaper",
-    "name": "Lunagaia",
+    "name": "GhibliAlienShamanArt",
     "symbol": "CFCA5",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/cfca5314b31c11801d2aa2ebea8c84d0/cfca5314b31c11801d2aa2ebea8c84d0.jpg",
     "seller_fee_basis_points": 100,
