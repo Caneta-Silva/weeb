@@ -1,11 +1,11 @@
 {
     "id": "3334bb5acb8da5ff9806fe3badd73503",
-    "title": "Futuristic Tribe Chief of the Enchanted Valley",
-    "description": "Futuristic Tribe Chief of the Enchanted Valley",
-    "created": "2024-12-17 11:43:18.667405",
+    "title": "Futuristic Tribe Chief in the Style of Studio Ghibli",
+    "description": "Futuristic Tribe Chief in the Style of Studio Ghibli",
+    "created": "2024-12-17 22:51:58.288396",
     "prompt": {
         "prompt": "Create a landscape full body image of a futuristic tribe chief in the style of Studio Ghibli",
-        "id": "80c06ead37e8cee51b6e4ac5dd044ddc",
+        "id": "146f7d0848e3e87e0e6f4d3ba5d84ea7",
         "prompt_history": [
             "Create a landscape full body image of a futuristic tribe chief in the style of Studio Ghibli"
         ],
@@ -13,18 +13,18 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:11.768023",
+        "seeded_at": "2024-12-15 20:49:11.763181",
         "seed_prompt": "Create a landscape full body image of a futuristic tribe chief in the style of Studio Ghibli",
         "metadata": {
             "element": "tribe chief",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
             "backdrop": "desert",
-            "animal": "gnu",
+            "animal": "camel",
             "modifiers": {
                 "image": "full body",
                 "element": "futuristic",
-                "backdrop": "futuristic alien"
+                "backdrop": "alien"
             }
         },
         "template": {
@@ -41,15 +41,15 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Futuristic Tribe Chief of the Enchanted Valley"
+        "title": "Futuristic Tribe Chief in the Style of Studio Ghibli"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b641962608458.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b642009978041.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/3334bb5acb8da5ff9806fe3badd73503/3334bb5acb8da5ff9806fe3badd73503.jpg"
     },
     "tags": [],
     "model_version": "dreamshaper",
-    "name": null,
+    "name": "GhibliTribeChiefToken",
     "symbol": "3334B",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/3334bb5acb8da5ff9806fe3badd73503/3334bb5acb8da5ff9806fe3badd73503.jpg",
     "seller_fee_basis_points": 100,
