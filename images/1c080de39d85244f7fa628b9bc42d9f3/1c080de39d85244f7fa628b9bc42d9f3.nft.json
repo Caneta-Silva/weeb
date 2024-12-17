@@ -1,11 +1,11 @@
 {
     "id": "1c080de39d85244f7fa628b9bc42d9f3",
-    "title": "Futuristic Alien Police Officer in Studio Ghibli Style Landscape",
-    "description": "Futuristic Alien Police Officer in Studio Ghibli Style Landscape",
-    "created": "2024-12-16 20:04:03.754191",
+    "title": "The Enigmatic Guardians of AstraNova: Futuristic Alien Police in Studio Ghibli Style",
+    "description": "The Enigmatic Guardians of AstraNova: Futuristic Alien Police in Studio Ghibli Style",
+    "created": "2024-12-17 22:49:39.977622",
     "prompt": {
         "prompt": "Create a landscape full body image of a futuristic alien police in the style of Studio Ghibli",
-        "id": "a2f6d6bf80f2c35c2623114d3b65c4fa",
+        "id": "5a9aac2c8e0939aa57c89e83fbe5f05b",
         "prompt_history": [
             "Create a landscape full body image of a futuristic alien police in the style of Studio Ghibli"
         ],
@@ -13,18 +13,18 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:12.124165",
+        "seeded_at": "2024-12-15 20:49:12.132635",
         "seed_prompt": "Create a landscape full body image of a futuristic alien police in the style of Studio Ghibli",
         "metadata": {
             "element": "police",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "Martial landscape",
-            "animal": "gnu",
+            "backdrop": "forest",
+            "animal": "rhino",
             "modifiers": {
                 "image": "full body",
                 "element": "futuristic alien",
-                "backdrop": "alien"
+                "backdrop": "futuristic alien"
             }
         },
         "template": {
@@ -41,15 +41,15 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Futuristic Alien Police Officer in Studio Ghibli Style Landscape"
+        "title": "The Enigmatic Guardians of AstraNova: Futuristic Alien Police in Studio Ghibli Style"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b643257797238.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b643476061834.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/1c080de39d85244f7fa628b9bc42d9f3/1c080de39d85244f7fa628b9bc42d9f3.jpg"
     },
     "tags": [],
     "model_version": "dreamshaper",
-    "name": "GhibliCop",
+    "name": "GhibliEnforcerX",
     "symbol": "1C080",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/1c080de39d85244f7fa628b9bc42d9f3/1c080de39d85244f7fa628b9bc42d9f3.jpg",
     "seller_fee_basis_points": 100,
