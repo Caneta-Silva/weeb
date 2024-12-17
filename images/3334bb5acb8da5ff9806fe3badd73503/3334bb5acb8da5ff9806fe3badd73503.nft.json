@@ -1,11 +1,11 @@
 {
     "id": "3334bb5acb8da5ff9806fe3badd73503",
-    "title": "Futuristic Tribe Chief in Studio Ghibli Style",
-    "description": "Futuristic Tribe Chief in Studio Ghibli Style",
-    "created": "2024-12-16 18:43:19.145287",
+    "title": "Futuristic Tribe Chief of the Enchanted Valley",
+    "description": "Futuristic Tribe Chief of the Enchanted Valley",
+    "created": "2024-12-17 11:39:57.014717",
     "prompt": {
         "prompt": "Create a landscape full body image of a futuristic tribe chief in the style of Studio Ghibli",
-        "id": "fbe750f8495f78cdc630a838e1a76211",
+        "id": "8b1ef1c186f7b204f914167477757799",
         "prompt_history": [
             "Create a landscape full body image of a futuristic tribe chief in the style of Studio Ghibli"
         ],
@@ -13,18 +13,18 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:11.766620",
+        "seeded_at": "2024-12-15 20:49:11.760211",
         "seed_prompt": "Create a landscape full body image of a futuristic tribe chief in the style of Studio Ghibli",
         "metadata": {
             "element": "tribe chief",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "Martial landscape",
-            "animal": "giraffe",
+            "backdrop": "spaceship",
+            "animal": "elephant",
             "modifiers": {
                 "image": "full body",
                 "element": "futuristic",
-                "backdrop": "futuristic alien"
+                "backdrop": "futuristic"
             }
         },
         "template": {
@@ -41,10 +41,10 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Futuristic Tribe Chief in Studio Ghibli Style"
+        "title": "Futuristic Tribe Chief of the Enchanted Valley"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b642659024861.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b642499930149.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/3334bb5acb8da5ff9806fe3badd73503/3334bb5acb8da5ff9806fe3badd73503.jpg"
     },
     "tags": [],
