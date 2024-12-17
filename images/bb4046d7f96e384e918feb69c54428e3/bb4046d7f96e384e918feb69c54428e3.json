@@ -1,11 +1,11 @@
 {
     "id": "bb4046d7f96e384e918feb69c54428e3",
-    "title": "Futuristic Tribe Warrior of the Enchanted Forest",
+    "title": "Futuristic Tribe Warrior of the Mystical Forest",
     "description": "Create a landscape full body image of a futuristic tribe warrior in the style of Studio Ghibli",
-    "created": "2024-12-16 20:18:06.736527",
+    "created": "2024-12-17 11:41:28.603195",
     "prompt": {
         "prompt": "Create a landscape full body image of a futuristic tribe warrior in the style of Studio Ghibli",
-        "id": "6b1d010641f5568aa1159e5bc6d8dcf7",
+        "id": "a9a3859ce762708e19baff0c0ecd2655",
         "prompt_history": [
             "Create a landscape full body image of a futuristic tribe warrior in the style of Studio Ghibli"
         ],
@@ -13,13 +13,13 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:11.741904",
+        "seeded_at": "2024-12-15 20:49:11.742566",
         "seed_prompt": "Create a landscape full body image of a futuristic tribe warrior in the style of Studio Ghibli",
         "metadata": {
             "element": "tribe warrior",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "desert landscape",
+            "backdrop": "desert",
             "animal": "giraffe",
             "modifiers": {
                 "image": "full body",
@@ -41,10 +41,10 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Futuristic Tribe Warrior of the Enchanted Forest"
+        "title": "Futuristic Tribe Warrior of the Mystical Forest"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b643073470576.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b642870488533.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/bb4046d7f96e384e918feb69c54428e3/bb4046d7f96e384e918feb69c54428e3.jpg"
     },
     "tags": [],
