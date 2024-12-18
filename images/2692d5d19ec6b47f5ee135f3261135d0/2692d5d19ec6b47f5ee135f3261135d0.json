@@ -1,11 +1,11 @@
 {
     "id": "2692d5d19ec6b47f5ee135f3261135d0",
-    "title": "Galactic Guardian: The Alien Paladin",
+    "title": "Galactic Defender: The Alien Paladin",
     "description": "Create a landscape full body image of a alien paladin style military in the style of Studio Ghibli",
-    "created": "2024-12-18 08:18:14.308347",
+    "created": "2024-12-18 09:53:44.765258",
     "prompt": {
         "prompt": "Create a landscape full body image of a alien paladin style military in the style of Studio Ghibli",
-        "id": "d325d61ad5fc419351246f961620736b",
+        "id": "22c858ca4b5fab466565bb2e7bcee730",
         "prompt_history": [
             "Create a landscape full body image of a alien paladin style military in the style of Studio Ghibli"
         ],
@@ -13,14 +13,14 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:11.860224",
+        "seeded_at": "2024-12-15 20:49:11.860047",
         "seed_prompt": "Create a landscape full body image of a alien paladin style military in the style of Studio Ghibli",
         "metadata": {
             "element": "paladin style military",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "tropical forest",
-            "animal": "horse",
+            "backdrop": "waterfall",
+            "animal": "camel",
             "modifiers": {
                 "image": "full body",
                 "element": "alien",
@@ -41,10 +41,10 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Galactic Guardian: The Alien Paladin"
+        "title": "Galactic Defender: The Alien Paladin"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b64119025873.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b64441909870.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/2692d5d19ec6b47f5ee135f3261135d0/2692d5d19ec6b47f5ee135f3261135d0.jpg"
     },
     "tags": [],
