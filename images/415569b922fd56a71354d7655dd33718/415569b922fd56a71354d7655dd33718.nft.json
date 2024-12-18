@@ -1,11 +1,11 @@
 {
     "id": "415569b922fd56a71354d7655dd33718",
-    "title": "Desert Warrior of the Alien Tribe",
-    "description": "Desert Warrior of the Alien Tribe",
-    "created": "2024-12-16 20:20:52.814043",
+    "title": "Sand Dunes and Sentinels",
+    "description": "Sand Dunes and Sentinels",
+    "created": "2024-12-18 07:20:17.643410",
     "prompt": {
         "prompt": "Create a landscape full body image of a alien desert tribe warrior in the style of Studio Ghibli",
-        "id": "020f4f47ac50eebc9103227562f1ff6d",
+        "id": "e91bcbb3a479463c931db4665044cd57",
         "prompt_history": [
             "Create a landscape full body image of a alien desert tribe warrior in the style of Studio Ghibli"
         ],
@@ -13,18 +13,18 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:11.897349",
+        "seeded_at": "2024-12-15 20:49:11.899182",
         "seed_prompt": "Create a landscape full body image of a alien desert tribe warrior in the style of Studio Ghibli",
         "metadata": {
             "element": "desert tribe warrior",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "spaceship",
-            "animal": "deer",
+            "backdrop": "desert landscape",
+            "animal": "giraffe",
             "modifiers": {
                 "image": "full body",
                 "element": "alien",
-                "backdrop": "alien"
+                "backdrop": "futuristic alien"
             }
         },
         "template": {
@@ -41,15 +41,15 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Desert Warrior of the Alien Tribe"
+        "title": "Sand Dunes and Sentinels"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b642042801539.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b643188756802.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/415569b922fd56a71354d7655dd33718/415569b922fd56a71354d7655dd33718.jpg"
     },
     "tags": [],
     "model_version": "dreamshaper",
-    "name": "Xenar Sandwalker",
+    "name": "Ghastly Sand Shifter",
     "symbol": "41556",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/415569b922fd56a71354d7655dd33718/415569b922fd56a71354d7655dd33718.jpg",
     "seller_fee_basis_points": 100,
