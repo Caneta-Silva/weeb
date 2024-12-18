@@ -1,11 +1,11 @@
 {
     "id": "1c080de39d85244f7fa628b9bc42d9f3",
-    "title": "The Enigmatic Guardians of AstraNova: Futuristic Alien Police in Studio Ghibli Style",
+    "title": "Futuristic Alien Police in Studio Ghibli Style",
     "description": "Create a landscape full body image of a futuristic alien police in the style of Studio Ghibli",
-    "created": "2024-12-17 22:49:39.977622",
+    "created": "2024-12-18 06:34:06.934873",
     "prompt": {
         "prompt": "Create a landscape full body image of a futuristic alien police in the style of Studio Ghibli",
-        "id": "5a9aac2c8e0939aa57c89e83fbe5f05b",
+        "id": "58647c2753e73c3df7f3e39595689e10",
         "prompt_history": [
             "Create a landscape full body image of a futuristic alien police in the style of Studio Ghibli"
         ],
@@ -13,18 +13,18 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:12.132635",
+        "seeded_at": "2024-12-15 20:49:12.118789",
         "seed_prompt": "Create a landscape full body image of a futuristic alien police in the style of Studio Ghibli",
         "metadata": {
             "element": "police",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "forest",
-            "animal": "rhino",
+            "backdrop": "Martial landscape",
+            "animal": "horse",
             "modifiers": {
                 "image": "full body",
                 "element": "futuristic alien",
-                "backdrop": "futuristic alien"
+                "backdrop": "futuristic"
             }
         },
         "template": {
@@ -41,15 +41,15 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "The Enigmatic Guardians of AstraNova: Futuristic Alien Police in Studio Ghibli Style"
+        "title": "Futuristic Alien Police in Studio Ghibli Style"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b643476061834.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b641327175351.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/1c080de39d85244f7fa628b9bc42d9f3/1c080de39d85244f7fa628b9bc42d9f3.jpg"
     },
     "tags": [],
     "model_version": "dreamshaper",
-    "name": "Naviel Patrol",
+    "name": "Nova Sentinel",
     "symbol": "1C080DE39",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/1c080de39d85244f7fa628b9bc42d9f3/1c080de39d85244f7fa628b9bc42d9f3.jpg"
 }
