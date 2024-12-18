@@ -2,10 +2,10 @@
     "id": "e46ea160cb294451411f238a112f5c62",
     "title": "Futuristic Paladin Military in Studio Ghibli Style",
     "description": "Futuristic Paladin Military in Studio Ghibli Style",
-    "created": "2024-12-18 09:22:31.541280",
+    "created": "2024-12-18 09:40:05.219973",
     "prompt": {
         "prompt": "Create a landscape full body image of a futuristic paladin style military in the style of Studio Ghibli",
-        "id": "eeb96e6ee9d63a762f3c4aa36741d4b8",
+        "id": "e939f3dd7162df65c6993fdf9cd3a770",
         "prompt_history": [
             "Create a landscape full body image of a futuristic paladin style military in the style of Studio Ghibli"
         ],
@@ -13,18 +13,18 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:11.701724",
+        "seeded_at": "2024-12-15 20:49:11.693906",
         "seed_prompt": "Create a landscape full body image of a futuristic paladin style military in the style of Studio Ghibli",
         "metadata": {
             "element": "paladin style military",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "tropical forest",
+            "backdrop": "Martial landscape",
             "animal": "deer",
             "modifiers": {
                 "image": "full body",
                 "element": "futuristic",
-                "backdrop": "alien"
+                "backdrop": "futuristic"
             }
         },
         "template": {
@@ -44,12 +44,12 @@
         "title": "Futuristic Paladin Military in Studio Ghibli Style"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b642753560445.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b64149867879.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/e46ea160cb294451411f238a112f5c62/e46ea160cb294451411f238a112f5c62.jpg"
     },
     "tags": [],
     "model_version": "dreamshaper",
-    "name": "GhibliGuardian",
+    "name": null,
     "symbol": "E46EA",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/e46ea160cb294451411f238a112f5c62/e46ea160cb294451411f238a112f5c62.jpg",
     "seller_fee_basis_points": 100,
