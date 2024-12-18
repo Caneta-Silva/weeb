@@ -2,10 +2,10 @@
     "id": "c654236276bf5d988438d32d8385d073",
     "title": "Futuristic Shaman in Studio Ghibli Style",
     "description": "Create a landscape full body image of a futuristic shaman in the style of Studio Ghibli",
-    "created": "2024-12-18 10:04:14.823720",
+    "created": "2024-12-18 10:12:50.193299",
     "prompt": {
         "prompt": "Create a landscape full body image of a futuristic shaman in the style of Studio Ghibli",
-        "id": "70350a2c9db9d1647b96e98d6c935b60",
+        "id": "90f4a28766f39637fe19587aad79852c",
         "prompt_history": [
             "Create a landscape full body image of a futuristic shaman in the style of Studio Ghibli"
         ],
@@ -13,18 +13,18 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:11.781327",
+        "seeded_at": "2024-12-15 20:49:11.772854",
         "seed_prompt": "Create a landscape full body image of a futuristic shaman in the style of Studio Ghibli",
         "metadata": {
             "element": "shaman",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "fortress",
-            "animal": "elephant",
+            "backdrop": "desert",
+            "animal": "deer",
             "modifiers": {
                 "image": "full body",
                 "element": "futuristic",
-                "backdrop": "alien"
+                "backdrop": "futuristic"
             }
         },
         "template": {
@@ -44,7 +44,7 @@
         "title": "Futuristic Shaman in Studio Ghibli Style"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b64693018571.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b64351649949.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/c654236276bf5d988438d32d8385d073/c654236276bf5d988438d32d8385d073.jpg"
     },
     "tags": [],
