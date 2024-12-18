@@ -1,0 +1,78 @@
+{
+    "id": "93446ab8e89dc34401304a4554af9a62",
+    "title": "Futuristic Alien Firefighter in the Style of Studio Ghibli",
+    "description": "Futuristic Alien Firefighter in the Style of Studio Ghibli",
+    "created": "2024-12-18 15:15:56.923595",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic alien firefighter in the style of Studio Ghibli",
+        "id": "557771d139519184075e5b7f3d0f1a03",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic alien firefighter in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-15 20:49:12.145326",
+        "seed_prompt": "Create a landscape full body image of a futuristic alien firefighter in the style of Studio Ghibli",
+        "metadata": {
+            "element": "firefighter",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "desert",
+            "animal": "horse",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic alien",
+                "backdrop": "futuristic alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Futuristic Alien Firefighter in the Style of Studio Ghibli"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b641819732854.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/93446ab8e89dc34401304a4554af9a62/93446ab8e89dc34401304a4554af9a62.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "Nexaflame Rescuer",
+    "symbol": "93446",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/93446ab8e89dc34401304a4554af9a62/93446ab8e89dc34401304a4554af9a62.jpg",
+    "seller_fee_basis_points": 100,
+    "external_url": null,
+    "attributes": {},
+    "collection": {
+        "name": "weeb",
+        "family": "Caneta-Silva"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/93446ab8e89dc34401304a4554af9a62/93446ab8e89dc34401304a4554af9a62.jpg",
+                "type": "image/jpg"
+            }
+        ],
+        "category": "image",
+        "maxSupply": 0,
+        "creators": [
+            {
+                "address": "CXretoxLBQDmFwDbf4qJYVX49UaA4PPMy3pCtfm2yzVH",
+                "share": 100
+            }
+        ]
+    }
+}
