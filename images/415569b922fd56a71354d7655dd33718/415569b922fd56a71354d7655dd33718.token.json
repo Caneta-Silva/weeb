@@ -1,11 +1,11 @@
 {
     "id": "415569b922fd56a71354d7655dd33718",
-    "title": "Desert Guardian: An Alien Warrior of the Sands",
+    "title": "Desert Tribe Warrior from Another World",
     "description": "Create a landscape full body image of a alien desert tribe warrior in the style of Studio Ghibli",
-    "created": "2024-12-18 09:38:18.676381",
+    "created": "2024-12-18 09:43:04.301991",
     "prompt": {
         "prompt": "Create a landscape full body image of a alien desert tribe warrior in the style of Studio Ghibli",
-        "id": "3309d37ae17574a2e29fc07f72c39134",
+        "id": "3f9b9a15fdecc6732c2b45f71b31eb8d",
         "prompt_history": [
             "Create a landscape full body image of a alien desert tribe warrior in the style of Studio Ghibli"
         ],
@@ -13,18 +13,18 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:11.891639",
+        "seeded_at": "2024-12-15 20:49:11.899932",
         "seed_prompt": "Create a landscape full body image of a alien desert tribe warrior in the style of Studio Ghibli",
         "metadata": {
             "element": "desert tribe warrior",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "forest",
-            "animal": "gnu",
+            "backdrop": "desert",
+            "animal": "deer",
             "modifiers": {
                 "image": "full body",
                 "element": "alien",
-                "backdrop": "futuristic"
+                "backdrop": "futuristic alien"
             }
         },
         "template": {
@@ -41,15 +41,15 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Desert Guardian: An Alien Warrior of the Sands"
+        "title": "Desert Tribe Warrior from Another World"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b641865706575.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b6448362256.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/415569b922fd56a71354d7655dd33718/415569b922fd56a71354d7655dd33718.jpg"
     },
     "tags": [],
     "model_version": "dreamshaper",
-    "name": "Nebula Sands Warrior",
+    "name": "Sandshade Wanderer",
     "symbol": "415569B92",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/415569b922fd56a71354d7655dd33718/415569b922fd56a71354d7655dd33718.jpg"
 }
