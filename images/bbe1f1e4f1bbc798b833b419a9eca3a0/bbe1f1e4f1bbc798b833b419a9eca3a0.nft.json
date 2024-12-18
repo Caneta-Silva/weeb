@@ -1,11 +1,11 @@
 {
     "id": "bbe1f1e4f1bbc798b833b419a9eca3a0",
-    "title": "The Sentinels of Tomorrow: A Studio Ghibli-Inspired Riot Police Robot",
-    "description": "The Sentinels of Tomorrow: A Studio Ghibli-Inspired Riot Police Robot",
-    "created": "2024-12-18 07:03:32.631421",
+    "title": "Futuristic Riot Police Robot in Studio Ghibli Style",
+    "description": "Futuristic Riot Police Robot in Studio Ghibli Style",
+    "created": "2024-12-18 07:20:34.899984",
     "prompt": {
         "prompt": "Create a landscape full body image of a futuristic riot police robot in the style of Studio Ghibli",
-        "id": "2a1e06ae27bd7832b03247de2614fc9c",
+        "id": "75087293daf539fec0b8fa264721dba2",
         "prompt_history": [
             "Create a landscape full body image of a futuristic riot police robot in the style of Studio Ghibli"
         ],
@@ -13,18 +13,18 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:11.724233",
+        "seeded_at": "2024-12-15 20:49:11.718582",
         "seed_prompt": "Create a landscape full body image of a futuristic riot police robot in the style of Studio Ghibli",
         "metadata": {
             "element": "riot police robot",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
             "backdrop": "spaceship",
-            "animal": "camel",
+            "animal": "horse",
             "modifiers": {
                 "image": "full body",
                 "element": "futuristic",
-                "backdrop": "futuristic alien"
+                "backdrop": "alien"
             }
         },
         "template": {
@@ -41,15 +41,15 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "The Sentinels of Tomorrow: A Studio Ghibli-Inspired Riot Police Robot"
+        "title": "Futuristic Riot Police Robot in Studio Ghibli Style"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b64556822729.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b64956557140.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/bbe1f1e4f1bbc798b833b419a9eca3a0/bbe1f1e4f1bbc798b833b419a9eca3a0.jpg"
     },
     "tags": [],
     "model_version": "dreamshaper",
-    "name": "GhibliCop",
+    "name": "Riotbot Ghibli",
     "symbol": "BBE1F",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/bbe1f1e4f1bbc798b833b419a9eca3a0/bbe1f1e4f1bbc798b833b419a9eca3a0.jpg",
     "seller_fee_basis_points": 100,
