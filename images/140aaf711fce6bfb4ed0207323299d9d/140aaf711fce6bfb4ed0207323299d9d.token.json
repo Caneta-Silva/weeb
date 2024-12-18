@@ -1,11 +1,11 @@
 {
     "id": "140aaf711fce6bfb4ed0207323299d9d",
-    "title": "Futuristic Alien Paladin: A Studio Ghibli-Inspired Masterpiece",
+    "title": "Futuristic Alien Paladin: A Studio Ghibli Inspired Creation",
     "description": "Create a landscape full body image of a futuristic alien paladin style military in the style of Studio Ghibli",
-    "created": "2024-12-16 19:45:37.149172",
+    "created": "2024-12-18 06:17:24.260566",
     "prompt": {
         "prompt": "Create a landscape full body image of a futuristic alien paladin style military in the style of Studio Ghibli",
-        "id": "50cf6be59113523730ca0d4a7a52f383",
+        "id": "6c370df8cee384ba0f90b829ea9700f2",
         "prompt_history": [
             "Create a landscape full body image of a futuristic alien paladin style military in the style of Studio Ghibli"
         ],
@@ -13,14 +13,14 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:12.018782",
+        "seeded_at": "2024-12-15 20:49:12.021773",
         "seed_prompt": "Create a landscape full body image of a futuristic alien paladin style military in the style of Studio Ghibli",
         "metadata": {
             "element": "paladin style military",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "desert landscape",
-            "animal": "horse",
+            "backdrop": "forest",
+            "animal": "camel",
             "modifiers": {
                 "image": "full body",
                 "element": "futuristic alien",
@@ -41,15 +41,15 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Futuristic Alien Paladin: A Studio Ghibli-Inspired Masterpiece"
+        "title": "Futuristic Alien Paladin: A Studio Ghibli Inspired Creation"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b643918703177.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b641313853794.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/140aaf711fce6bfb4ed0207323299d9d/140aaf711fce6bfb4ed0207323299d9d.jpg"
     },
     "tags": [],
     "model_version": "dreamshaper",
-    "name": "Nebula Sentinel",
+    "name": "Nova Guardian",
     "symbol": "140AAF711",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/140aaf711fce6bfb4ed0207323299d9d/140aaf711fce6bfb4ed0207323299d9d.jpg"
 }
