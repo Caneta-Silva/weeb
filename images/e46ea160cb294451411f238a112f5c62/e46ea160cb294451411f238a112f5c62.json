@@ -2,10 +2,10 @@
     "id": "e46ea160cb294451411f238a112f5c62",
     "title": "Futuristic Paladin Military in Studio Ghibli Style",
     "description": "Create a landscape full body image of a futuristic paladin style military in the style of Studio Ghibli",
-    "created": "2024-12-18 09:18:10.561738",
+    "created": "2024-12-18 09:22:31.541280",
     "prompt": {
         "prompt": "Create a landscape full body image of a futuristic paladin style military in the style of Studio Ghibli",
-        "id": "fb0ab28a0621f347739e06e7f5a33130",
+        "id": "eeb96e6ee9d63a762f3c4aa36741d4b8",
         "prompt_history": [
             "Create a landscape full body image of a futuristic paladin style military in the style of Studio Ghibli"
         ],
@@ -13,18 +13,18 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:11.695859",
+        "seeded_at": "2024-12-15 20:49:11.701724",
         "seed_prompt": "Create a landscape full body image of a futuristic paladin style military in the style of Studio Ghibli",
         "metadata": {
             "element": "paladin style military",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "waterfall",
-            "animal": "giraffe",
+            "backdrop": "tropical forest",
+            "animal": "deer",
             "modifiers": {
                 "image": "full body",
                 "element": "futuristic",
-                "backdrop": "futuristic"
+                "backdrop": "alien"
             }
         },
         "template": {
@@ -44,7 +44,7 @@
         "title": "Futuristic Paladin Military in Studio Ghibli Style"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b642853269371.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b642753560445.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/e46ea160cb294451411f238a112f5c62/e46ea160cb294451411f238a112f5c62.jpg"
     },
     "tags": [],
