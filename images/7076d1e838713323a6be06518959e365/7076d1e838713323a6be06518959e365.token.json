@@ -1,0 +1,31 @@
+{
+    "id": "7076d1e838713323a6be06518959e365",
+    "title": "The Otherworldly Ride of the Space Invader",
+    "description": "A nazi alien mounted on a horse in the style of Studio Ghibli",
+    "created": "2024-12-18 21:28:07.901768",
+    "prompt": {
+        "prompt": "A nazi alien mounted on a horse in the style of Studio Ghibli",
+        "id": "e3562d741a64647d61724450951b56b7",
+        "prompt_history": [
+            "A nazi alien mounted on a horse in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-18 21:25:51.143822",
+        "seed_prompt": "A nazi alien mounted on a horse in the style of Studio Ghibli",
+        "metadata": null,
+        "template": null,
+        "title": "The Otherworldly Ride of the Space Invader"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b641092944376.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/7076d1e838713323a6be06518959e365/7076d1e838713323a6be06518959e365.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "Blitzkrieg Galactica",
+    "symbol": "7076D1E83",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/7076d1e838713323a6be06518959e365/7076d1e838713323a6be06518959e365.jpg"
+}
