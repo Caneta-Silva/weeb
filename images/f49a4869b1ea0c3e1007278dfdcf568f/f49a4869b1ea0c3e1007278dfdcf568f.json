@@ -1,11 +1,11 @@
 {
     "id": "f49a4869b1ea0c3e1007278dfdcf568f",
-    "title": "Desert Nomad: A Futuristic Tale",
+    "title": "Futuristic Desert Tribe Warrior - Studio Ghibli Style",
     "description": "Create a landscape full body image of a futuristic desert tribe warrior in the style of Studio Ghibli",
-    "created": "2024-12-18 08:17:33.275258",
+    "created": "2024-12-18 09:36:47.932941",
     "prompt": {
         "prompt": "Create a landscape full body image of a futuristic desert tribe warrior in the style of Studio Ghibli",
-        "id": "9ff86bd9e859cdb077871d259346ea49",
+        "id": "31e8c4b76036772f47570e37e7a7b1a8",
         "prompt_history": [
             "Create a landscape full body image of a futuristic desert tribe warrior in the style of Studio Ghibli"
         ],
@@ -13,14 +13,14 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:11.733956",
+        "seeded_at": "2024-12-15 20:49:11.731064",
         "seed_prompt": "Create a landscape full body image of a futuristic desert tribe warrior in the style of Studio Ghibli",
         "metadata": {
             "element": "desert tribe warrior",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "forest",
-            "animal": "rhino",
+            "backdrop": "desert landscape",
+            "animal": "elephant",
             "modifiers": {
                 "image": "full body",
                 "element": "futuristic",
@@ -41,10 +41,10 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Desert Nomad: A Futuristic Tale"
+        "title": "Futuristic Desert Tribe Warrior - Studio Ghibli Style"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b64734155875.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b64854099931.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/f49a4869b1ea0c3e1007278dfdcf568f/f49a4869b1ea0c3e1007278dfdcf568f.jpg"
     },
     "tags": [],
