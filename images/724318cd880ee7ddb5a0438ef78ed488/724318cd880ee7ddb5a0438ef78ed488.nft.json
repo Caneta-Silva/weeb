@@ -1,0 +1,78 @@
+{
+    "id": "724318cd880ee7ddb5a0438ef78ed488",
+    "title": "The Nomadic Warrior of the Desert Planet",
+    "description": "The Nomadic Warrior of the Desert Planet",
+    "created": "2024-12-18 21:34:15.600281",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic alien desert tribe warrior in the style of Studio Ghibli",
+        "id": "0589765c5fbf53d7b31080fc928ee077",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic alien desert tribe warrior in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-15 20:49:12.046721",
+        "seed_prompt": "Create a landscape full body image of a futuristic alien desert tribe warrior in the style of Studio Ghibli",
+        "metadata": {
+            "element": "desert tribe warrior",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "forest",
+            "animal": "giraffe",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic alien",
+                "backdrop": "futuristic"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "The Nomadic Warrior of the Desert Planet"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b643761980081.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/724318cd880ee7ddb5a0438ef78ed488/724318cd880ee7ddb5a0438ef78ed488.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "AridaStrider",
+    "symbol": "72431",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/724318cd880ee7ddb5a0438ef78ed488/724318cd880ee7ddb5a0438ef78ed488.jpg",
+    "seller_fee_basis_points": 100,
+    "external_url": null,
+    "attributes": {},
+    "collection": {
+        "name": "weeb",
+        "family": "Caneta-Silva"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/724318cd880ee7ddb5a0438ef78ed488/724318cd880ee7ddb5a0438ef78ed488.jpg",
+                "type": "image/jpg"
+            }
+        ],
+        "category": "image",
+        "maxSupply": 0,
+        "creators": [
+            {
+                "address": "CXretoxLBQDmFwDbf4qJYVX49UaA4PPMy3pCtfm2yzVH",
+                "share": 100
+            }
+        ]
+    }
+}
