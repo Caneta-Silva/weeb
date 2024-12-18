@@ -2,10 +2,10 @@
     "id": "9c57e0cbd06d3f9fa0c31598d2232ec3",
     "title": "Futuristic Alien Medic in Studio Ghibli Style",
     "description": "Futuristic Alien Medic in Studio Ghibli Style",
-    "created": "2024-12-18 06:53:21.561065",
+    "created": "2024-12-18 06:59:51.448836",
     "prompt": {
         "prompt": "Create a landscape full body image of a futuristic alien medic in the style of Studio Ghibli",
-        "id": "fe4a1f09624ca81f2710d67cc633dad0",
+        "id": "056252495526134273ca5726d1d85889",
         "prompt_history": [
             "Create a landscape full body image of a futuristic alien medic in the style of Studio Ghibli"
         ],
@@ -13,18 +13,18 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:12.161618",
+        "seeded_at": "2024-12-15 20:49:12.158694",
         "seed_prompt": "Create a landscape full body image of a futuristic alien medic in the style of Studio Ghibli",
         "metadata": {
             "element": "medic",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "tropical forest",
-            "animal": "deer",
+            "backdrop": "fortress",
+            "animal": "rhino",
             "modifiers": {
                 "image": "full body",
                 "element": "futuristic alien",
-                "backdrop": "futuristic alien"
+                "backdrop": "alien"
             }
         },
         "template": {
@@ -44,12 +44,12 @@
         "title": "Futuristic Alien Medic in Studio Ghibli Style"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b643182525400.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b642754966310.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/9c57e0cbd06d3f9fa0c31598d2232ec3/9c57e0cbd06d3f9fa0c31598d2232ec3.jpg"
     },
     "tags": [],
     "model_version": "dreamshaper",
-    "name": "Nebulina Healing",
+    "name": "NebulaHealer",
     "symbol": "9C57E",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/9c57e0cbd06d3f9fa0c31598d2232ec3/9c57e0cbd06d3f9fa0c31598d2232ec3.jpg",
     "seller_fee_basis_points": 100,
