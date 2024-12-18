@@ -1,11 +1,11 @@
 {
     "id": "1c080de39d85244f7fa628b9bc42d9f3",
-    "title": "Futuristic Alien Police Guardian of the Enchanted Forest",
+    "title": "Futuristic Alien Police in Studio Ghibli Style",
     "description": "Create a landscape full body image of a futuristic alien police in the style of Studio Ghibli",
-    "created": "2024-12-18 08:23:26.191566",
+    "created": "2024-12-18 09:23:26.461135",
     "prompt": {
         "prompt": "Create a landscape full body image of a futuristic alien police in the style of Studio Ghibli",
-        "id": "3d34737818e7fb727f21eb6945c02fe6",
+        "id": "1806caa2d6c4ae48a1dc65049d3c3310",
         "prompt_history": [
             "Create a landscape full body image of a futuristic alien police in the style of Studio Ghibli"
         ],
@@ -13,7 +13,7 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:12.125932",
+        "seeded_at": "2024-12-15 20:49:12.120725",
         "seed_prompt": "Create a landscape full body image of a futuristic alien police in the style of Studio Ghibli",
         "metadata": {
             "element": "police",
@@ -24,7 +24,7 @@
             "modifiers": {
                 "image": "full body",
                 "element": "futuristic alien",
-                "backdrop": "alien"
+                "backdrop": "futuristic"
             }
         },
         "template": {
@@ -41,10 +41,10 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Futuristic Alien Police Guardian of the Enchanted Forest"
+        "title": "Futuristic Alien Police in Studio Ghibli Style"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b641433365857.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b642395367476.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/1c080de39d85244f7fa628b9bc42d9f3/1c080de39d85244f7fa628b9bc42d9f3.jpg"
     },
     "tags": [],
