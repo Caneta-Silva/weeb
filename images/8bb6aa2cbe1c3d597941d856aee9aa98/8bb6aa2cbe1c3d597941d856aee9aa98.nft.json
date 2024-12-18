@@ -1,11 +1,11 @@
 {
     "id": "8bb6aa2cbe1c3d597941d856aee9aa98",
-    "title": "Warrior of the Alien Tribe: A Studio Ghibli-Inspired Landscape",
-    "description": "Warrior of the Alien Tribe: A Studio Ghibli-Inspired Landscape",
-    "created": "2024-12-17 22:48:46.271266",
+    "title": "Journey of the Alien Tribe Warrior",
+    "description": "Journey of the Alien Tribe Warrior",
+    "created": "2024-12-18 06:46:41.995910",
     "prompt": {
         "prompt": "Create a landscape full body image of a alien tribe warrior in the style of Studio Ghibli",
-        "id": "ff625a9931d38b50f525e3d453187d73",
+        "id": "d19425936a52b5323001b1581aee9800",
         "prompt_history": [
             "Create a landscape full body image of a alien tribe warrior in the style of Studio Ghibli"
         ],
@@ -13,18 +13,18 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:11.905320",
+        "seeded_at": "2024-12-15 20:49:11.911920",
         "seed_prompt": "Create a landscape full body image of a alien tribe warrior in the style of Studio Ghibli",
         "metadata": {
             "element": "tribe warrior",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "desert",
-            "animal": "rhino",
+            "backdrop": "forest",
+            "animal": "camel",
             "modifiers": {
                 "image": "full body",
                 "element": "alien",
-                "backdrop": "futuristic"
+                "backdrop": "alien"
             }
         },
         "template": {
@@ -41,15 +41,15 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Warrior of the Alien Tribe: A Studio Ghibli-Inspired Landscape"
+        "title": "Journey of the Alien Tribe Warrior"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b6414662909.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b641837363636.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/8bb6aa2cbe1c3d597941d856aee9aa98/8bb6aa2cbe1c3d597941d856aee9aa98.jpg"
     },
     "tags": [],
     "model_version": "dreamshaper",
-    "name": "NebulaBlade",
+    "name": "GhibliAlienWarrior",
     "symbol": "8BB6A",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/8bb6aa2cbe1c3d597941d856aee9aa98/8bb6aa2cbe1c3d597941d856aee9aa98.jpg",
     "seller_fee_basis_points": 100,
