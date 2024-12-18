@@ -1,11 +1,11 @@
 {
     "id": "d674be8abaf7ffa4850bfa0bbbab6304",
-    "title": "Ghibli-inspired Alien Firefighter in a Mystical Landscape",
+    "title": "Galactic Hero: Alien Firefighter",
     "description": "Create a landscape full body image of a alien firefighter in the style of Studio Ghibli",
-    "created": "2024-12-18 08:04:05.714088",
+    "created": "2024-12-18 08:06:52.460554",
     "prompt": {
         "prompt": "Create a landscape full body image of a alien firefighter in the style of Studio Ghibli",
-        "id": "dd11f1913d34f6ea78962038da40714e",
+        "id": "4be43d01e35f94e27146d0e74745d65a",
         "prompt_history": [
             "Create a landscape full body image of a alien firefighter in the style of Studio Ghibli"
         ],
@@ -13,14 +13,14 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:11.987919",
+        "seeded_at": "2024-12-15 20:49:11.987817",
         "seed_prompt": "Create a landscape full body image of a alien firefighter in the style of Studio Ghibli",
         "metadata": {
             "element": "firefighter",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
             "backdrop": "desert landscape",
-            "animal": "deer",
+            "animal": "giraffe",
             "modifiers": {
                 "image": "full body",
                 "element": "alien",
@@ -41,15 +41,15 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Ghibli-inspired Alien Firefighter in a Mystical Landscape"
+        "title": "Galactic Hero: Alien Firefighter"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b644005567061.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b642006266108.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/d674be8abaf7ffa4850bfa0bbbab6304/d674be8abaf7ffa4850bfa0bbbab6304.jpg"
     },
     "tags": [],
     "model_version": "dreamshaper",
-    "name": null,
+    "name": "Galaxy Guardian",
     "symbol": "D674BE8AB",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/d674be8abaf7ffa4850bfa0bbbab6304/d674be8abaf7ffa4850bfa0bbbab6304.jpg"
 }
