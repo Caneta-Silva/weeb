@@ -1,0 +1,55 @@
+{
+    "id": "b9888f2e7e7525ff71fd05bef0eb96bd",
+    "title": "Cyberpunk Enforcer: A Studio Ghibli-inspired Riot Police Robot",
+    "description": "Create a landscape full body image of a futuristic riot police robot in the style of Studio Ghibli",
+    "created": "2024-12-18 15:13:10.331336",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic riot police robot in the style of Studio Ghibli",
+        "id": "2ccca2a75b516b2441b0c31f07db03b7",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic riot police robot in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-15 20:49:11.716731",
+        "seed_prompt": "Create a landscape full body image of a futuristic riot police robot in the style of Studio Ghibli",
+        "metadata": {
+            "element": "riot police robot",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "waterfall",
+            "animal": "elephant",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Cyberpunk Enforcer: A Studio Ghibli-inspired Riot Police Robot"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b64751049128.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/b9888f2e7e7525ff71fd05bef0eb96bd/b9888f2e7e7525ff71fd05bef0eb96bd.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "Sentinel Storm",
+    "symbol": "B9888F2E7",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/b9888f2e7e7525ff71fd05bef0eb96bd/b9888f2e7e7525ff71fd05bef0eb96bd.jpg"
+}
