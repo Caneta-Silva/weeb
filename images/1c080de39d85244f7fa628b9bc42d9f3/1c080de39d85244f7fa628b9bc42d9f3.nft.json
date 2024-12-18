@@ -1,11 +1,11 @@
 {
     "id": "1c080de39d85244f7fa628b9bc42d9f3",
-    "title": "Futuristic Alien Police in Studio Ghibli Style Landscape",
-    "description": "Futuristic Alien Police in Studio Ghibli Style Landscape",
-    "created": "2024-12-18 08:14:32.173820",
+    "title": "Futuristic Alien Police Guardian of the Enchanted Forest",
+    "description": "Futuristic Alien Police Guardian of the Enchanted Forest",
+    "created": "2024-12-18 08:23:26.191566",
     "prompt": {
         "prompt": "Create a landscape full body image of a futuristic alien police in the style of Studio Ghibli",
-        "id": "fd476ef9e2c8fcc7b460f4c7a5d9efc4",
+        "id": "3d34737818e7fb727f21eb6945c02fe6",
         "prompt_history": [
             "Create a landscape full body image of a futuristic alien police in the style of Studio Ghibli"
         ],
@@ -13,18 +13,18 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:12.133569",
+        "seeded_at": "2024-12-15 20:49:12.125932",
         "seed_prompt": "Create a landscape full body image of a futuristic alien police in the style of Studio Ghibli",
         "metadata": {
             "element": "police",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "fortress",
-            "animal": "deer",
+            "backdrop": "waterfall",
+            "animal": "giraffe",
             "modifiers": {
                 "image": "full body",
                 "element": "futuristic alien",
-                "backdrop": "futuristic alien"
+                "backdrop": "alien"
             }
         },
         "template": {
@@ -41,15 +41,15 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Futuristic Alien Police in Studio Ghibli Style Landscape"
+        "title": "Futuristic Alien Police Guardian of the Enchanted Forest"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b64421260705.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b641433365857.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/1c080de39d85244f7fa628b9bc42d9f3/1c080de39d85244f7fa628b9bc42d9f3.jpg"
     },
     "tags": [],
     "model_version": "dreamshaper",
-    "name": "NeoGuardian",
+    "name": null,
     "symbol": "1C080",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/1c080de39d85244f7fa628b9bc42d9f3/1c080de39d85244f7fa628b9bc42d9f3.jpg",
     "seller_fee_basis_points": 100,
