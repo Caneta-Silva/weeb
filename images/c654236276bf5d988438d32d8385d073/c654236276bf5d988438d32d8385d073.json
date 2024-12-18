@@ -1,11 +1,11 @@
 {
     "id": "c654236276bf5d988438d32d8385d073",
-    "title": "Futuristic Shaman in Studio Ghibli Style",
+    "title": "Futuristic Shaman in the Spirit of Ghibli",
     "description": "Create a landscape full body image of a futuristic shaman in the style of Studio Ghibli",
-    "created": "2024-12-18 10:12:50.193299",
+    "created": "2024-12-18 10:39:59.903384",
     "prompt": {
         "prompt": "Create a landscape full body image of a futuristic shaman in the style of Studio Ghibli",
-        "id": "90f4a28766f39637fe19587aad79852c",
+        "id": "e72fd4ac62cbfc683f942d1f4afb1ebe",
         "prompt_history": [
             "Create a landscape full body image of a futuristic shaman in the style of Studio Ghibli"
         ],
@@ -13,14 +13,14 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:11.772854",
+        "seeded_at": "2024-12-15 20:49:11.774769",
         "seed_prompt": "Create a landscape full body image of a futuristic shaman in the style of Studio Ghibli",
         "metadata": {
             "element": "shaman",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "desert",
-            "animal": "deer",
+            "backdrop": "forest",
+            "animal": "elephant",
             "modifiers": {
                 "image": "full body",
                 "element": "futuristic",
@@ -41,10 +41,10 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Futuristic Shaman in Studio Ghibli Style"
+        "title": "Futuristic Shaman in the Spirit of Ghibli"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b64351649949.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b643418705931.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/c654236276bf5d988438d32d8385d073/c654236276bf5d988438d32d8385d073.jpg"
     },
     "tags": [],
