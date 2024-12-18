@@ -1,11 +1,11 @@
 {
     "id": "bbe1f1e4f1bbc798b833b419a9eca3a0",
-    "title": "Futuristic Riot Police Robot in the Style of Studio Ghibli",
+    "title": "The Sentinels of Tomorrow: A Studio Ghibli-Inspired Riot Police Robot",
     "description": "Create a landscape full body image of a futuristic riot police robot in the style of Studio Ghibli",
-    "created": "2024-12-18 06:46:26.603180",
+    "created": "2024-12-18 07:03:32.631421",
     "prompt": {
         "prompt": "Create a landscape full body image of a futuristic riot police robot in the style of Studio Ghibli",
-        "id": "5a64ec51874ed8ebd0a5add901ac802c",
+        "id": "2a1e06ae27bd7832b03247de2614fc9c",
         "prompt_history": [
             "Create a landscape full body image of a futuristic riot police robot in the style of Studio Ghibli"
         ],
@@ -13,14 +13,14 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:11.721308",
+        "seeded_at": "2024-12-15 20:49:11.724233",
         "seed_prompt": "Create a landscape full body image of a futuristic riot police robot in the style of Studio Ghibli",
         "metadata": {
             "element": "riot police robot",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "desert",
-            "animal": "giraffe",
+            "backdrop": "spaceship",
+            "animal": "camel",
             "modifiers": {
                 "image": "full body",
                 "element": "futuristic",
@@ -41,10 +41,10 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Futuristic Riot Police Robot in the Style of Studio Ghibli"
+        "title": "The Sentinels of Tomorrow: A Studio Ghibli-Inspired Riot Police Robot"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b64815712876.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b64556822729.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/bbe1f1e4f1bbc798b833b419a9eca3a0/bbe1f1e4f1bbc798b833b419a9eca3a0.jpg"
     },
     "tags": [],
