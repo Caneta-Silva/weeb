@@ -1,0 +1,55 @@
+{
+    "id": "b8f15ff18bba8d9e2b8646686b721d2f",
+    "title": "Brave Alien Firefighter in a Studio Ghibli-style Landscape",
+    "description": "Create a landscape full body image of a alien firefighter in the style of Studio Ghibli",
+    "created": "2024-12-18 18:12:33.433089",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a alien firefighter in the style of Studio Ghibli",
+        "id": "988a5cf781ba6f760f40dff4badfc563",
+        "prompt_history": [
+            "Create a landscape full body image of a alien firefighter in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-15 20:49:11.982962",
+        "seed_prompt": "Create a landscape full body image of a alien firefighter in the style of Studio Ghibli",
+        "metadata": {
+            "element": "firefighter",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "desert",
+            "animal": "elephant",
+            "modifiers": {
+                "image": "full body",
+                "element": "alien",
+                "backdrop": "futuristic"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Brave Alien Firefighter in a Studio Ghibli-style Landscape"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b644212862069.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/b8f15ff18bba8d9e2b8646686b721d2f/b8f15ff18bba8d9e2b8646686b721d2f.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "Nova Blaze, Guardian of The Verdant Nebula",
+    "symbol": "B8F15FF18",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/b8f15ff18bba8d9e2b8646686b721d2f/b8f15ff18bba8d9e2b8646686b721d2f.jpg"
+}
