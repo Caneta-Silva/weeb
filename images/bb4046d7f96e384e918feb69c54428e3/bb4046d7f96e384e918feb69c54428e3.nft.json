@@ -1,11 +1,11 @@
 {
     "id": "bb4046d7f96e384e918feb69c54428e3",
-    "title": "Futuristic Tribe Warrior of the Green Valley",
-    "description": "Futuristic Tribe Warrior of the Green Valley",
-    "created": "2024-12-18 08:43:39.241436",
+    "title": "Futuristic Tribe Warrior of the Unknown Forest",
+    "description": "Futuristic Tribe Warrior of the Unknown Forest",
+    "created": "2024-12-18 08:51:32.394965",
     "prompt": {
         "prompt": "Create a landscape full body image of a futuristic tribe warrior in the style of Studio Ghibli",
-        "id": "1c657048991b677bac58c1633a0f386c",
+        "id": "ef3a122bd91b50754aa6331a0ab10d2b",
         "prompt_history": [
             "Create a landscape full body image of a futuristic tribe warrior in the style of Studio Ghibli"
         ],
@@ -13,14 +13,14 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:11.747056",
+        "seeded_at": "2024-12-15 20:49:11.749210",
         "seed_prompt": "Create a landscape full body image of a futuristic tribe warrior in the style of Studio Ghibli",
         "metadata": {
             "element": "tribe warrior",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "desert landscape",
-            "animal": "elephant",
+            "backdrop": "tropical forest",
+            "animal": "camel",
             "modifiers": {
                 "image": "full body",
                 "element": "futuristic",
@@ -41,15 +41,15 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Futuristic Tribe Warrior of the Green Valley"
+        "title": "Futuristic Tribe Warrior of the Unknown Forest"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b642406122023.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b644191163325.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/bb4046d7f96e384e918feb69c54428e3/bb4046d7f96e384e918feb69c54428e3.jpg"
     },
     "tags": [],
     "model_version": "dreamshaper",
-    "name": null,
+    "name": "FuturTribeWarGhibliStyle",
     "symbol": "BB404",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/bb4046d7f96e384e918feb69c54428e3/bb4046d7f96e384e918feb69c54428e3.jpg",
     "seller_fee_basis_points": 100,
