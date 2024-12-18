@@ -2,10 +2,10 @@
     "id": "98aea12a0515955e2ff39f82da9c7d0c",
     "title": "Futuristic Police Officer in Studio Ghibli Style Landscape",
     "description": "Create a landscape full body image of a futuristic police in the style of Studio Ghibli",
-    "created": "2024-12-18 07:37:17.271762",
+    "created": "2024-12-18 08:09:40.031649",
     "prompt": {
         "prompt": "Create a landscape full body image of a futuristic police in the style of Studio Ghibli",
-        "id": "b8398b91b9fd92ef4d5e8ac33ba07bfb",
+        "id": "9e417b8f76f88b7fce26e56de64454de",
         "prompt_history": [
             "Create a landscape full body image of a futuristic police in the style of Studio Ghibli"
         ],
@@ -13,18 +13,18 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:11.819845",
+        "seeded_at": "2024-12-15 20:49:11.808769",
         "seed_prompt": "Create a landscape full body image of a futuristic police in the style of Studio Ghibli",
         "metadata": {
             "element": "police",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "spaceship",
-            "animal": "rhino",
+            "backdrop": "desert landscape",
+            "animal": "deer",
             "modifiers": {
                 "image": "full body",
                 "element": "futuristic",
-                "backdrop": "futuristic alien"
+                "backdrop": "alien"
             }
         },
         "template": {
@@ -44,12 +44,12 @@
         "title": "Futuristic Police Officer in Studio Ghibli Style Landscape"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b643057437246.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b643525126233.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/98aea12a0515955e2ff39f82da9c7d0c/98aea12a0515955e2ff39f82da9c7d0c.jpg"
     },
     "tags": [],
     "model_version": "dreamshaper",
-    "name": "Nova Guardian",
+    "name": "NeoConstable",
     "symbol": "98AEA12A0",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/98aea12a0515955e2ff39f82da9c7d0c/98aea12a0515955e2ff39f82da9c7d0c.jpg"
 }
