@@ -1,11 +1,11 @@
 {
     "id": "dbdb4a74d74a4d97769d7f4b9705c1db",
-    "title": "Chief of the Alien Tribe in Studio Ghibli Style",
+    "title": "The Alien Tribe Chief of Ghibli Land",
     "description": "Create a landscape full body image of a alien tribe chief in the style of Studio Ghibli",
-    "created": "2024-12-18 09:16:12.842199",
+    "created": "2024-12-18 09:27:35.365014",
     "prompt": {
         "prompt": "Create a landscape full body image of a alien tribe chief in the style of Studio Ghibli",
-        "id": "94b1f2d281a46c43015832790ec1c224",
+        "id": "8d9c57960e1c078a7cb5088972d93b15",
         "prompt_history": [
             "Create a landscape full body image of a alien tribe chief in the style of Studio Ghibli"
         ],
@@ -41,15 +41,15 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Chief of the Alien Tribe in Studio Ghibli Style"
+        "title": "The Alien Tribe Chief of Ghibli Land"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b641322023806.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b641468890547.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/dbdb4a74d74a4d97769d7f4b9705c1db/dbdb4a74d74a4d97769d7f4b9705c1db.jpg"
     },
     "tags": [],
     "model_version": "dreamshaper",
-    "name": "Nebulon Chieftain",
+    "name": "Hikaru, Chief of the Moonglow Tribe",
     "symbol": "DBDB4A74D",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/dbdb4a74d74a4d97769d7f4b9705c1db/dbdb4a74d74a4d97769d7f4b9705c1db.jpg"
 }
