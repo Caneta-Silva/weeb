@@ -1,0 +1,78 @@
+{
+    "id": "809fc3cc0e721f7bb49cc8e26cfefd16",
+    "title": "Firefighting Alien in a Ghibli Landscape",
+    "description": "Firefighting Alien in a Ghibli Landscape",
+    "created": "2024-12-18 15:23:32.144507",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a alien firefighter in the style of Studio Ghibli",
+        "id": "bfdac4e92d8b877168cf99ab448ff95a",
+        "prompt_history": [
+            "Create a landscape full body image of a alien firefighter in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-15 20:49:11.997750",
+        "seed_prompt": "Create a landscape full body image of a alien firefighter in the style of Studio Ghibli",
+        "metadata": {
+            "element": "firefighter",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "fortress",
+            "animal": "deer",
+            "modifiers": {
+                "image": "full body",
+                "element": "alien",
+                "backdrop": "futuristic alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Firefighting Alien in a Ghibli Landscape"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b6480136999.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/809fc3cc0e721f7bb49cc8e26cfefd16/809fc3cc0e721f7bb49cc8e26cfefd16.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "GhibliGuardian",
+    "symbol": "809FC",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/809fc3cc0e721f7bb49cc8e26cfefd16/809fc3cc0e721f7bb49cc8e26cfefd16.jpg",
+    "seller_fee_basis_points": 100,
+    "external_url": null,
+    "attributes": {},
+    "collection": {
+        "name": "weeb",
+        "family": "Caneta-Silva"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/809fc3cc0e721f7bb49cc8e26cfefd16/809fc3cc0e721f7bb49cc8e26cfefd16.jpg",
+                "type": "image/jpg"
+            }
+        ],
+        "category": "image",
+        "maxSupply": 0,
+        "creators": [
+            {
+                "address": "CXretoxLBQDmFwDbf4qJYVX49UaA4PPMy3pCtfm2yzVH",
+                "share": 100
+            }
+        ]
+    }
+}
