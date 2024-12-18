@@ -1,0 +1,78 @@
+{
+    "id": "d3bdfc26db6ce8e6757d9b329352b036",
+    "title": "Futuristic Alien Medic in Studio Ghibli Style",
+    "description": "Futuristic Alien Medic in Studio Ghibli Style",
+    "created": "2024-12-18 21:33:42.604480",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic alien medic in the style of Studio Ghibli",
+        "id": "39ecedb77830ca946b255352340814b7",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic alien medic in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-15 20:49:12.161340",
+        "seed_prompt": "Create a landscape full body image of a futuristic alien medic in the style of Studio Ghibli",
+        "metadata": {
+            "element": "medic",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "tropical forest",
+            "animal": "horse",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic alien",
+                "backdrop": "futuristic alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Futuristic Alien Medic in Studio Ghibli Style"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b642931051689.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/d3bdfc26db6ce8e6757d9b329352b036/d3bdfc26db6ce8e6757d9b329352b036.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "GhibliHealer",
+    "symbol": "D3BDF",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/d3bdfc26db6ce8e6757d9b329352b036/d3bdfc26db6ce8e6757d9b329352b036.jpg",
+    "seller_fee_basis_points": 100,
+    "external_url": null,
+    "attributes": {},
+    "collection": {
+        "name": "weeb",
+        "family": "Caneta-Silva"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/d3bdfc26db6ce8e6757d9b329352b036/d3bdfc26db6ce8e6757d9b329352b036.jpg",
+                "type": "image/jpg"
+            }
+        ],
+        "category": "image",
+        "maxSupply": 0,
+        "creators": [
+            {
+                "address": "CXretoxLBQDmFwDbf4qJYVX49UaA4PPMy3pCtfm2yzVH",
+                "share": 100
+            }
+        ]
+    }
+}
