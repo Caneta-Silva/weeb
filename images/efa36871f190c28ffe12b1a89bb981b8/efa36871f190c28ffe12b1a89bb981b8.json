@@ -1,11 +1,11 @@
 {
     "id": "efa36871f190c28ffe12b1a89bb981b8",
-    "title": "Futuristic Alien Firefighter in the Style of Studio Ghibli",
+    "title": "Futuristic Alien Firefighter: A Studio Ghibli-Inspired Creation",
     "description": "Create a landscape full body image of a futuristic alien firefighter in the style of Studio Ghibli",
-    "created": "2024-12-18 07:33:57.282222",
+    "created": "2024-12-18 07:50:50.012911",
     "prompt": {
         "prompt": "Create a landscape full body image of a futuristic alien firefighter in the style of Studio Ghibli",
-        "id": "30122c07ad9f0c7347fb92f7b2251c70",
+        "id": "573fd51c4b984d3ecea98d4598728486",
         "prompt_history": [
             "Create a landscape full body image of a futuristic alien firefighter in the style of Studio Ghibli"
         ],
@@ -13,14 +13,14 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:12.139567",
+        "seeded_at": "2024-12-15 20:49:12.143418",
         "seed_prompt": "Create a landscape full body image of a futuristic alien firefighter in the style of Studio Ghibli",
         "metadata": {
             "element": "firefighter",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "Martial landscape",
-            "animal": "rhino",
+            "backdrop": "fortress",
+            "animal": "horse",
             "modifiers": {
                 "image": "full body",
                 "element": "futuristic alien",
@@ -41,10 +41,10 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Futuristic Alien Firefighter in the Style of Studio Ghibli"
+        "title": "Futuristic Alien Firefighter: A Studio Ghibli-Inspired Creation"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b641312990286.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b641434864811.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/efa36871f190c28ffe12b1a89bb981b8/efa36871f190c28ffe12b1a89bb981b8.jpg"
     },
     "tags": [],
