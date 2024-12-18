@@ -2,10 +2,10 @@
     "id": "3334bb5acb8da5ff9806fe3badd73503",
     "title": "Futuristic Tribe Chief in Studio Ghibli Style",
     "description": "Futuristic Tribe Chief in Studio Ghibli Style",
-    "created": "2024-12-18 09:03:26.682921",
+    "created": "2024-12-18 09:49:22.691677",
     "prompt": {
         "prompt": "Create a landscape full body image of a futuristic tribe chief in the style of Studio Ghibli",
-        "id": "01475c092798e9be22545800b62dda13",
+        "id": "6b2d93862afe5c1ceebc5f9be1821df5",
         "prompt_history": [
             "Create a landscape full body image of a futuristic tribe chief in the style of Studio Ghibli"
         ],
@@ -13,14 +13,14 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:11.763607",
+        "seeded_at": "2024-12-15 20:49:11.765073",
         "seed_prompt": "Create a landscape full body image of a futuristic tribe chief in the style of Studio Ghibli",
         "metadata": {
             "element": "tribe chief",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "waterfall",
-            "animal": "deer",
+            "backdrop": "forest",
+            "animal": "rhino",
             "modifiers": {
                 "image": "full body",
                 "element": "futuristic",
@@ -44,12 +44,12 @@
         "title": "Futuristic Tribe Chief in Studio Ghibli Style"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b64774027270.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b64430591625.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/3334bb5acb8da5ff9806fe3badd73503/3334bb5acb8da5ff9806fe3badd73503.jpg"
     },
     "tags": [],
     "model_version": "dreamshaper",
-    "name": "GhibliTribalChief",
+    "name": "GhibliChief",
     "symbol": "3334B",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/3334bb5acb8da5ff9806fe3badd73503/3334bb5acb8da5ff9806fe3badd73503.jpg",
     "seller_fee_basis_points": 100,
