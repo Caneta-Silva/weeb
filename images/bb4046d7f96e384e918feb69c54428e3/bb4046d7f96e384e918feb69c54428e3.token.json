@@ -1,11 +1,11 @@
 {
     "id": "bb4046d7f96e384e918feb69c54428e3",
-    "title": "Futuristic Tribe Warrior in the Style of Studio Ghibli",
+    "title": "Futuristic Tribe Warrior of the Enchanted Forest",
     "description": "Create a landscape full body image of a futuristic tribe warrior in the style of Studio Ghibli",
-    "created": "2024-12-18 10:23:29.531881",
+    "created": "2024-12-18 10:34:12.722995",
     "prompt": {
         "prompt": "Create a landscape full body image of a futuristic tribe warrior in the style of Studio Ghibli",
-        "id": "a03885271fb2f9b0f9a5f6d6a28c7518",
+        "id": "da9f8f45884abcdb3b3b9e70c431c003",
         "prompt_history": [
             "Create a landscape full body image of a futuristic tribe warrior in the style of Studio Ghibli"
         ],
@@ -13,18 +13,18 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:11.753601",
+        "seeded_at": "2024-12-15 20:49:11.742266",
         "seed_prompt": "Create a landscape full body image of a futuristic tribe warrior in the style of Studio Ghibli",
         "metadata": {
             "element": "tribe warrior",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "waterfall",
+            "backdrop": "desert landscape",
             "animal": "rhino",
             "modifiers": {
                 "image": "full body",
                 "element": "futuristic",
-                "backdrop": "futuristic alien"
+                "backdrop": "futuristic"
             }
         },
         "template": {
@@ -41,15 +41,15 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Futuristic Tribe Warrior in the Style of Studio Ghibli"
+        "title": "Futuristic Tribe Warrior of the Enchanted Forest"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b642486232050.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b643503527716.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/bb4046d7f96e384e918feb69c54428e3/bb4046d7f96e384e918feb69c54428e3.jpg"
     },
     "tags": [],
     "model_version": "dreamshaper",
-    "name": "Aetherian Guardian",
+    "name": "Ryuko Bladeheart",
     "symbol": "BB4046D7F",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/bb4046d7f96e384e918feb69c54428e3/bb4046d7f96e384e918feb69c54428e3.jpg"
 }
