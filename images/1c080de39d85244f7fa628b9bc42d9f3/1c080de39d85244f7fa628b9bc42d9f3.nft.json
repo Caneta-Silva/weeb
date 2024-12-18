@@ -1,11 +1,11 @@
 {
     "id": "1c080de39d85244f7fa628b9bc42d9f3",
-    "title": "Futuristic Alien Police in Studio Ghibli Style",
-    "description": "Futuristic Alien Police in Studio Ghibli Style",
-    "created": "2024-12-18 06:34:06.934873",
+    "title": "Futuristic Alien Police Officer in Studio Ghibli Style Landscape",
+    "description": "Futuristic Alien Police Officer in Studio Ghibli Style Landscape",
+    "created": "2024-12-18 06:56:36.838204",
     "prompt": {
         "prompt": "Create a landscape full body image of a futuristic alien police in the style of Studio Ghibli",
-        "id": "58647c2753e73c3df7f3e39595689e10",
+        "id": "5d314b22c260dab8742bc4e95e09d4b1",
         "prompt_history": [
             "Create a landscape full body image of a futuristic alien police in the style of Studio Ghibli"
         ],
@@ -13,14 +13,14 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:12.118789",
+        "seeded_at": "2024-12-15 20:49:12.120279",
         "seed_prompt": "Create a landscape full body image of a futuristic alien police in the style of Studio Ghibli",
         "metadata": {
             "element": "police",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "Martial landscape",
-            "animal": "horse",
+            "backdrop": "desert",
+            "animal": "gnu",
             "modifiers": {
                 "image": "full body",
                 "element": "futuristic alien",
@@ -41,15 +41,15 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Futuristic Alien Police in Studio Ghibli Style"
+        "title": "Futuristic Alien Police Officer in Studio Ghibli Style Landscape"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b641327175351.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b643270795430.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/1c080de39d85244f7fa628b9bc42d9f3/1c080de39d85244f7fa628b9bc42d9f3.jpg"
     },
     "tags": [],
     "model_version": "dreamshaper",
-    "name": null,
+    "name": "AstroGuardian",
     "symbol": "1C080",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/1c080de39d85244f7fa628b9bc42d9f3/1c080de39d85244f7fa628b9bc42d9f3.jpg",
     "seller_fee_basis_points": 100,
