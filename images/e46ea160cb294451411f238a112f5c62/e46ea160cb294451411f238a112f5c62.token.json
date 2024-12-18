@@ -2,10 +2,10 @@
     "id": "e46ea160cb294451411f238a112f5c62",
     "title": "Futuristic Paladin Military in Studio Ghibli Style",
     "description": "Create a landscape full body image of a futuristic paladin style military in the style of Studio Ghibli",
-    "created": "2024-12-18 06:18:00.531119",
+    "created": "2024-12-18 06:53:33.521369",
     "prompt": {
         "prompt": "Create a landscape full body image of a futuristic paladin style military in the style of Studio Ghibli",
-        "id": "cb56c5614d1ec705d46948531691f07b",
+        "id": "b6eeb961cccab313a82d5a505168236c",
         "prompt_history": [
             "Create a landscape full body image of a futuristic paladin style military in the style of Studio Ghibli"
         ],
@@ -13,18 +13,18 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:11.699927",
+        "seeded_at": "2024-12-15 20:49:11.693813",
         "seed_prompt": "Create a landscape full body image of a futuristic paladin style military in the style of Studio Ghibli",
         "metadata": {
             "element": "paladin style military",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "desert landscape",
-            "animal": "camel",
+            "backdrop": "Martial landscape",
+            "animal": "giraffe",
             "modifiers": {
                 "image": "full body",
                 "element": "futuristic",
-                "backdrop": "alien"
+                "backdrop": "futuristic"
             }
         },
         "template": {
@@ -44,12 +44,12 @@
         "title": "Futuristic Paladin Military in Studio Ghibli Style"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b641886205171.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b643449544033.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/e46ea160cb294451411f238a112f5c62/e46ea160cb294451411f238a112f5c62.jpg"
     },
     "tags": [],
     "model_version": "dreamshaper",
-    "name": "Valiant Sky Guardian",
+    "name": "Futuric Knight",
     "symbol": "E46EA160C",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/e46ea160cb294451411f238a112f5c62/e46ea160cb294451411f238a112f5c62.jpg"
 }
