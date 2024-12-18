@@ -1,0 +1,55 @@
+{
+    "id": "fc19e6f3f6e751e377456a24a66fa2d0",
+    "title": "Futuristic Police in the Studio Ghibli Style",
+    "description": "Create a landscape full body image of a futuristic police in the style of Studio Ghibli",
+    "created": "2024-12-18 16:24:48.223651",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic police in the style of Studio Ghibli",
+        "id": "42f7122c18d4d3cfda4867442dc1bc6a",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic police in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-15 20:49:11.805396",
+        "seed_prompt": "Create a landscape full body image of a futuristic police in the style of Studio Ghibli",
+        "metadata": {
+            "element": "police",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "tropical forest",
+            "animal": "giraffe",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic",
+                "backdrop": "futuristic"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Futuristic Police in the Studio Ghibli Style"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b643194856850.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/fc19e6f3f6e751e377456a24a66fa2d0/fc19e6f3f6e751e377456a24a66fa2d0.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "GhibliForce Officer",
+    "symbol": "FC19E6F3F",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/fc19e6f3f6e751e377456a24a66fa2d0/fc19e6f3f6e751e377456a24a66fa2d0.jpg"
+}
