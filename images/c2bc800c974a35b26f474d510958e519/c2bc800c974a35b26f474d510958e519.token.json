@@ -1,0 +1,55 @@
+{
+    "id": "c2bc800c974a35b26f474d510958e519",
+    "title": "Futuristic Paladin in the Style of Studio Ghibli",
+    "description": "Create a landscape full body image of a futuristic paladin style military in the style of Studio Ghibli",
+    "created": "2024-12-18 16:29:21.946408",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic paladin style military in the style of Studio Ghibli",
+        "id": "d4b27e1e7683687231600f7c7798fafc",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic paladin style military in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-15 20:49:11.706000",
+        "seed_prompt": "Create a landscape full body image of a futuristic paladin style military in the style of Studio Ghibli",
+        "metadata": {
+            "element": "paladin style military",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "desert",
+            "animal": "camel",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic",
+                "backdrop": "futuristic alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Futuristic Paladin in the Style of Studio Ghibli"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b643547745056.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/c2bc800c974a35b26f474d510958e519/c2bc800c974a35b26f474d510958e519.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "GhibliKnight",
+    "symbol": "C2BC800C9",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/c2bc800c974a35b26f474d510958e519/c2bc800c974a35b26f474d510958e519.jpg"
+}
