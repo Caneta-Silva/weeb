@@ -1,11 +1,11 @@
 {
     "id": "140aaf711fce6bfb4ed0207323299d9d",
-    "title": "Futuristic Alien Paladin Warrior in the Style of Studio Ghibli",
-    "description": "Futuristic Alien Paladin Warrior in the Style of Studio Ghibli",
-    "created": "2024-12-18 07:59:02.269368",
+    "title": "Futuristic Alien Paladin Military in the Style of Studio Ghibli",
+    "description": "Futuristic Alien Paladin Military in the Style of Studio Ghibli",
+    "created": "2024-12-18 09:20:16.251913",
     "prompt": {
         "prompt": "Create a landscape full body image of a futuristic alien paladin style military in the style of Studio Ghibli",
-        "id": "a3e5e9aa6f5076c9a27fe170123b4f85",
+        "id": "22fac5edce8280bdb619c2a083902987",
         "prompt_history": [
             "Create a landscape full body image of a futuristic alien paladin style military in the style of Studio Ghibli"
         ],
@@ -13,18 +13,18 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:12.027391",
+        "seeded_at": "2024-12-15 20:49:12.014304",
         "seed_prompt": "Create a landscape full body image of a futuristic alien paladin style military in the style of Studio Ghibli",
         "metadata": {
             "element": "paladin style military",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "spaceship",
+            "backdrop": "desert landscape",
             "animal": "gnu",
             "modifiers": {
                 "image": "full body",
                 "element": "futuristic alien",
-                "backdrop": "futuristic alien"
+                "backdrop": "futuristic"
             }
         },
         "template": {
@@ -41,15 +41,15 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Futuristic Alien Paladin Warrior in the Style of Studio Ghibli"
+        "title": "Futuristic Alien Paladin Military in the Style of Studio Ghibli"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b642093081724.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b64988291382.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/140aaf711fce6bfb4ed0207323299d9d/140aaf711fce6bfb4ed0207323299d9d.jpg"
     },
     "tags": [],
     "model_version": "dreamshaper",
-    "name": "Nova Paladin",
+    "name": "GhibliAlienPalad",
     "symbol": "140AA",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/140aaf711fce6bfb4ed0207323299d9d/140aaf711fce6bfb4ed0207323299d9d.jpg",
     "seller_fee_basis_points": 100,
