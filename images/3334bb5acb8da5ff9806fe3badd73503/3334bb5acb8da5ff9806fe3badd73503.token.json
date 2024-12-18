@@ -1,11 +1,11 @@
 {
     "id": "3334bb5acb8da5ff9806fe3badd73503",
-    "title": "Futuristic Tribe Chief in the Style of Studio Ghibli",
+    "title": "Futuristic Tribe Chief in Studio Ghibli Style",
     "description": "Create a landscape full body image of a futuristic tribe chief in the style of Studio Ghibli",
-    "created": "2024-12-17 22:51:58.288396",
+    "created": "2024-12-18 07:24:40.877310",
     "prompt": {
         "prompt": "Create a landscape full body image of a futuristic tribe chief in the style of Studio Ghibli",
-        "id": "146f7d0848e3e87e0e6f4d3ba5d84ea7",
+        "id": "45c3367c418c7aa0bb158fa39de029f1",
         "prompt_history": [
             "Create a landscape full body image of a futuristic tribe chief in the style of Studio Ghibli"
         ],
@@ -13,18 +13,18 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:11.763181",
+        "seeded_at": "2024-12-15 20:49:11.758510",
         "seed_prompt": "Create a landscape full body image of a futuristic tribe chief in the style of Studio Ghibli",
         "metadata": {
             "element": "tribe chief",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "desert",
-            "animal": "camel",
+            "backdrop": "waterfall",
+            "animal": "gnu",
             "modifiers": {
                 "image": "full body",
                 "element": "futuristic",
-                "backdrop": "alien"
+                "backdrop": "futuristic"
             }
         },
         "template": {
@@ -41,15 +41,15 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Futuristic Tribe Chief in the Style of Studio Ghibli"
+        "title": "Futuristic Tribe Chief in Studio Ghibli Style"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b642009978041.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b641112583044.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/3334bb5acb8da5ff9806fe3badd73503/3334bb5acb8da5ff9806fe3badd73503.jpg"
     },
     "tags": [],
     "model_version": "dreamshaper",
-    "name": "Futurii Chief",
+    "name": "Hikaru of the Future Tribe",
     "symbol": "3334BB5AC",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/3334bb5acb8da5ff9806fe3badd73503/3334bb5acb8da5ff9806fe3badd73503.jpg"
 }
