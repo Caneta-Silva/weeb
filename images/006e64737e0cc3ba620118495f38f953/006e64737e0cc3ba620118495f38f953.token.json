@@ -1,11 +1,11 @@
 {
     "id": "006e64737e0cc3ba620118495f38f953",
-    "title": "Futuristic Alien Tribe Chief of the Enchanted Valley",
+    "title": "Futuristic Alien Tribe Chief in the Style of Studio Ghibli",
     "description": "Create a landscape full body image of a futuristic alien tribe chief in the style of Studio Ghibli",
-    "created": "2024-12-18 08:34:47.049388",
+    "created": "2024-12-18 09:08:34.294719",
     "prompt": {
         "prompt": "Create a landscape full body image of a futuristic alien tribe chief in the style of Studio Ghibli",
-        "id": "a6ed9fe91a8dd78b7b150d4456f2b156",
+        "id": "743939089b3e222f8e87d89614febce8",
         "prompt_history": [
             "Create a landscape full body image of a futuristic alien tribe chief in the style of Studio Ghibli"
         ],
@@ -13,18 +13,18 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:12.076040",
+        "seeded_at": "2024-12-15 20:49:12.080270",
         "seed_prompt": "Create a landscape full body image of a futuristic alien tribe chief in the style of Studio Ghibli",
         "metadata": {
             "element": "tribe chief",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "tropical forest",
-            "animal": "horse",
+            "backdrop": "desert",
+            "animal": "gnu",
             "modifiers": {
                 "image": "full body",
                 "element": "futuristic alien",
-                "backdrop": "futuristic"
+                "backdrop": "alien"
             }
         },
         "template": {
@@ -41,15 +41,15 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Futuristic Alien Tribe Chief of the Enchanted Valley"
+        "title": "Futuristic Alien Tribe Chief in the Style of Studio Ghibli"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b642519873379.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b64434320206.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/006e64737e0cc3ba620118495f38f953/006e64737e0cc3ba620118495f38f953.jpg"
     },
     "tags": [],
     "model_version": "dreamshaper",
-    "name": null,
+    "name": "Kazari NeMara",
     "symbol": "006E64737",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/006e64737e0cc3ba620118495f38f953/006e64737e0cc3ba620118495f38f953.jpg"
 }
