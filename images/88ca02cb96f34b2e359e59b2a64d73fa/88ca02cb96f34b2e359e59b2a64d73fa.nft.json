@@ -1,0 +1,78 @@
+{
+    "id": "88ca02cb96f34b2e359e59b2a64d73fa",
+    "title": "The Nomadic Warrior of the Alien Desert Tribes",
+    "description": "The Nomadic Warrior of the Alien Desert Tribes",
+    "created": "2024-12-18 12:43:49.316351",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic alien desert tribe warrior in the style of Studio Ghibli",
+        "id": "35149370d8d39189396351b218a6e54a",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic alien desert tribe warrior in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-15 20:49:12.052038",
+        "seed_prompt": "Create a landscape full body image of a futuristic alien desert tribe warrior in the style of Studio Ghibli",
+        "metadata": {
+            "element": "desert tribe warrior",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "spaceship",
+            "animal": "elephant",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic alien",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "The Nomadic Warrior of the Alien Desert Tribes"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b641884674276.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/88ca02cb96f34b2e359e59b2a64d73fa/88ca02cb96f34b2e359e59b2a64d73fa.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "Nova Sandstrider",
+    "symbol": "88CA0",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/88ca02cb96f34b2e359e59b2a64d73fa/88ca02cb96f34b2e359e59b2a64d73fa.jpg",
+    "seller_fee_basis_points": 100,
+    "external_url": null,
+    "attributes": {},
+    "collection": {
+        "name": "weeb",
+        "family": "Caneta-Silva"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/88ca02cb96f34b2e359e59b2a64d73fa/88ca02cb96f34b2e359e59b2a64d73fa.jpg",
+                "type": "image/jpg"
+            }
+        ],
+        "category": "image",
+        "maxSupply": 0,
+        "creators": [
+            {
+                "address": "CXretoxLBQDmFwDbf4qJYVX49UaA4PPMy3pCtfm2yzVH",
+                "share": 100
+            }
+        ]
+    }
+}
