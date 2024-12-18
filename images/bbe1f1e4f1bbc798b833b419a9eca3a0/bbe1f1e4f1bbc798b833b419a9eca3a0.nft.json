@@ -1,11 +1,11 @@
 {
     "id": "bbe1f1e4f1bbc798b833b419a9eca3a0",
-    "title": "Futuristic Riot Police Robot in Studio Ghibli Style",
-    "description": "Futuristic Riot Police Robot in Studio Ghibli Style",
-    "created": "2024-12-17 11:40:27.070595",
+    "title": "Futuristic Riot Police Robot in Studio Ghibli Style Landscape",
+    "description": "Futuristic Riot Police Robot in Studio Ghibli Style Landscape",
+    "created": "2024-12-18 06:27:38.382819",
     "prompt": {
         "prompt": "Create a landscape full body image of a futuristic riot police robot in the style of Studio Ghibli",
-        "id": "c9b9735ad21bc30bfabd9eedad351fc3",
+        "id": "6bd544a3bc0ca39c606f0b01613cb626",
         "prompt_history": [
             "Create a landscape full body image of a futuristic riot police robot in the style of Studio Ghibli"
         ],
@@ -13,18 +13,18 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:11.721308",
+        "seeded_at": "2024-12-15 20:49:11.715509",
         "seed_prompt": "Create a landscape full body image of a futuristic riot police robot in the style of Studio Ghibli",
         "metadata": {
             "element": "riot police robot",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "desert",
+            "backdrop": "desert landscape",
             "animal": "giraffe",
             "modifiers": {
                 "image": "full body",
                 "element": "futuristic",
-                "backdrop": "futuristic alien"
+                "backdrop": "alien"
             }
         },
         "template": {
@@ -41,15 +41,15 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Futuristic Riot Police Robot in Studio Ghibli Style"
+        "title": "Futuristic Riot Police Robot in Studio Ghibli Style Landscape"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b643024376277.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b643425281695.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/bbe1f1e4f1bbc798b833b419a9eca3a0/bbe1f1e4f1bbc798b833b419a9eca3a0.jpg"
     },
     "tags": [],
     "model_version": "dreamshaper",
-    "name": "RiotBot-Ghibli",
+    "name": "CyberSquadron",
     "symbol": "BBE1F",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/bbe1f1e4f1bbc798b833b419a9eca3a0/bbe1f1e4f1bbc798b833b419a9eca3a0.jpg",
     "seller_fee_basis_points": 100,
