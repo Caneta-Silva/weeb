@@ -2,10 +2,10 @@
     "id": "e46ea160cb294451411f238a112f5c62",
     "title": "Futuristic Paladin Military in Studio Ghibli Style",
     "description": "Create a landscape full body image of a futuristic paladin style military in the style of Studio Ghibli",
-    "created": "2024-12-18 06:53:33.521369",
+    "created": "2024-12-18 07:08:40.717855",
     "prompt": {
         "prompt": "Create a landscape full body image of a futuristic paladin style military in the style of Studio Ghibli",
-        "id": "b6eeb961cccab313a82d5a505168236c",
+        "id": "0fb5b72307ebfe08eda773246e68f842",
         "prompt_history": [
             "Create a landscape full body image of a futuristic paladin style military in the style of Studio Ghibli"
         ],
@@ -13,18 +13,18 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:11.693813",
+        "seeded_at": "2024-12-15 20:49:11.706214",
         "seed_prompt": "Create a landscape full body image of a futuristic paladin style military in the style of Studio Ghibli",
         "metadata": {
             "element": "paladin style military",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "Martial landscape",
-            "animal": "giraffe",
+            "backdrop": "waterfall",
+            "animal": "horse",
             "modifiers": {
                 "image": "full body",
                 "element": "futuristic",
-                "backdrop": "futuristic"
+                "backdrop": "futuristic alien"
             }
         },
         "template": {
@@ -44,12 +44,12 @@
         "title": "Futuristic Paladin Military in Studio Ghibli Style"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b643449544033.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b643896390445.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/e46ea160cb294451411f238a112f5c62/e46ea160cb294451411f238a112f5c62.jpg"
     },
     "tags": [],
     "model_version": "dreamshaper",
-    "name": "Futuric Knight",
+    "name": "Ghibli Knight",
     "symbol": "E46EA160C",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/e46ea160cb294451411f238a112f5c62/e46ea160cb294451411f238a112f5c62.jpg"
 }
