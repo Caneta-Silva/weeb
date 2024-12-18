@@ -1,11 +1,11 @@
 {
     "id": "c298e2236000b62554c13581b13668bd",
-    "title": "Galactic Royalty: The Alien Emperor",
+    "title": "The Alien Emperor's Realm",
     "description": "Create a landscape full body image of a alien emperor in the style of Studio Ghibli",
-    "created": "2024-12-17 22:53:12.704922",
+    "created": "2024-12-18 07:20:48.387290",
     "prompt": {
         "prompt": "Create a landscape full body image of a alien emperor in the style of Studio Ghibli",
-        "id": "22f74274f2296b2ad754d1b3e2add810",
+        "id": "4efcfb28502556e201cda8f784dd2cac",
         "prompt_history": [
             "Create a landscape full body image of a alien emperor in the style of Studio Ghibli"
         ],
@@ -13,14 +13,14 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:11.961164",
+        "seeded_at": "2024-12-15 20:49:11.958292",
         "seed_prompt": "Create a landscape full body image of a alien emperor in the style of Studio Ghibli",
         "metadata": {
             "element": "emperor",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "fortress",
-            "animal": "gnu",
+            "backdrop": "waterfall",
+            "animal": "deer",
             "modifiers": {
                 "image": "full body",
                 "element": "alien",
@@ -41,15 +41,15 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Galactic Royalty: The Alien Emperor"
+        "title": "The Alien Emperor's Realm"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b644207781172.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b641007222322.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/c298e2236000b62554c13581b13668bd/c298e2236000b62554c13581b13668bd.jpg"
     },
     "tags": [],
     "model_version": "dreamshaper",
-    "name": "Galactic Sovereign",
+    "name": "Luminius Rex",
     "symbol": "C298E2236",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/c298e2236000b62554c13581b13668bd/c298e2236000b62554c13581b13668bd.jpg"
 }
