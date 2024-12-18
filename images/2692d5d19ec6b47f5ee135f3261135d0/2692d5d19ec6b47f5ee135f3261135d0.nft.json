@@ -1,11 +1,11 @@
 {
     "id": "2692d5d19ec6b47f5ee135f3261135d0",
-    "title": "Galactic Guardian: The Alien Paladin",
-    "description": "Galactic Guardian: The Alien Paladin",
-    "created": "2024-12-18 06:13:47.468385",
+    "title": "The Intergalactic Guardian: An Alien Paladin of Peace",
+    "description": "The Intergalactic Guardian: An Alien Paladin of Peace",
+    "created": "2024-12-18 06:30:54.726480",
     "prompt": {
         "prompt": "Create a landscape full body image of a alien paladin style military in the style of Studio Ghibli",
-        "id": "f4763d5a38579972dbc23547f9ced0fa",
+        "id": "e8f26f1220d27b0fef3b9bca8671b394",
         "prompt_history": [
             "Create a landscape full body image of a alien paladin style military in the style of Studio Ghibli"
         ],
@@ -13,18 +13,18 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:11.863296",
+        "seeded_at": "2024-12-15 20:49:11.859209",
         "seed_prompt": "Create a landscape full body image of a alien paladin style military in the style of Studio Ghibli",
         "metadata": {
             "element": "paladin style military",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "Martial landscape",
-            "animal": "camel",
+            "backdrop": "desert",
+            "animal": "deer",
             "modifiers": {
                 "image": "full body",
                 "element": "alien",
-                "backdrop": "alien"
+                "backdrop": "futuristic"
             }
         },
         "template": {
@@ -41,15 +41,15 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Galactic Guardian: The Alien Paladin"
+        "title": "The Intergalactic Guardian: An Alien Paladin of Peace"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b641176173209.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b642238671388.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/2692d5d19ec6b47f5ee135f3261135d0/2692d5d19ec6b47f5ee135f3261135d0.jpg"
     },
     "tags": [],
     "model_version": "dreamshaper",
-    "name": null,
+    "name": "Galadron",
     "symbol": "2692D",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/2692d5d19ec6b47f5ee135f3261135d0/2692d5d19ec6b47f5ee135f3261135d0.jpg",
     "seller_fee_basis_points": 100,
