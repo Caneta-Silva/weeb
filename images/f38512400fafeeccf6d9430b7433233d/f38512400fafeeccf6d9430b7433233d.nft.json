@@ -1,0 +1,78 @@
+{
+    "id": "f38512400fafeeccf6d9430b7433233d",
+    "title": "Chieftain of the Mysterious Alien Tribe",
+    "description": "Chieftain of the Mysterious Alien Tribe",
+    "created": "2024-12-18 15:25:30.482291",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a alien tribe chief in the style of Studio Ghibli",
+        "id": "a1cbe8885de8380eddbf63a51a3a6512",
+        "prompt_history": [
+            "Create a landscape full body image of a alien tribe chief in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-15 20:49:11.924340",
+        "seed_prompt": "Create a landscape full body image of a alien tribe chief in the style of Studio Ghibli",
+        "metadata": {
+            "element": "tribe chief",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "desert landscape",
+            "animal": "horse",
+            "modifiers": {
+                "image": "full body",
+                "element": "alien",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Chieftain of the Mysterious Alien Tribe"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b64310555318.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/f38512400fafeeccf6d9430b7433233d/f38512400fafeeccf6d9430b7433233d.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "GhibliAlienChief",
+    "symbol": "F3851",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/f38512400fafeeccf6d9430b7433233d/f38512400fafeeccf6d9430b7433233d.jpg",
+    "seller_fee_basis_points": 100,
+    "external_url": null,
+    "attributes": {},
+    "collection": {
+        "name": "weeb",
+        "family": "Caneta-Silva"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/f38512400fafeeccf6d9430b7433233d/f38512400fafeeccf6d9430b7433233d.jpg",
+                "type": "image/jpg"
+            }
+        ],
+        "category": "image",
+        "maxSupply": 0,
+        "creators": [
+            {
+                "address": "CXretoxLBQDmFwDbf4qJYVX49UaA4PPMy3pCtfm2yzVH",
+                "share": 100
+            }
+        ]
+    }
+}
