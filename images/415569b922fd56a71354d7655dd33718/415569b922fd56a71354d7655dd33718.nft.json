@@ -1,11 +1,11 @@
 {
     "id": "415569b922fd56a71354d7655dd33718",
-    "title": "Desert Nomad: The Alien Warrior",
-    "description": "Desert Nomad: The Alien Warrior",
-    "created": "2024-12-18 09:56:23.810576",
+    "title": "Tribal Alien Warrior of the Desert Sands",
+    "description": "Tribal Alien Warrior of the Desert Sands",
+    "created": "2024-12-18 10:02:29.984663",
     "prompt": {
         "prompt": "Create a landscape full body image of a alien desert tribe warrior in the style of Studio Ghibli",
-        "id": "d38e69042dae32e65a04d16d5c1f8ddc",
+        "id": "ed46af815f8c3a2524f5218bf536902b",
         "prompt_history": [
             "Create a landscape full body image of a alien desert tribe warrior in the style of Studio Ghibli"
         ],
@@ -13,14 +13,14 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:11.890709",
+        "seeded_at": "2024-12-15 20:49:11.890620",
         "seed_prompt": "Create a landscape full body image of a alien desert tribe warrior in the style of Studio Ghibli",
         "metadata": {
             "element": "desert tribe warrior",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
             "backdrop": "tropical forest",
-            "animal": "elephant",
+            "animal": "horse",
             "modifiers": {
                 "image": "full body",
                 "element": "alien",
@@ -41,15 +41,15 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Desert Nomad: The Alien Warrior"
+        "title": "Tribal Alien Warrior of the Desert Sands"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b643809026580.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b643923952936.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/415569b922fd56a71354d7655dd33718/415569b922fd56a71354d7655dd33718.jpg"
     },
     "tags": [],
     "model_version": "dreamshaper",
-    "name": null,
+    "name": "Zarok Shadowblade",
     "symbol": "41556",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/415569b922fd56a71354d7655dd33718/415569b922fd56a71354d7655dd33718.jpg",
     "seller_fee_basis_points": 100,
