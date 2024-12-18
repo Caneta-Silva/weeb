@@ -1,11 +1,11 @@
 {
     "id": "ee484e199518042321fc982ba33cd031",
-    "title": "Futuristic Alien Riot Police Robot in Studio Ghibli Style",
-    "description": "Futuristic Alien Riot Police Robot in Studio Ghibli Style",
-    "created": "2024-12-18 08:08:49.953998",
+    "title": "The Sentinel of Tomorrow: A Futuristic Alien Riot Police Robot",
+    "description": "The Sentinel of Tomorrow: A Futuristic Alien Riot Police Robot",
+    "created": "2024-12-18 09:08:46.229852",
     "prompt": {
         "prompt": "Create a landscape full body image of a futuristic alien riot police robot in the style of Studio Ghibli",
-        "id": "bb3e75fca5296205d81fe256ff610a6a",
+        "id": "8aa5075ec45dbac47b4accce653235a3",
         "prompt_history": [
             "Create a landscape full body image of a futuristic alien riot police robot in the style of Studio Ghibli"
         ],
@@ -13,13 +13,13 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:12.041677",
+        "seeded_at": "2024-12-15 20:49:12.042870",
         "seed_prompt": "Create a landscape full body image of a futuristic alien riot police robot in the style of Studio Ghibli",
         "metadata": {
             "element": "riot police robot",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "forest",
+            "backdrop": "fortress",
             "animal": "horse",
             "modifiers": {
                 "image": "full body",
@@ -41,15 +41,15 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Futuristic Alien Riot Police Robot in Studio Ghibli Style"
+        "title": "The Sentinel of Tomorrow: A Futuristic Alien Riot Police Robot"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b643575903621.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b64754367414.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/ee484e199518042321fc982ba33cd031/ee484e199518042321fc982ba33cd031.jpg"
     },
     "tags": [],
     "model_version": "dreamshaper",
-    "name": null,
+    "name": "Ghibli Riotbot",
     "symbol": "EE484",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/ee484e199518042321fc982ba33cd031/ee484e199518042321fc982ba33cd031.jpg",
     "seller_fee_basis_points": 100,
