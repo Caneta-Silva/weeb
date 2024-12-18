@@ -2,10 +2,10 @@
     "id": "98aea12a0515955e2ff39f82da9c7d0c",
     "title": "Futuristic Police Officer in Studio Ghibli Style Landscape",
     "description": "Create a landscape full body image of a futuristic police in the style of Studio Ghibli",
-    "created": "2024-12-18 06:15:11.789113",
+    "created": "2024-12-18 07:37:17.271762",
     "prompt": {
         "prompt": "Create a landscape full body image of a futuristic police in the style of Studio Ghibli",
-        "id": "3af10cbde69439ea41f7aedf407728d3",
+        "id": "b8398b91b9fd92ef4d5e8ac33ba07bfb",
         "prompt_history": [
             "Create a landscape full body image of a futuristic police in the style of Studio Ghibli"
         ],
@@ -13,18 +13,18 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:11.804923",
+        "seeded_at": "2024-12-15 20:49:11.819845",
         "seed_prompt": "Create a landscape full body image of a futuristic police in the style of Studio Ghibli",
         "metadata": {
             "element": "police",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "waterfall",
-            "animal": "gnu",
+            "backdrop": "spaceship",
+            "animal": "rhino",
             "modifiers": {
                 "image": "full body",
                 "element": "futuristic",
-                "backdrop": "futuristic"
+                "backdrop": "futuristic alien"
             }
         },
         "template": {
@@ -44,12 +44,12 @@
         "title": "Futuristic Police Officer in Studio Ghibli Style Landscape"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b643708172651.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b643057437246.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/98aea12a0515955e2ff39f82da9c7d0c/98aea12a0515955e2ff39f82da9c7d0c.jpg"
     },
     "tags": [],
     "model_version": "dreamshaper",
-    "name": "Futuricopscape",
+    "name": "Nova Guardian",
     "symbol": "98AEA12A0",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/98aea12a0515955e2ff39f82da9c7d0c/98aea12a0515955e2ff39f82da9c7d0c.jpg"
 }
