@@ -1,11 +1,11 @@
 {
     "id": "006e64737e0cc3ba620118495f38f953",
-    "title": "Futuristic Alien Tribe Chief in Studio Ghibli Style",
-    "description": "Futuristic Alien Tribe Chief in Studio Ghibli Style",
-    "created": "2024-12-18 08:26:36.610925",
+    "title": "Futuristic Alien Tribe Chief of the Enchanted Valley",
+    "description": "Futuristic Alien Tribe Chief of the Enchanted Valley",
+    "created": "2024-12-18 08:34:47.049388",
     "prompt": {
         "prompt": "Create a landscape full body image of a futuristic alien tribe chief in the style of Studio Ghibli",
-        "id": "429a04bf18ff6684fe2a6d014fbcfccd",
+        "id": "a6ed9fe91a8dd78b7b150d4456f2b156",
         "prompt_history": [
             "Create a landscape full body image of a futuristic alien tribe chief in the style of Studio Ghibli"
         ],
@@ -13,18 +13,18 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:12.080646",
+        "seeded_at": "2024-12-15 20:49:12.076040",
         "seed_prompt": "Create a landscape full body image of a futuristic alien tribe chief in the style of Studio Ghibli",
         "metadata": {
             "element": "tribe chief",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "waterfall",
-            "animal": "elephant",
+            "backdrop": "tropical forest",
+            "animal": "horse",
             "modifiers": {
                 "image": "full body",
                 "element": "futuristic alien",
-                "backdrop": "alien"
+                "backdrop": "futuristic"
             }
         },
         "template": {
@@ -41,15 +41,15 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Futuristic Alien Tribe Chief in Studio Ghibli Style"
+        "title": "Futuristic Alien Tribe Chief of the Enchanted Valley"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b643567931581.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b642519873379.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/006e64737e0cc3ba620118495f38f953/006e64737e0cc3ba620118495f38f953.jpg"
     },
     "tags": [],
     "model_version": "dreamshaper",
-    "name": "NebuTribalChief",
+    "name": "GhibliAlienChief",
     "symbol": "006E6",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/006e64737e0cc3ba620118495f38f953/006e64737e0cc3ba620118495f38f953.jpg",
     "seller_fee_basis_points": 100,
