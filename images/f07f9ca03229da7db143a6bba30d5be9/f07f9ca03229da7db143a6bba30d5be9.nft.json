@@ -1,11 +1,11 @@
 {
     "id": "f07f9ca03229da7db143a6bba30d5be9",
-    "title": "Alien Police Officer in Studio Ghibli Landscape",
-    "description": "Alien Police Officer in Studio Ghibli Landscape",
-    "created": "2024-12-18 06:09:57.715548",
+    "title": "Alien Police Officer in Studio Ghibli Style Landscape",
+    "description": "Alien Police Officer in Studio Ghibli Style Landscape",
+    "created": "2024-12-18 06:22:05.215437",
     "prompt": {
         "prompt": "Create a landscape full body image of a alien police in the style of Studio Ghibli",
-        "id": "eeec2124b95b94a36b6663940e7c6b43",
+        "id": "c5b163b40bbd6682eeade1ff07f7d6ba",
         "prompt_history": [
             "Create a landscape full body image of a alien police in the style of Studio Ghibli"
         ],
@@ -13,18 +13,18 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:11.981549",
+        "seeded_at": "2024-12-15 20:49:11.972039",
         "seed_prompt": "Create a landscape full body image of a alien police in the style of Studio Ghibli",
         "metadata": {
             "element": "police",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
             "backdrop": "fortress",
-            "animal": "camel",
+            "animal": "rhino",
             "modifiers": {
                 "image": "full body",
                 "element": "alien",
-                "backdrop": "futuristic alien"
+                "backdrop": "futuristic"
             }
         },
         "template": {
@@ -41,15 +41,15 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Alien Police Officer in Studio Ghibli Landscape"
+        "title": "Alien Police Officer in Studio Ghibli Style Landscape"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b642633771743.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b64461663966.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/f07f9ca03229da7db143a6bba30d5be9/f07f9ca03229da7db143a6bba30d5be9.jpg"
     },
     "tags": [],
     "model_version": "dreamshaper",
-    "name": "GhibliCop",
+    "name": "GhibliGuardian",
     "symbol": "F07F9",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/f07f9ca03229da7db143a6bba30d5be9/f07f9ca03229da7db143a6bba30d5be9.jpg",
     "seller_fee_basis_points": 100,
