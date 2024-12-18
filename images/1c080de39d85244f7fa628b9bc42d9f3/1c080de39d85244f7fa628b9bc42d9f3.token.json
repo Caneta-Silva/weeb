@@ -1,11 +1,11 @@
 {
     "id": "1c080de39d85244f7fa628b9bc42d9f3",
-    "title": "Futuristic Alien Police Officer in Studio Ghibli Style Landscape",
+    "title": "Futuristic Alien Police in Ghibli Style Landscape",
     "description": "Create a landscape full body image of a futuristic alien police in the style of Studio Ghibli",
-    "created": "2024-12-18 06:56:36.838204",
+    "created": "2024-12-18 07:10:29.914326",
     "prompt": {
         "prompt": "Create a landscape full body image of a futuristic alien police in the style of Studio Ghibli",
-        "id": "5d314b22c260dab8742bc4e95e09d4b1",
+        "id": "a4e194fad67c28a3679909760be31d94",
         "prompt_history": [
             "Create a landscape full body image of a futuristic alien police in the style of Studio Ghibli"
         ],
@@ -13,18 +13,18 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:12.120279",
+        "seeded_at": "2024-12-15 20:49:12.132554",
         "seed_prompt": "Create a landscape full body image of a futuristic alien police in the style of Studio Ghibli",
         "metadata": {
             "element": "police",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "desert",
-            "animal": "gnu",
+            "backdrop": "forest",
+            "animal": "camel",
             "modifiers": {
                 "image": "full body",
                 "element": "futuristic alien",
-                "backdrop": "futuristic"
+                "backdrop": "futuristic alien"
             }
         },
         "template": {
@@ -41,15 +41,15 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Futuristic Alien Police Officer in Studio Ghibli Style Landscape"
+        "title": "Futuristic Alien Police in Ghibli Style Landscape"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b643270795430.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b643828529599.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/1c080de39d85244f7fa628b9bc42d9f3/1c080de39d85244f7fa628b9bc42d9f3.jpg"
     },
     "tags": [],
     "model_version": "dreamshaper",
-    "name": "Nova Sentinel",
+    "name": "Neon Nova Guardian",
     "symbol": "1C080DE39",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/1c080de39d85244f7fa628b9bc42d9f3/1c080de39d85244f7fa628b9bc42d9f3.jpg"
 }
