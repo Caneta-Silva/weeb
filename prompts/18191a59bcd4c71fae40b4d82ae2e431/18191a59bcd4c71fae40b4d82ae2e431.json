@@ -1,0 +1,40 @@
+{
+    "prompt": "Create a landscape full body image of a alien police in the style of Studio Ghibli",
+    "id": "18191a59bcd4c71fae40b4d82ae2e431",
+    "prompt_history": [
+        "Create a landscape full body image of a alien police in the style of Studio Ghibli"
+    ],
+    "revised_at": null,
+    "revised_prompt": false,
+    "enhanced_at": null,
+    "enhanced_prompt": false,
+    "seeded_at": "2024-12-15 20:49:11.974334",
+    "seed_prompt": "Create a landscape full body image of a alien police in the style of Studio Ghibli",
+    "metadata": {
+        "element": "police",
+        "style": "Studio Ghibli",
+        "aspect_ratio": "landscape",
+        "backdrop": "waterfall",
+        "animal": "camel",
+        "modifiers": {
+            "image": "full body",
+            "element": "alien",
+            "backdrop": "alien"
+        }
+    },
+    "template": {
+        "style": true,
+        "aspect_ratio": true,
+        "element": true,
+        "backdrop": false,
+        "modifiers": {
+            "image": true,
+            "element": false,
+            "backdrop": false
+        },
+        "animal": false,
+        "name": "Standard",
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+    },
+    "title": "Alien Police Officer in a Studio Ghibli-Inspired Landscape"
+}
