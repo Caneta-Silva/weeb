@@ -1,0 +1,55 @@
+{
+    "id": "1623cad69a752be7a769620a9868a5e1",
+    "title": "The Grand Alien Emperor of Tomorrow",
+    "description": "Create a landscape full body image of a futuristic alien emperor in the style of Studio Ghibli",
+    "created": "2024-12-18 15:16:28.089360",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic alien emperor in the style of Studio Ghibli",
+        "id": "3d01334137d072a14a6cfc576b738f11",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic alien emperor in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-15 20:49:12.111042",
+        "seed_prompt": "Create a landscape full body image of a futuristic alien emperor in the style of Studio Ghibli",
+        "metadata": {
+            "element": "emperor",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "waterfall",
+            "animal": "giraffe",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic alien",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "The Grand Alien Emperor of Tomorrow"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b6449041497.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/1623cad69a752be7a769620a9868a5e1/1623cad69a752be7a769620a9868a5e1.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "Celestial Sovereign",
+    "symbol": "1623CAD69",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/1623cad69a752be7a769620a9868a5e1/1623cad69a752be7a769620a9868a5e1.jpg"
+}
