@@ -1,11 +1,11 @@
 {
     "id": "f07f9ca03229da7db143a6bba30d5be9",
-    "title": "Alien Police in Studio Ghibli Style Landscape",
+    "title": "Alien Police Officer in Studio Ghibli Landscape",
     "description": "Create a landscape full body image of a alien police in the style of Studio Ghibli",
-    "created": "2024-12-18 00:11:51.384655",
+    "created": "2024-12-18 06:09:57.715548",
     "prompt": {
         "prompt": "Create a landscape full body image of a alien police in the style of Studio Ghibli",
-        "id": "484eee1311889e921145454762eebcb5",
+        "id": "eeec2124b95b94a36b6663940e7c6b43",
         "prompt_history": [
             "Create a landscape full body image of a alien police in the style of Studio Ghibli"
         ],
@@ -13,18 +13,18 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:11.972378",
+        "seeded_at": "2024-12-15 20:49:11.981549",
         "seed_prompt": "Create a landscape full body image of a alien police in the style of Studio Ghibli",
         "metadata": {
             "element": "police",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "Martial landscape",
-            "animal": "deer",
+            "backdrop": "fortress",
+            "animal": "camel",
             "modifiers": {
                 "image": "full body",
                 "element": "alien",
-                "backdrop": "alien"
+                "backdrop": "futuristic alien"
             }
         },
         "template": {
@@ -41,15 +41,15 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Alien Police in Studio Ghibli Style Landscape"
+        "title": "Alien Police Officer in Studio Ghibli Landscape"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b64803459668.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b642633771743.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/f07f9ca03229da7db143a6bba30d5be9/f07f9ca03229da7db143a6bba30d5be9.jpg"
     },
     "tags": [],
     "model_version": "dreamshaper",
-    "name": "Ghibli Galactic Enforcer",
+    "name": "Nebulon Officer",
     "symbol": "F07F9CA03",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/f07f9ca03229da7db143a6bba30d5be9/f07f9ca03229da7db143a6bba30d5be9.jpg"
 }
