@@ -1,0 +1,55 @@
+{
+    "id": "a27bf16acb52066a25591c3d2d0394bd",
+    "title": "Futuristic Desert Tribe Warrior in Studio Ghibli Style",
+    "description": "Create a landscape full body image of a futuristic desert tribe warrior in the style of Studio Ghibli",
+    "created": "2024-12-18 21:33:28.710355",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic desert tribe warrior in the style of Studio Ghibli",
+        "id": "9d03302eee5889bbaaa45ed676b8025e",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic desert tribe warrior in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-15 20:49:11.728995",
+        "seed_prompt": "Create a landscape full body image of a futuristic desert tribe warrior in the style of Studio Ghibli",
+        "metadata": {
+            "element": "desert tribe warrior",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "forest",
+            "animal": "rhino",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic",
+                "backdrop": "futuristic"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Futuristic Desert Tribe Warrior in Studio Ghibli Style"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b643529117046.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/a27bf16acb52066a25591c3d2d0394bd/a27bf16acb52066a25591c3d2d0394bd.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "Sandfire Sentinel",
+    "symbol": "A27BF16AC",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/a27bf16acb52066a25591c3d2d0394bd/a27bf16acb52066a25591c3d2d0394bd.jpg"
+}
