@@ -1,11 +1,11 @@
 {
     "id": "9c57e0cbd06d3f9fa0c31598d2232ec3",
-    "title": "Futuristic Alien Medic in Studio Ghibli Style",
+    "title": "Futuristic Alien Medic: A Studio Ghibli Inspired Journey",
     "description": "Create a landscape full body image of a futuristic alien medic in the style of Studio Ghibli",
-    "created": "2024-12-18 09:57:51.642375",
+    "created": "2024-12-18 10:20:29.812603",
     "prompt": {
         "prompt": "Create a landscape full body image of a futuristic alien medic in the style of Studio Ghibli",
-        "id": "9766d4cc5e0bb32692052c7c95e6c06a",
+        "id": "76c39aab897f017c804c13f866597fc8",
         "prompt_history": [
             "Create a landscape full body image of a futuristic alien medic in the style of Studio Ghibli"
         ],
@@ -13,14 +13,14 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:12.161805",
+        "seeded_at": "2024-12-15 20:49:12.162250",
         "seed_prompt": "Create a landscape full body image of a futuristic alien medic in the style of Studio Ghibli",
         "metadata": {
             "element": "medic",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "tropical forest",
-            "animal": "camel",
+            "backdrop": "forest",
+            "animal": "deer",
             "modifiers": {
                 "image": "full body",
                 "element": "futuristic alien",
@@ -41,15 +41,15 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Futuristic Alien Medic in Studio Ghibli Style"
+        "title": "Futuristic Alien Medic: A Studio Ghibli Inspired Journey"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b64515681764.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b642889747219.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/9c57e0cbd06d3f9fa0c31598d2232ec3/9c57e0cbd06d3f9fa0c31598d2232ec3.jpg"
     },
     "tags": [],
     "model_version": "dreamshaper",
-    "name": "Novahealer",
+    "name": "Nova Healbot",
     "symbol": "9C57E0CBD",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/9c57e0cbd06d3f9fa0c31598d2232ec3/9c57e0cbd06d3f9fa0c31598d2232ec3.jpg"
 }
