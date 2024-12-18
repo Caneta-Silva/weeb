@@ -1,11 +1,11 @@
 {
     "id": "aae26ff13d105c13954b203e9e5da79e",
-    "title": "Futuristic Alien Desert Tribe Warrior",
+    "title": "The Nomadic Warrior of the Alien Sands",
     "description": "Create a landscape full body image of a futuristic alien desert tribe warrior in the style of Studio Ghibli",
-    "created": "2024-12-18 07:15:24.407590",
+    "created": "2024-12-18 07:55:16.257208",
     "prompt": {
         "prompt": "Create a landscape full body image of a futuristic alien desert tribe warrior in the style of Studio Ghibli",
-        "id": "5c6aa56408ecea1ce69e214258bff65b",
+        "id": "d1447431268f78f6b550236bbd327b04",
         "prompt_history": [
             "Create a landscape full body image of a futuristic alien desert tribe warrior in the style of Studio Ghibli"
         ],
@@ -13,18 +13,18 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:12.056377",
+        "seeded_at": "2024-12-15 20:49:12.044883",
         "seed_prompt": "Create a landscape full body image of a futuristic alien desert tribe warrior in the style of Studio Ghibli",
         "metadata": {
             "element": "desert tribe warrior",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "forest",
+            "backdrop": "desert",
             "animal": "elephant",
             "modifiers": {
                 "image": "full body",
                 "element": "futuristic alien",
-                "backdrop": "futuristic alien"
+                "backdrop": "futuristic"
             }
         },
         "template": {
@@ -41,15 +41,15 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Futuristic Alien Desert Tribe Warrior"
+        "title": "The Nomadic Warrior of the Alien Sands"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b6482223875.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b64152747451.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/aae26ff13d105c13954b203e9e5da79e/aae26ff13d105c13954b203e9e5da79e.jpg"
     },
     "tags": [],
     "model_version": "dreamshaper",
-    "name": "Rylo Sandshifter",
+    "name": "Nebula Sandshifter",
     "symbol": "AAE26FF13",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/aae26ff13d105c13954b203e9e5da79e/aae26ff13d105c13954b203e9e5da79e.jpg"
 }
