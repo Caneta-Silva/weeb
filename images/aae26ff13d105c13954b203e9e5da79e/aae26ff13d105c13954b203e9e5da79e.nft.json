@@ -1,11 +1,11 @@
 {
     "id": "aae26ff13d105c13954b203e9e5da79e",
-    "title": "Futuristic Alien Desert Tribe Warrior in the Style of Studio Ghibli",
-    "description": "Futuristic Alien Desert Tribe Warrior in the Style of Studio Ghibli",
-    "created": "2024-12-18 10:20:13.889969",
+    "title": "Desert Wanderer: A Futuristic Alien Tribe Warrior",
+    "description": "Desert Wanderer: A Futuristic Alien Tribe Warrior",
+    "created": "2024-12-18 10:33:46.552262",
     "prompt": {
         "prompt": "Create a landscape full body image of a futuristic alien desert tribe warrior in the style of Studio Ghibli",
-        "id": "91f84c463356fc6b6dacc6995a9d4ba4",
+        "id": "5197b60d2d3c0d91d9277b0f37502f88",
         "prompt_history": [
             "Create a landscape full body image of a futuristic alien desert tribe warrior in the style of Studio Ghibli"
         ],
@@ -13,18 +13,18 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:12.048810",
+        "seeded_at": "2024-12-15 20:49:12.048246",
         "seed_prompt": "Create a landscape full body image of a futuristic alien desert tribe warrior in the style of Studio Ghibli",
         "metadata": {
             "element": "desert tribe warrior",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "Martial landscape",
-            "animal": "camel",
+            "backdrop": "fortress",
+            "animal": "rhino",
             "modifiers": {
                 "image": "full body",
                 "element": "futuristic alien",
-                "backdrop": "alien"
+                "backdrop": "futuristic"
             }
         },
         "template": {
@@ -41,15 +41,15 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Futuristic Alien Desert Tribe Warrior in the Style of Studio Ghibli"
+        "title": "Desert Wanderer: A Futuristic Alien Tribe Warrior"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b6475765812.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b642666862917.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/aae26ff13d105c13954b203e9e5da79e/aae26ff13d105c13954b203e9e5da79e.jpg"
     },
     "tags": [],
     "model_version": "dreamshaper",
-    "name": "Sandwalker",
+    "name": "Ghibli Desert Warrior",
     "symbol": "AAE26",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/aae26ff13d105c13954b203e9e5da79e/aae26ff13d105c13954b203e9e5da79e.jpg",
     "seller_fee_basis_points": 100,
