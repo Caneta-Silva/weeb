@@ -2,10 +2,10 @@
     "id": "8d6bbe136a0cc5bd1766be5ed2fb7dd2",
     "title": "Futuristic Alien Shaman in the Style of Studio Ghibli",
     "description": "Futuristic Alien Shaman in the Style of Studio Ghibli",
-    "created": "2024-12-18 10:14:49.504826",
+    "created": "2024-12-18 10:53:48.413444",
     "prompt": {
         "prompt": "Create a landscape full body image of a futuristic alien shaman in the style of Studio Ghibli",
-        "id": "0533afc900f400df11c3e64b3c5e5203",
+        "id": "a263d29fe6f4eb45aca5980979c17964",
         "prompt_history": [
             "Create a landscape full body image of a futuristic alien shaman in the style of Studio Ghibli"
         ],
@@ -13,14 +13,14 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:12.090807",
+        "seeded_at": "2024-12-15 20:49:12.091621",
         "seed_prompt": "Create a landscape full body image of a futuristic alien shaman in the style of Studio Ghibli",
         "metadata": {
             "element": "shaman",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "waterfall",
-            "animal": "deer",
+            "backdrop": "tropical forest",
+            "animal": "camel",
             "modifiers": {
                 "image": "full body",
                 "element": "futuristic alien",
@@ -44,12 +44,12 @@
         "title": "Futuristic Alien Shaman in the Style of Studio Ghibli"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b642021251596.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b64865221137.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/8d6bbe136a0cc5bd1766be5ed2fb7dd2/8d6bbe136a0cc5bd1766be5ed2fb7dd2.jpg"
     },
     "tags": [],
     "model_version": "dreamshaper",
-    "name": null,
+    "name": "GhibliAlienShaman",
     "symbol": "8D6BB",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/8d6bbe136a0cc5bd1766be5ed2fb7dd2/8d6bbe136a0cc5bd1766be5ed2fb7dd2.jpg",
     "seller_fee_basis_points": 100,
