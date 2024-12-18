@@ -1,11 +1,11 @@
 {
     "id": "f07f9ca03229da7db143a6bba30d5be9",
-    "title": "Alien Police Officer in Studio Ghibli style Landscape",
+    "title": "Alien Police in Studio Ghibli Style",
     "description": "Create a landscape full body image of a alien police in the style of Studio Ghibli",
-    "created": "2024-12-18 06:29:25.817327",
+    "created": "2024-12-18 08:20:37.963045",
     "prompt": {
         "prompt": "Create a landscape full body image of a alien police in the style of Studio Ghibli",
-        "id": "1b6be81ce0b1d844abae72f723e58c49",
+        "id": "22b51dd76559ecc72f4362185d931caf",
         "prompt_history": [
             "Create a landscape full body image of a alien police in the style of Studio Ghibli"
         ],
@@ -13,18 +13,18 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:11.973165",
+        "seeded_at": "2024-12-15 20:49:11.967817",
         "seed_prompt": "Create a landscape full body image of a alien police in the style of Studio Ghibli",
         "metadata": {
             "element": "police",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
             "backdrop": "desert landscape",
-            "animal": "camel",
+            "animal": "elephant",
             "modifiers": {
                 "image": "full body",
                 "element": "alien",
-                "backdrop": "alien"
+                "backdrop": "futuristic"
             }
         },
         "template": {
@@ -41,15 +41,15 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Alien Police Officer in Studio Ghibli style Landscape"
+        "title": "Alien Police in Studio Ghibli Style"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b643258783524.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b64902394037.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/f07f9ca03229da7db143a6bba30d5be9/f07f9ca03229da7db143a6bba30d5be9.jpg"
     },
     "tags": [],
     "model_version": "dreamshaper",
-    "name": "Cosmo Sentinel",
+    "name": "Nova Guardian",
     "symbol": "F07F9CA03",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/f07f9ca03229da7db143a6bba30d5be9/f07f9ca03229da7db143a6bba30d5be9.jpg"
 }
