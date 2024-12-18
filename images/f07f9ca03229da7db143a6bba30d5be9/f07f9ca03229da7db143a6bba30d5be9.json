@@ -1,11 +1,11 @@
 {
     "id": "f07f9ca03229da7db143a6bba30d5be9",
-    "title": "Guardian of the Alien Galaxy",
+    "title": "Alien Police in Studio Ghibli Style Landscape",
     "description": "Create a landscape full body image of a alien police in the style of Studio Ghibli",
-    "created": "2024-12-16 19:42:15.530930",
+    "created": "2024-12-18 00:11:51.384655",
     "prompt": {
         "prompt": "Create a landscape full body image of a alien police in the style of Studio Ghibli",
-        "id": "4b0cb6e2595be3af6e61226d34fcc2a9",
+        "id": "484eee1311889e921145454762eebcb5",
         "prompt_history": [
             "Create a landscape full body image of a alien police in the style of Studio Ghibli"
         ],
@@ -13,13 +13,13 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:11.974756",
+        "seeded_at": "2024-12-15 20:49:11.972378",
         "seed_prompt": "Create a landscape full body image of a alien police in the style of Studio Ghibli",
         "metadata": {
             "element": "police",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "tropical forest",
+            "backdrop": "Martial landscape",
             "animal": "deer",
             "modifiers": {
                 "image": "full body",
@@ -41,10 +41,10 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Guardian of the Alien Galaxy"
+        "title": "Alien Police in Studio Ghibli Style Landscape"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b64457092010.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b64803459668.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/f07f9ca03229da7db143a6bba30d5be9/f07f9ca03229da7db143a6bba30d5be9.jpg"
     },
     "tags": [],
