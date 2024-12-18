@@ -1,0 +1,78 @@
+{
+    "id": "c6ad208335c05bba0a02a8c057cefb3c",
+    "title": "The Alien Paladin Brigade",
+    "description": "The Alien Paladin Brigade",
+    "created": "2024-12-18 21:35:22.967676",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a alien paladin style military in the style of Studio Ghibli",
+        "id": "7cbbf866ef7fc6aa8771ab0b25730e4a",
+        "prompt_history": [
+            "Create a landscape full body image of a alien paladin style military in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-15 20:49:11.864317",
+        "seed_prompt": "Create a landscape full body image of a alien paladin style military in the style of Studio Ghibli",
+        "metadata": {
+            "element": "paladin style military",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "desert",
+            "animal": "elephant",
+            "modifiers": {
+                "image": "full body",
+                "element": "alien",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "The Alien Paladin Brigade"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b642587945572.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/c6ad208335c05bba0a02a8c057cefb3c/c6ad208335c05bba0a02a8c057cefb3c.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "GhibliGalacticGuardian",
+    "symbol": "C6AD2",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/c6ad208335c05bba0a02a8c057cefb3c/c6ad208335c05bba0a02a8c057cefb3c.jpg",
+    "seller_fee_basis_points": 100,
+    "external_url": null,
+    "attributes": {},
+    "collection": {
+        "name": "weeb",
+        "family": "Caneta-Silva"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/c6ad208335c05bba0a02a8c057cefb3c/c6ad208335c05bba0a02a8c057cefb3c.jpg",
+                "type": "image/jpg"
+            }
+        ],
+        "category": "image",
+        "maxSupply": 0,
+        "creators": [
+            {
+                "address": "CXretoxLBQDmFwDbf4qJYVX49UaA4PPMy3pCtfm2yzVH",
+                "share": 100
+            }
+        ]
+    }
+}
