@@ -1,11 +1,11 @@
 {
     "id": "c654236276bf5d988438d32d8385d073",
-    "title": "Futuristic Shaman in the Spirit of Studio Ghibli",
+    "title": "Futuristic Shaman of Enchanted Realms",
     "description": "Create a landscape full body image of a futuristic shaman in the style of Studio Ghibli",
-    "created": "2024-12-18 06:44:04.687785",
+    "created": "2024-12-18 07:16:38.116512",
     "prompt": {
         "prompt": "Create a landscape full body image of a futuristic shaman in the style of Studio Ghibli",
-        "id": "28d31a90f013c09e00121709188e4fae",
+        "id": "99c6e43bcaa0ce92e5eb8df7c00a44fb",
         "prompt_history": [
             "Create a landscape full body image of a futuristic shaman in the style of Studio Ghibli"
         ],
@@ -13,18 +13,18 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:11.781244",
+        "seeded_at": "2024-12-15 20:49:11.785119",
         "seed_prompt": "Create a landscape full body image of a futuristic shaman in the style of Studio Ghibli",
         "metadata": {
             "element": "shaman",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "fortress",
-            "animal": "horse",
+            "backdrop": "forest",
+            "animal": "giraffe",
             "modifiers": {
                 "image": "full body",
                 "element": "futuristic",
-                "backdrop": "alien"
+                "backdrop": "futuristic alien"
             }
         },
         "template": {
@@ -41,10 +41,10 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Futuristic Shaman in the Spirit of Studio Ghibli"
+        "title": "Futuristic Shaman of Enchanted Realms"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b64968353340.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b642801487202.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/c654236276bf5d988438d32d8385d073/c654236276bf5d988438d32d8385d073.jpg"
     },
     "tags": [],
