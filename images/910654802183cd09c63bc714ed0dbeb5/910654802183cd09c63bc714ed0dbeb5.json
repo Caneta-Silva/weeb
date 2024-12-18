@@ -1,11 +1,11 @@
 {
     "id": "910654802183cd09c63bc714ed0dbeb5",
-    "title": "Guardian of the Enchanted Grove",
+    "title": "Pulse of the Cosmos: The Sentry of the Stars",
     "description": "Create a landscape full body image of a alien riot police robot in the style of Studio Ghibli",
-    "created": "2024-12-18 07:00:36.036778",
+    "created": "2024-12-18 07:32:45.666086",
     "prompt": {
         "prompt": "Create a landscape full body image of a alien riot police robot in the style of Studio Ghibli",
-        "id": "2e31dd496fd5a6b91888740fabb65258",
+        "id": "21c107386378166ed625698bd6bfdf97",
         "prompt_history": [
             "Create a landscape full body image of a alien riot police robot in the style of Studio Ghibli"
         ],
@@ -13,18 +13,18 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:11.880269",
+        "seeded_at": "2024-12-15 20:49:11.884761",
         "seed_prompt": "Create a landscape full body image of a alien riot police robot in the style of Studio Ghibli",
         "metadata": {
             "element": "riot police robot",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "waterfall",
-            "animal": "gnu",
+            "backdrop": "desert",
+            "animal": "rhino",
             "modifiers": {
                 "image": "full body",
                 "element": "alien",
-                "backdrop": "alien"
+                "backdrop": "futuristic alien"
             }
         },
         "template": {
@@ -41,10 +41,10 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Guardian of the Enchanted Grove"
+        "title": "Pulse of the Cosmos: The Sentry of the Stars"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b642937278863.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b641990864186.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/910654802183cd09c63bc714ed0dbeb5/910654802183cd09c63bc714ed0dbeb5.jpg"
     },
     "tags": [],
