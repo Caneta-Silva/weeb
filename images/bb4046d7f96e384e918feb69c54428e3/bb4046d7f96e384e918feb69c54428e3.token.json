@@ -1,11 +1,11 @@
 {
     "id": "bb4046d7f96e384e918feb69c54428e3",
-    "title": "Futuristic Tribe Warrior of the Mystical Forest",
+    "title": "Futuristic Tribe Warrior of the Enchanted Forest",
     "description": "Create a landscape full body image of a futuristic tribe warrior in the style of Studio Ghibli",
-    "created": "2024-12-17 11:41:28.603195",
+    "created": "2024-12-18 06:10:43.121912",
     "prompt": {
         "prompt": "Create a landscape full body image of a futuristic tribe warrior in the style of Studio Ghibli",
-        "id": "a9a3859ce762708e19baff0c0ecd2655",
+        "id": "459145545b5de724c86be88f9d97b596",
         "prompt_history": [
             "Create a landscape full body image of a futuristic tribe warrior in the style of Studio Ghibli"
         ],
@@ -13,14 +13,14 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:11.742566",
+        "seeded_at": "2024-12-15 20:49:11.744345",
         "seed_prompt": "Create a landscape full body image of a futuristic tribe warrior in the style of Studio Ghibli",
         "metadata": {
             "element": "tribe warrior",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "desert",
-            "animal": "giraffe",
+            "backdrop": "forest",
+            "animal": "horse",
             "modifiers": {
                 "image": "full body",
                 "element": "futuristic",
@@ -41,15 +41,15 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Futuristic Tribe Warrior of the Mystical Forest"
+        "title": "Futuristic Tribe Warrior of the Enchanted Forest"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b642870488533.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b643703753496.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/bb4046d7f96e384e918feb69c54428e3/bb4046d7f96e384e918feb69c54428e3.jpg"
     },
     "tags": [],
     "model_version": "dreamshaper",
-    "name": "Aiko Moonshadow",
+    "name": "Akiro, the Skyward Sentinel",
     "symbol": "BB4046D7F",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/bb4046d7f96e384e918feb69c54428e3/bb4046d7f96e384e918feb69c54428e3.jpg"
 }
