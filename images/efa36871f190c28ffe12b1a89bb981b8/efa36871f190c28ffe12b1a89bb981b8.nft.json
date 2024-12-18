@@ -1,11 +1,11 @@
 {
     "id": "efa36871f190c28ffe12b1a89bb981b8",
-    "title": "Futuristic Alien Firefighter: A Studio Ghibli-Inspired Creation",
-    "description": "Futuristic Alien Firefighter: A Studio Ghibli-Inspired Creation",
-    "created": "2024-12-18 07:50:50.012911",
+    "title": "Futuristic Alien Firefighter in the Style of Studio Ghibli",
+    "description": "Futuristic Alien Firefighter in the Style of Studio Ghibli",
+    "created": "2024-12-18 08:02:54.997870",
     "prompt": {
         "prompt": "Create a landscape full body image of a futuristic alien firefighter in the style of Studio Ghibli",
-        "id": "573fd51c4b984d3ecea98d4598728486",
+        "id": "74456bc8c036bb9e3921a169bee11528",
         "prompt_history": [
             "Create a landscape full body image of a futuristic alien firefighter in the style of Studio Ghibli"
         ],
@@ -13,18 +13,18 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:12.143418",
+        "seeded_at": "2024-12-15 20:49:12.135506",
         "seed_prompt": "Create a landscape full body image of a futuristic alien firefighter in the style of Studio Ghibli",
         "metadata": {
             "element": "firefighter",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "fortress",
-            "animal": "horse",
+            "backdrop": "desert",
+            "animal": "camel",
             "modifiers": {
                 "image": "full body",
                 "element": "futuristic alien",
-                "backdrop": "alien"
+                "backdrop": "futuristic"
             }
         },
         "template": {
@@ -41,15 +41,15 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Futuristic Alien Firefighter: A Studio Ghibli-Inspired Creation"
+        "title": "Futuristic Alien Firefighter in the Style of Studio Ghibli"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b641434864811.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b643437738067.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/efa36871f190c28ffe12b1a89bb981b8/efa36871f190c28ffe12b1a89bb981b8.jpg"
     },
     "tags": [],
     "model_version": "dreamshaper",
-    "name": null,
+    "name": "NebulaFlameGuardian",
     "symbol": "EFA36",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/efa36871f190c28ffe12b1a89bb981b8/efa36871f190c28ffe12b1a89bb981b8.jpg",
     "seller_fee_basis_points": 100,
