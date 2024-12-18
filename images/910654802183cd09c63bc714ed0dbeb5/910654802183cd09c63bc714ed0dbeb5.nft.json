@@ -1,11 +1,11 @@
 {
     "id": "910654802183cd09c63bc714ed0dbeb5",
-    "title": "Galactic Enforcer: Alien Riot Police Robot",
-    "description": "Galactic Enforcer: Alien Riot Police Robot",
-    "created": "2024-12-18 08:54:43.463204",
+    "title": "Alien Riot Police Robot in Studio Ghibli Style",
+    "description": "Alien Riot Police Robot in Studio Ghibli Style",
+    "created": "2024-12-18 09:05:58.924590",
     "prompt": {
         "prompt": "Create a landscape full body image of a alien riot police robot in the style of Studio Ghibli",
-        "id": "78c5aff3199dfc0e72d72be37a472e0f",
+        "id": "d2a7f89aada0fd4153eed0892474652d",
         "prompt_history": [
             "Create a landscape full body image of a alien riot police robot in the style of Studio Ghibli"
         ],
@@ -13,18 +13,18 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:11.882463",
+        "seeded_at": "2024-12-15 20:49:11.887677",
         "seed_prompt": "Create a landscape full body image of a alien riot police robot in the style of Studio Ghibli",
         "metadata": {
             "element": "riot police robot",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
             "backdrop": "fortress",
-            "animal": "giraffe",
+            "animal": "deer",
             "modifiers": {
                 "image": "full body",
                 "element": "alien",
-                "backdrop": "alien"
+                "backdrop": "futuristic alien"
             }
         },
         "template": {
@@ -41,15 +41,15 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Galactic Enforcer: Alien Riot Police Robot"
+        "title": "Alien Riot Police Robot in Studio Ghibli Style"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b642747170434.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b643090076018.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/910654802183cd09c63bc714ed0dbeb5/910654802183cd09c63bc714ed0dbeb5.jpg"
     },
     "tags": [],
     "model_version": "dreamshaper",
-    "name": "Riotron Ghibliforce",
+    "name": "GhibliRoboEnforcer",
     "symbol": "91065",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/910654802183cd09c63bc714ed0dbeb5/910654802183cd09c63bc714ed0dbeb5.jpg",
     "seller_fee_basis_points": 100,
