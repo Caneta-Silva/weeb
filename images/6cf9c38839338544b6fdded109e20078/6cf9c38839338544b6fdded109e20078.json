@@ -1,0 +1,52 @@
+{
+    "id": "6cf9c38839338544b6fdded109e20078",
+    "title": "Futuristic Tribe Warrior of Studio Ghibli",
+    "description": "Create a landscape full body image of a futuristic tribe warrior in the style of Studio Ghibli",
+    "created": "2024-12-18 21:31:10.638453",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic tribe warrior in the style of Studio Ghibli",
+        "id": "9469bb438ab5b19e693422de3bd41885",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic tribe warrior in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-15 20:49:11.744157",
+        "seed_prompt": "Create a landscape full body image of a futuristic tribe warrior in the style of Studio Ghibli",
+        "metadata": {
+            "element": "tribe warrior",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "tropical forest",
+            "animal": "camel",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic",
+                "backdrop": "futuristic"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Futuristic Tribe Warrior of Studio Ghibli"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b642699955672.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/6cf9c38839338544b6fdded109e20078/6cf9c38839338544b6fdded109e20078.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper"
+}
