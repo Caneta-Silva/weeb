@@ -1,0 +1,55 @@
+{
+    "id": "a130962bc2931dd53bb493f1603b4284",
+    "title": "Alien Police Patrolling the Enchanted Landscape",
+    "description": "Create a landscape full body image of a alien police in the style of Studio Ghibli",
+    "created": "2024-12-18 21:34:58.163829",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a alien police in the style of Studio Ghibli",
+        "id": "91bf5da5e8fc137f76fc60ee7d311903",
+        "prompt_history": [
+            "Create a landscape full body image of a alien police in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-15 20:49:11.976917",
+        "seed_prompt": "Create a landscape full body image of a alien police in the style of Studio Ghibli",
+        "metadata": {
+            "element": "police",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "Martial landscape",
+            "animal": "elephant",
+            "modifiers": {
+                "image": "full body",
+                "element": "alien",
+                "backdrop": "futuristic alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Alien Police Patrolling the Enchanted Landscape"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b643413270970.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/a130962bc2931dd53bb493f1603b4284/a130962bc2931dd53bb493f1603b4284.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "Galactic Guardian",
+    "symbol": "A130962BC",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/a130962bc2931dd53bb493f1603b4284/a130962bc2931dd53bb493f1603b4284.jpg"
+}
