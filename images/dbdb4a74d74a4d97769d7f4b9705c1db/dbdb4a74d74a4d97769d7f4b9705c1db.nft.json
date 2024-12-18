@@ -1,11 +1,11 @@
 {
     "id": "dbdb4a74d74a4d97769d7f4b9705c1db",
-    "title": "The Alien Tribe Chief: A Studio Ghibli Inspired Portrait",
-    "description": "The Alien Tribe Chief: A Studio Ghibli Inspired Portrait",
-    "created": "2024-12-18 06:24:09.952706",
+    "title": "Chief of the Celestial Tribe",
+    "description": "Chief of the Celestial Tribe",
+    "created": "2024-12-18 07:00:48.276896",
     "prompt": {
         "prompt": "Create a landscape full body image of a alien tribe chief in the style of Studio Ghibli",
-        "id": "f4b4c72bc770c7e9b09b2456fda3a925",
+        "id": "7f01778162ed27b1baee3354f2bd73a7",
         "prompt_history": [
             "Create a landscape full body image of a alien tribe chief in the style of Studio Ghibli"
         ],
@@ -13,18 +13,18 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:11.923216",
+        "seeded_at": "2024-12-15 20:49:11.927121",
         "seed_prompt": "Create a landscape full body image of a alien tribe chief in the style of Studio Ghibli",
         "metadata": {
             "element": "tribe chief",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "fortress",
-            "animal": "giraffe",
+            "backdrop": "forest",
+            "animal": "gnu",
             "modifiers": {
                 "image": "full body",
                 "element": "alien",
-                "backdrop": "futuristic"
+                "backdrop": "alien"
             }
         },
         "template": {
@@ -41,15 +41,15 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "The Alien Tribe Chief: A Studio Ghibli Inspired Portrait"
+        "title": "Chief of the Celestial Tribe"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b642622967105.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b642217604139.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/dbdb4a74d74a4d97769d7f4b9705c1db/dbdb4a74d74a4d97769d7f4b9705c1db.jpg"
     },
     "tags": [],
     "model_version": "dreamshaper",
-    "name": "NebulaChieftain",
+    "name": "GhibliChief",
     "symbol": "DBDB4",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/dbdb4a74d74a4d97769d7f4b9705c1db/dbdb4a74d74a4d97769d7f4b9705c1db.jpg",
     "seller_fee_basis_points": 100,
