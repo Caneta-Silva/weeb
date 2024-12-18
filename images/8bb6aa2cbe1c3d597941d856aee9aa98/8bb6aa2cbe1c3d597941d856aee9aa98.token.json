@@ -1,11 +1,11 @@
 {
     "id": "8bb6aa2cbe1c3d597941d856aee9aa98",
-    "title": "Alien Tribe Warrior in Studio Ghibli Style",
+    "title": "Warrior of the Alien Tribe",
     "description": "Create a landscape full body image of a alien tribe warrior in the style of Studio Ghibli",
-    "created": "2024-12-18 09:48:14.871330",
+    "created": "2024-12-18 10:30:13.347459",
     "prompt": {
         "prompt": "Create a landscape full body image of a alien tribe warrior in the style of Studio Ghibli",
-        "id": "663df78ccf27df83a9fbfbf522e89f46",
+        "id": "7aa1acc42c9927294b7e74a4a4ed68e4",
         "prompt_history": [
             "Create a landscape full body image of a alien tribe warrior in the style of Studio Ghibli"
         ],
@@ -13,18 +13,18 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:11.907388",
+        "seeded_at": "2024-12-15 20:49:11.917707",
         "seed_prompt": "Create a landscape full body image of a alien tribe warrior in the style of Studio Ghibli",
         "metadata": {
             "element": "tribe warrior",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
             "backdrop": "spaceship",
-            "animal": "giraffe",
+            "animal": "deer",
             "modifiers": {
                 "image": "full body",
                 "element": "alien",
-                "backdrop": "futuristic"
+                "backdrop": "futuristic alien"
             }
         },
         "template": {
@@ -41,15 +41,15 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Alien Tribe Warrior in Studio Ghibli Style"
+        "title": "Warrior of the Alien Tribe"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b643633837809.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b642043944539.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/8bb6aa2cbe1c3d597941d856aee9aa98/8bb6aa2cbe1c3d597941d856aee9aa98.jpg"
     },
     "tags": [],
     "model_version": "dreamshaper",
-    "name": "Nokara, the Alien Tribe Warrior",
+    "name": "Nebulon Guardian",
     "symbol": "8BB6AA2CB",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/8bb6aa2cbe1c3d597941d856aee9aa98/8bb6aa2cbe1c3d597941d856aee9aa98.jpg"
 }
