@@ -1,11 +1,11 @@
 {
     "id": "f07f9ca03229da7db143a6bba30d5be9",
-    "title": "Alien Police in Studio Ghibli Style",
+    "title": "Alien Police Officer in Studio Ghibli Style Landscape",
     "description": "Create a landscape full body image of a alien police in the style of Studio Ghibli",
-    "created": "2024-12-18 08:20:37.963045",
+    "created": "2024-12-18 09:02:57.719745",
     "prompt": {
         "prompt": "Create a landscape full body image of a alien police in the style of Studio Ghibli",
-        "id": "22b51dd76559ecc72f4362185d931caf",
+        "id": "d79738a538e63b7ef3591f4e0c722971",
         "prompt_history": [
             "Create a landscape full body image of a alien police in the style of Studio Ghibli"
         ],
@@ -13,14 +13,14 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:11.967817",
+        "seeded_at": "2024-12-15 20:49:11.968006",
         "seed_prompt": "Create a landscape full body image of a alien police in the style of Studio Ghibli",
         "metadata": {
             "element": "police",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
             "backdrop": "desert landscape",
-            "animal": "elephant",
+            "animal": "deer",
             "modifiers": {
                 "image": "full body",
                 "element": "alien",
@@ -41,15 +41,15 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Alien Police in Studio Ghibli Style"
+        "title": "Alien Police Officer in Studio Ghibli Style Landscape"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b64902394037.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b641831645781.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/f07f9ca03229da7db143a6bba30d5be9/f07f9ca03229da7db143a6bba30d5be9.jpg"
     },
     "tags": [],
     "model_version": "dreamshaper",
-    "name": "Nova Guardian",
+    "name": "Galactic Guardian",
     "symbol": "F07F9CA03",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/f07f9ca03229da7db143a6bba30d5be9/f07f9ca03229da7db143a6bba30d5be9.jpg"
 }
