@@ -1,11 +1,11 @@
 {
     "id": "e46ea160cb294451411f238a112f5c62",
-    "title": "Futuristic Paladin Military in Studio Ghibli Style",
-    "description": "Futuristic Paladin Military in Studio Ghibli Style",
-    "created": "2024-12-18 07:29:58.670450",
+    "title": "Futuristic Paladin Warrior in Studio Ghibli Style",
+    "description": "Futuristic Paladin Warrior in Studio Ghibli Style",
+    "created": "2024-12-18 07:55:32.166479",
     "prompt": {
         "prompt": "Create a landscape full body image of a futuristic paladin style military in the style of Studio Ghibli",
-        "id": "f7c95f2d360be59ca8545521b4498f48",
+        "id": "a721e1683c60610a3332a6972d1d86e5",
         "prompt_history": [
             "Create a landscape full body image of a futuristic paladin style military in the style of Studio Ghibli"
         ],
@@ -13,14 +13,14 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:11.699323",
+        "seeded_at": "2024-12-15 20:49:11.699155",
         "seed_prompt": "Create a landscape full body image of a futuristic paladin style military in the style of Studio Ghibli",
         "metadata": {
             "element": "paladin style military",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
             "backdrop": "Martial landscape",
-            "animal": "camel",
+            "animal": "deer",
             "modifiers": {
                 "image": "full body",
                 "element": "futuristic",
@@ -41,15 +41,15 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Futuristic Paladin Military in Studio Ghibli Style"
+        "title": "Futuristic Paladin Warrior in Studio Ghibli Style"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b642610600371.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b642197317080.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/e46ea160cb294451411f238a112f5c62/e46ea160cb294451411f238a112f5c62.jpg"
     },
     "tags": [],
     "model_version": "dreamshaper",
-    "name": "GhibliKnight",
+    "name": null,
     "symbol": "E46EA",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/e46ea160cb294451411f238a112f5c62/e46ea160cb294451411f238a112f5c62.jpg",
     "seller_fee_basis_points": 100,
