@@ -1,11 +1,11 @@
 {
     "id": "bbe1f1e4f1bbc798b833b419a9eca3a0",
-    "title": "Futuristic Riot Police Robot in Studio Ghibli Style Landscape",
+    "title": "Futuristic Riot Police Robot in Studio Ghibli Style",
     "description": "Create a landscape full body image of a futuristic riot police robot in the style of Studio Ghibli",
-    "created": "2024-12-18 06:27:38.382819",
+    "created": "2024-12-18 06:34:31.084124",
     "prompt": {
         "prompt": "Create a landscape full body image of a futuristic riot police robot in the style of Studio Ghibli",
-        "id": "6bd544a3bc0ca39c606f0b01613cb626",
+        "id": "d9d6294c7285889f59589f2a854c7fb3",
         "prompt_history": [
             "Create a landscape full body image of a futuristic riot police robot in the style of Studio Ghibli"
         ],
@@ -13,18 +13,18 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:11.715509",
+        "seeded_at": "2024-12-15 20:49:11.711138",
         "seed_prompt": "Create a landscape full body image of a futuristic riot police robot in the style of Studio Ghibli",
         "metadata": {
             "element": "riot police robot",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "desert landscape",
-            "animal": "giraffe",
+            "backdrop": "desert",
+            "animal": "camel",
             "modifiers": {
                 "image": "full body",
                 "element": "futuristic",
-                "backdrop": "alien"
+                "backdrop": "futuristic"
             }
         },
         "template": {
@@ -41,10 +41,10 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Futuristic Riot Police Robot in Studio Ghibli Style Landscape"
+        "title": "Futuristic Riot Police Robot in Studio Ghibli Style"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b643425281695.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b641489046337.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/bbe1f1e4f1bbc798b833b419a9eca3a0/bbe1f1e4f1bbc798b833b419a9eca3a0.jpg"
     },
     "tags": [],
