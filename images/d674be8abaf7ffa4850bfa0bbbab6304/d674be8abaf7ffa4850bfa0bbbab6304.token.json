@@ -1,11 +1,11 @@
 {
     "id": "d674be8abaf7ffa4850bfa0bbbab6304",
-    "title": "Alien Firefighter in Studio Ghibli Style",
+    "title": "The Intergalactic Hero: Alien Firefighter",
     "description": "Create a landscape full body image of a alien firefighter in the style of Studio Ghibli",
-    "created": "2024-12-18 07:06:26.036747",
+    "created": "2024-12-18 07:23:35.592632",
     "prompt": {
         "prompt": "Create a landscape full body image of a alien firefighter in the style of Studio Ghibli",
-        "id": "320fc862e76630dc143be55991c066bc",
+        "id": "582dbdd3a4965e3e7d8b4e01436563bc",
         "prompt_history": [
             "Create a landscape full body image of a alien firefighter in the style of Studio Ghibli"
         ],
@@ -13,18 +13,18 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:11.985632",
+        "seeded_at": "2024-12-15 20:49:11.996216",
         "seed_prompt": "Create a landscape full body image of a alien firefighter in the style of Studio Ghibli",
         "metadata": {
             "element": "firefighter",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "spaceship",
-            "animal": "elephant",
+            "backdrop": "forest",
+            "animal": "giraffe",
             "modifiers": {
                 "image": "full body",
                 "element": "alien",
-                "backdrop": "futuristic"
+                "backdrop": "futuristic alien"
             }
         },
         "template": {
@@ -41,15 +41,15 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Alien Firefighter in Studio Ghibli Style"
+        "title": "The Intergalactic Hero: Alien Firefighter"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b64869490047.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b64852618764.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/d674be8abaf7ffa4850bfa0bbbab6304/d674be8abaf7ffa4850bfa0bbbab6304.jpg"
     },
     "tags": [],
     "model_version": "dreamshaper",
-    "name": "Nebula Blaze",
+    "name": "Galactic Flame Guardian",
     "symbol": "D674BE8AB",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/d674be8abaf7ffa4850bfa0bbbab6304/d674be8abaf7ffa4850bfa0bbbab6304.jpg"
 }
