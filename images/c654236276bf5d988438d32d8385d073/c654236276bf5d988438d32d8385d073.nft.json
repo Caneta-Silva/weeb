@@ -1,11 +1,11 @@
 {
     "id": "c654236276bf5d988438d32d8385d073",
-    "title": "Futuristic Shaman of Enchanted Realms",
-    "description": "Futuristic Shaman of Enchanted Realms",
-    "created": "2024-12-18 07:16:38.116512",
+    "title": "Futuristic Shaman's Serene Journey",
+    "description": "Futuristic Shaman's Serene Journey",
+    "created": "2024-12-18 08:03:54.019755",
     "prompt": {
         "prompt": "Create a landscape full body image of a futuristic shaman in the style of Studio Ghibli",
-        "id": "99c6e43bcaa0ce92e5eb8df7c00a44fb",
+        "id": "92e650240aa3066bd9ab81c80a027c94",
         "prompt_history": [
             "Create a landscape full body image of a futuristic shaman in the style of Studio Ghibli"
         ],
@@ -13,18 +13,18 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:11.785119",
+        "seeded_at": "2024-12-15 20:49:11.775143",
         "seed_prompt": "Create a landscape full body image of a futuristic shaman in the style of Studio Ghibli",
         "metadata": {
             "element": "shaman",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
             "backdrop": "forest",
-            "animal": "giraffe",
+            "animal": "camel",
             "modifiers": {
                 "image": "full body",
                 "element": "futuristic",
-                "backdrop": "futuristic alien"
+                "backdrop": "futuristic"
             }
         },
         "template": {
@@ -41,15 +41,15 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Futuristic Shaman of Enchanted Realms"
+        "title": "Futuristic Shaman's Serene Journey"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b642801487202.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b641123885566.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/c654236276bf5d988438d32d8385d073/c654236276bf5d988438d32d8385d073.jpg"
     },
     "tags": [],
     "model_version": "dreamshaper",
-    "name": "GhibliShaman",
+    "name": "GhibliShamanicDreamscape",
     "symbol": "C6542",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/c654236276bf5d988438d32d8385d073/c654236276bf5d988438d32d8385d073.jpg",
     "seller_fee_basis_points": 100,
