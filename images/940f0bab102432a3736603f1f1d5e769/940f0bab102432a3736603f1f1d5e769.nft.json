@@ -1,0 +1,54 @@
+{
+    "id": "940f0bab102432a3736603f1f1d5e769",
+    "title": "Futuristic Reich Warrior in Ghibli Style",
+    "description": "Futuristic Reich Warrior in Ghibli Style",
+    "created": "2024-12-18 21:09:58.306970",
+    "prompt": {
+        "prompt": "a futuristic nazi soldier in the style of studio Ghibli",
+        "id": "0c8ea00c5aeb4340d3e54b98aaf0383e",
+        "prompt_history": [
+            "a futuristic nazi soldier in the style of studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-18 21:08:27.169606",
+        "seed_prompt": "a futuristic nazi soldier in the style of studio Ghibli",
+        "metadata": null,
+        "template": null,
+        "title": "Futuristic Reich Warrior in Ghibli Style"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b642083067792.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/940f0bab102432a3736603f1f1d5e769/940f0bab102432a3736603f1f1d5e769.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": null,
+    "symbol": "940F0",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/940f0bab102432a3736603f1f1d5e769/940f0bab102432a3736603f1f1d5e769.jpg",
+    "seller_fee_basis_points": 100,
+    "external_url": null,
+    "attributes": {},
+    "collection": {
+        "name": "weeb",
+        "family": "Caneta-Silva"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/940f0bab102432a3736603f1f1d5e769/940f0bab102432a3736603f1f1d5e769.jpg",
+                "type": "image/jpg"
+            }
+        ],
+        "category": "image",
+        "maxSupply": 0,
+        "creators": [
+            {
+                "address": "CXretoxLBQDmFwDbf4qJYVX49UaA4PPMy3pCtfm2yzVH",
+                "share": 100
+            }
+        ]
+    }
+}
