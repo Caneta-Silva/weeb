@@ -1,11 +1,11 @@
 {
     "id": "8bb6aa2cbe1c3d597941d856aee9aa98",
-    "title": "Warrior of the Fauna Clan",
+    "title": "Warrior of the Alien Tribe",
     "description": "Create a landscape full body image of a alien tribe warrior in the style of Studio Ghibli",
-    "created": "2024-12-18 07:03:08.824794",
+    "created": "2024-12-18 07:37:45.649030",
     "prompt": {
         "prompt": "Create a landscape full body image of a alien tribe warrior in the style of Studio Ghibli",
-        "id": "af28b8e48f34c1e463c895722ca2cc28",
+        "id": "f35a92b448b474882cf894fca64f3256",
         "prompt_history": [
             "Create a landscape full body image of a alien tribe warrior in the style of Studio Ghibli"
         ],
@@ -13,18 +13,18 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:11.906866",
+        "seeded_at": "2024-12-15 20:49:11.916765",
         "seed_prompt": "Create a landscape full body image of a alien tribe warrior in the style of Studio Ghibli",
         "metadata": {
             "element": "tribe warrior",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
             "backdrop": "forest",
-            "animal": "deer",
+            "animal": "horse",
             "modifiers": {
                 "image": "full body",
                 "element": "alien",
-                "backdrop": "futuristic"
+                "backdrop": "futuristic alien"
             }
         },
         "template": {
@@ -41,10 +41,10 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Warrior of the Fauna Clan"
+        "title": "Warrior of the Alien Tribe"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b64384895436.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b64525450538.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/8bb6aa2cbe1c3d597941d856aee9aa98/8bb6aa2cbe1c3d597941d856aee9aa98.jpg"
     },
     "tags": [],
