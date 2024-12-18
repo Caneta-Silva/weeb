@@ -1,11 +1,11 @@
 {
     "id": "8d6bbe136a0cc5bd1766be5ed2fb7dd2",
-    "title": "Futuristic Alien Shaman in the Spirit of Studio Ghibli",
+    "title": "Futuristic Alien Shaman in Studio Ghibli Style",
     "description": "Create a landscape full body image of a futuristic alien shaman in the style of Studio Ghibli",
-    "created": "2024-12-18 06:43:53.113227",
+    "created": "2024-12-18 07:35:17.181290",
     "prompt": {
         "prompt": "Create a landscape full body image of a futuristic alien shaman in the style of Studio Ghibli",
-        "id": "4576298c387204d74a3fe968dcab08eb",
+        "id": "335709db6c142bdb39b88a3568f63fb2",
         "prompt_history": [
             "Create a landscape full body image of a futuristic alien shaman in the style of Studio Ghibli"
         ],
@@ -13,18 +13,18 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:12.092542",
+        "seeded_at": "2024-12-15 20:49:12.103109",
         "seed_prompt": "Create a landscape full body image of a futuristic alien shaman in the style of Studio Ghibli",
         "metadata": {
             "element": "shaman",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "spaceship",
-            "animal": "elephant",
+            "backdrop": "fortress",
+            "animal": "deer",
             "modifiers": {
                 "image": "full body",
                 "element": "futuristic alien",
-                "backdrop": "futuristic"
+                "backdrop": "futuristic alien"
             }
         },
         "template": {
@@ -41,10 +41,10 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Futuristic Alien Shaman in the Spirit of Studio Ghibli"
+        "title": "Futuristic Alien Shaman in Studio Ghibli Style"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b643024580802.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b642338557725.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/8d6bbe136a0cc5bd1766be5ed2fb7dd2/8d6bbe136a0cc5bd1766be5ed2fb7dd2.jpg"
     },
     "tags": [],
