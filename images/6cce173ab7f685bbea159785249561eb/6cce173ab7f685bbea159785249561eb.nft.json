@@ -1,0 +1,78 @@
+{
+    "id": "6cce173ab7f685bbea159785249561eb",
+    "title": "The Majestic Futuristic Emperor",
+    "description": "The Majestic Futuristic Emperor",
+    "created": "2024-12-18 14:08:01.606967",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic emperor in the style of Studio Ghibli",
+        "id": "200ac9e0c2bba234a1deebf1fa51140a",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic emperor in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-15 20:49:11.792980",
+        "seed_prompt": "Create a landscape full body image of a futuristic emperor in the style of Studio Ghibli",
+        "metadata": {
+            "element": "emperor",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "desert",
+            "animal": "giraffe",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "The Majestic Futuristic Emperor"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b642437580182.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/6cce173ab7f685bbea159785249561eb/6cce173ab7f685bbea159785249561eb.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "EmperFutuGhibliScape",
+    "symbol": "6CCE1",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/6cce173ab7f685bbea159785249561eb/6cce173ab7f685bbea159785249561eb.jpg",
+    "seller_fee_basis_points": 100,
+    "external_url": null,
+    "attributes": {},
+    "collection": {
+        "name": "weeb",
+        "family": "Caneta-Silva"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/6cce173ab7f685bbea159785249561eb/6cce173ab7f685bbea159785249561eb.jpg",
+                "type": "image/jpg"
+            }
+        ],
+        "category": "image",
+        "maxSupply": 0,
+        "creators": [
+            {
+                "address": "CXretoxLBQDmFwDbf4qJYVX49UaA4PPMy3pCtfm2yzVH",
+                "share": 100
+            }
+        ]
+    }
+}
