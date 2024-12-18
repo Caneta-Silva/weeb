@@ -1,11 +1,11 @@
 {
     "id": "c654236276bf5d988438d32d8385d073",
-    "title": "Futuristic Shaman in a Studio Ghibli-inspired Landscape",
+    "title": "Futuristic Shaman of the Enchanted Grove",
     "description": "Create a landscape full body image of a futuristic shaman in the style of Studio Ghibli",
-    "created": "2024-12-18 08:57:37.955752",
+    "created": "2024-12-18 09:33:21.355318",
     "prompt": {
         "prompt": "Create a landscape full body image of a futuristic shaman in the style of Studio Ghibli",
-        "id": "506815b4cb33ebf5f6e3226692bfce9c",
+        "id": "ea738532f388519b964cbd9afbe06a3e",
         "prompt_history": [
             "Create a landscape full body image of a futuristic shaman in the style of Studio Ghibli"
         ],
@@ -13,14 +13,14 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:11.776786",
+        "seeded_at": "2024-12-15 20:49:11.780428",
         "seed_prompt": "Create a landscape full body image of a futuristic shaman in the style of Studio Ghibli",
         "metadata": {
             "element": "shaman",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "Martial landscape",
-            "animal": "elephant",
+            "backdrop": "forest",
+            "animal": "camel",
             "modifiers": {
                 "image": "full body",
                 "element": "futuristic",
@@ -41,15 +41,15 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Futuristic Shaman in a Studio Ghibli-inspired Landscape"
+        "title": "Futuristic Shaman of the Enchanted Grove"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b643620204142.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b64535543647.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/c654236276bf5d988438d32d8385d073/c654236276bf5d988438d32d8385d073.jpg"
     },
     "tags": [],
     "model_version": "dreamshaper",
-    "name": "Aetherii",
+    "name": "Aetheric Seer",
     "symbol": "C65423627",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/c654236276bf5d988438d32d8385d073/c654236276bf5d988438d32d8385d073.jpg"
 }
