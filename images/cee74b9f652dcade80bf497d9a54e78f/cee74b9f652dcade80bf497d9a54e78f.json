@@ -1,0 +1,28 @@
+{
+    "id": "cee74b9f652dcade80bf497d9a54e78f",
+    "title": "Galactic Fascination: Studio Ghibli's Nazi Alien",
+    "description": "A nazi alien in the style of Studio Ghibli",
+    "created": "2024-12-18 20:41:56.238356",
+    "prompt": {
+        "prompt": "A nazi alien in the style of Studio Ghibli",
+        "id": "f53613b7c4500f8b74e61469e4cb8b83",
+        "prompt_history": [
+            "A nazi alien in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-18 20:38:06.582216",
+        "seed_prompt": "A nazi alien in the style of Studio Ghibli",
+        "metadata": null,
+        "template": null,
+        "title": "Galactic Fascination: Studio Ghibli's Nazi Alien"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b641484569741.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/cee74b9f652dcade80bf497d9a54e78f/cee74b9f652dcade80bf497d9a54e78f.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper"
+}
