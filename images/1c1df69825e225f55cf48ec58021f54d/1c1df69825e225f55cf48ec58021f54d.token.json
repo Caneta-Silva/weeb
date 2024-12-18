@@ -1,0 +1,55 @@
+{
+    "id": "1c1df69825e225f55cf48ec58021f54d",
+    "title": "Futuristic Firefighter in Ghibli Style Landscape",
+    "description": "Create a landscape full body image of a futuristic firefighter in the style of Studio Ghibli",
+    "created": "2024-12-18 16:23:02.168147",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic firefighter in the style of Studio Ghibli",
+        "id": "6af050d8963b6aa293d7f2b68e96ccea",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic firefighter in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-15 20:49:11.822431",
+        "seed_prompt": "Create a landscape full body image of a futuristic firefighter in the style of Studio Ghibli",
+        "metadata": {
+            "element": "firefighter",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "desert landscape",
+            "animal": "camel",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic",
+                "backdrop": "futuristic"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Futuristic Firefighter in Ghibli Style Landscape"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b64399309206.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/1c1df69825e225f55cf48ec58021f54d/1c1df69825e225f55cf48ec58021f54d.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "Firescape Guardian",
+    "symbol": "1C1DF6982",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/1c1df69825e225f55cf48ec58021f54d/1c1df69825e225f55cf48ec58021f54d.jpg"
+}
