@@ -1,0 +1,52 @@
+{
+    "id": "a14f960f333d003165184ea9f90b75f3",
+    "title": "Alien Tribe Warrior in the Style of Studio Ghibli",
+    "description": "Create a landscape full body image of a alien tribe warrior in the style of Studio Ghibli",
+    "created": "2024-12-18 15:16:38.567407",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a alien tribe warrior in the style of Studio Ghibli",
+        "id": "b34234c069c2c11f181406d6c32d4694",
+        "prompt_history": [
+            "Create a landscape full body image of a alien tribe warrior in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-15 20:49:11.911357",
+        "seed_prompt": "Create a landscape full body image of a alien tribe warrior in the style of Studio Ghibli",
+        "metadata": {
+            "element": "tribe warrior",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "tropical forest",
+            "animal": "rhino",
+            "modifiers": {
+                "image": "full body",
+                "element": "alien",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Alien Tribe Warrior in the Style of Studio Ghibli"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b642650495446.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/a14f960f333d003165184ea9f90b75f3/a14f960f333d003165184ea9f90b75f3.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper"
+}
