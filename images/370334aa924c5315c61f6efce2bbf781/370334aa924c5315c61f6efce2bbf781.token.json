@@ -1,0 +1,55 @@
+{
+    "id": "370334aa924c5315c61f6efce2bbf781",
+    "title": "Futuristic Paladin Military in Studio Ghibli Style",
+    "description": "Create a landscape full body image of a futuristic paladin style military in the style of Studio Ghibli",
+    "created": "2024-12-18 18:06:52.433780",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic paladin style military in the style of Studio Ghibli",
+        "id": "b2085fe64778c21404e82a843b164a7f",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic paladin style military in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-15 20:49:11.701233",
+        "seed_prompt": "Create a landscape full body image of a futuristic paladin style military in the style of Studio Ghibli",
+        "metadata": {
+            "element": "paladin style military",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "waterfall",
+            "animal": "camel",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Futuristic Paladin Military in Studio Ghibli Style"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b641872733258.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/370334aa924c5315c61f6efce2bbf781/370334aa924c5315c61f6efce2bbf781.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "Luminara Sentinels",
+    "symbol": "370334AA9",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/370334aa924c5315c61f6efce2bbf781/370334aa924c5315c61f6efce2bbf781.jpg"
+}
