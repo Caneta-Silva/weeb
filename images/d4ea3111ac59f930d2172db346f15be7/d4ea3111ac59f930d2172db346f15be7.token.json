@@ -1,0 +1,55 @@
+{
+    "id": "d4ea3111ac59f930d2172db346f15be7",
+    "title": "The Galactic Sovereign: A Studio Ghibli-Inspired Alien Emperor",
+    "description": "Create a landscape full body image of a futuristic alien emperor in the style of Studio Ghibli",
+    "created": "2024-12-18 16:27:33.133721",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic alien emperor in the style of Studio Ghibli",
+        "id": "bf2ae7630072628961473160475bff8c",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic alien emperor in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-15 20:49:12.111131",
+        "seed_prompt": "Create a landscape full body image of a futuristic alien emperor in the style of Studio Ghibli",
+        "metadata": {
+            "element": "emperor",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "waterfall",
+            "animal": "deer",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic alien",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "The Galactic Sovereign: A Studio Ghibli-Inspired Alien Emperor"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b641017965676.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/d4ea3111ac59f930d2172db346f15be7/d4ea3111ac59f930d2172db346f15be7.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "Zenith Imperator",
+    "symbol": "D4EA3111A",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/d4ea3111ac59f930d2172db346f15be7/d4ea3111ac59f930d2172db346f15be7.jpg"
+}
