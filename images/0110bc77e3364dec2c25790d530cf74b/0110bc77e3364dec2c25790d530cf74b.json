@@ -1,0 +1,52 @@
+{
+    "id": "0110bc77e3364dec2c25790d530cf74b",
+    "title": "Futuristic Alien Emperor of the Ghibli Realm",
+    "description": "Create a landscape full body image of a futuristic alien emperor in the style of Studio Ghibli",
+    "created": "2024-12-18 18:20:26.688313",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic alien emperor in the style of Studio Ghibli",
+        "id": "73ca11658f0e46d07dd1bc9c1e96a48a",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic alien emperor in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-15 20:49:12.107391",
+        "seed_prompt": "Create a landscape full body image of a futuristic alien emperor in the style of Studio Ghibli",
+        "metadata": {
+            "element": "emperor",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "forest",
+            "animal": "camel",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic alien",
+                "backdrop": "futuristic"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Futuristic Alien Emperor of the Ghibli Realm"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b643148649428.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/0110bc77e3364dec2c25790d530cf74b/0110bc77e3364dec2c25790d530cf74b.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper"
+}
