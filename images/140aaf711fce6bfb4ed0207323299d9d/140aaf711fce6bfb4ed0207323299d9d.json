@@ -1,11 +1,11 @@
 {
     "id": "140aaf711fce6bfb4ed0207323299d9d",
-    "title": "Futuristic Alien Paladin Military in the Style of Studio Ghibli",
+    "title": "Futuristic Alien Paladin in the Style of Studio Ghibli",
     "description": "Create a landscape full body image of a futuristic alien paladin style military in the style of Studio Ghibli",
-    "created": "2024-12-18 09:20:16.251913",
+    "created": "2024-12-18 09:45:50.992871",
     "prompt": {
         "prompt": "Create a landscape full body image of a futuristic alien paladin style military in the style of Studio Ghibli",
-        "id": "22fac5edce8280bdb619c2a083902987",
+        "id": "47ff1ef85d7d418d2570c4b1676c4831",
         "prompt_history": [
             "Create a landscape full body image of a futuristic alien paladin style military in the style of Studio Ghibli"
         ],
@@ -13,14 +13,14 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:12.014304",
+        "seeded_at": "2024-12-15 20:49:12.015305",
         "seed_prompt": "Create a landscape full body image of a futuristic alien paladin style military in the style of Studio Ghibli",
         "metadata": {
             "element": "paladin style military",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "desert landscape",
-            "animal": "gnu",
+            "backdrop": "waterfall",
+            "animal": "giraffe",
             "modifiers": {
                 "image": "full body",
                 "element": "futuristic alien",
@@ -41,10 +41,10 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Futuristic Alien Paladin Military in the Style of Studio Ghibli"
+        "title": "Futuristic Alien Paladin in the Style of Studio Ghibli"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b64988291382.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b642272856445.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/140aaf711fce6bfb4ed0207323299d9d/140aaf711fce6bfb4ed0207323299d9d.jpg"
     },
     "tags": [],
