@@ -1,11 +1,11 @@
 {
     "id": "8bb6aa2cbe1c3d597941d856aee9aa98",
-    "title": "Warrior of the Alien Tribe",
+    "title": "Spirited Alien Warrior: A Studio Ghibli Inspired Masterpiece",
     "description": "Create a landscape full body image of a alien tribe warrior in the style of Studio Ghibli",
-    "created": "2024-12-18 10:30:13.347459",
+    "created": "2024-12-18 10:53:35.705152",
     "prompt": {
         "prompt": "Create a landscape full body image of a alien tribe warrior in the style of Studio Ghibli",
-        "id": "7aa1acc42c9927294b7e74a4a4ed68e4",
+        "id": "a71820022a6d25cea0743f99eb0cfe87",
         "prompt_history": [
             "Create a landscape full body image of a alien tribe warrior in the style of Studio Ghibli"
         ],
@@ -13,18 +13,18 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:11.917707",
+        "seeded_at": "2024-12-15 20:49:11.904425",
         "seed_prompt": "Create a landscape full body image of a alien tribe warrior in the style of Studio Ghibli",
         "metadata": {
             "element": "tribe warrior",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "spaceship",
+            "backdrop": "desert landscape",
             "animal": "deer",
             "modifiers": {
                 "image": "full body",
                 "element": "alien",
-                "backdrop": "futuristic alien"
+                "backdrop": "futuristic"
             }
         },
         "template": {
@@ -41,10 +41,10 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Warrior of the Alien Tribe"
+        "title": "Spirited Alien Warrior: A Studio Ghibli Inspired Masterpiece"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b642043944539.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b642168519876.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/8bb6aa2cbe1c3d597941d856aee9aa98/8bb6aa2cbe1c3d597941d856aee9aa98.jpg"
     },
     "tags": [],
