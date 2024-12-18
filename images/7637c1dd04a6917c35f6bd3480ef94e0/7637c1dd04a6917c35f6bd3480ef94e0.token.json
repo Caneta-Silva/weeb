@@ -1,0 +1,55 @@
+{
+    "id": "7637c1dd04a6917c35f6bd3480ef94e0",
+    "title": "Futuristic Riot Police Robot in Studio Ghibli Style Landscape",
+    "description": "Create a landscape full body image of a futuristic riot police robot in the style of Studio Ghibli",
+    "created": "2024-12-18 14:34:18.159133",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic riot police robot in the style of Studio Ghibli",
+        "id": "e784dd4d79d11331d4f7fd2f8ae8ca60",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic riot police robot in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-15 20:49:11.721910",
+        "seed_prompt": "Create a landscape full body image of a futuristic riot police robot in the style of Studio Ghibli",
+        "metadata": {
+            "element": "riot police robot",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "waterfall",
+            "animal": "elephant",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic",
+                "backdrop": "futuristic alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Futuristic Riot Police Robot in Studio Ghibli Style Landscape"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b641125996831.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/7637c1dd04a6917c35f6bd3480ef94e0/7637c1dd04a6917c35f6bd3480ef94e0.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "Guardian Zenith",
+    "symbol": "7637C1DD0",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/7637c1dd04a6917c35f6bd3480ef94e0/7637c1dd04a6917c35f6bd3480ef94e0.jpg"
+}
