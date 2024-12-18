@@ -1,11 +1,11 @@
 {
     "id": "d674be8abaf7ffa4850bfa0bbbab6304",
-    "title": "Alien Firefighter in a Studio Ghibli Landscape",
+    "title": "Alien Firefighter in Studio Ghibli Style",
     "description": "Create a landscape full body image of a alien firefighter in the style of Studio Ghibli",
-    "created": "2024-12-18 06:56:02.214065",
+    "created": "2024-12-18 07:06:26.036747",
     "prompt": {
         "prompt": "Create a landscape full body image of a alien firefighter in the style of Studio Ghibli",
-        "id": "b1660662c88e3c080ed9df31e8f2f585",
+        "id": "320fc862e76630dc143be55991c066bc",
         "prompt_history": [
             "Create a landscape full body image of a alien firefighter in the style of Studio Ghibli"
         ],
@@ -13,14 +13,14 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:11.982545",
+        "seeded_at": "2024-12-15 20:49:11.985632",
         "seed_prompt": "Create a landscape full body image of a alien firefighter in the style of Studio Ghibli",
         "metadata": {
             "element": "firefighter",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "desert landscape",
-            "animal": "deer",
+            "backdrop": "spaceship",
+            "animal": "elephant",
             "modifiers": {
                 "image": "full body",
                 "element": "alien",
@@ -41,10 +41,10 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Alien Firefighter in a Studio Ghibli Landscape"
+        "title": "Alien Firefighter in Studio Ghibli Style"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b644138891081.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b64869490047.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/d674be8abaf7ffa4850bfa0bbbab6304/d674be8abaf7ffa4850bfa0bbbab6304.jpg"
     },
     "tags": [],
