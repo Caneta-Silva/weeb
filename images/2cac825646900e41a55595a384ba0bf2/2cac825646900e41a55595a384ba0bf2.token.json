@@ -1,11 +1,11 @@
 {
     "id": "2cac825646900e41a55595a384ba0bf2",
-    "title": "Futuristic Alien Emperor in Studio Ghibli Style",
+    "title": "The Regal Alien Emperor of the Future",
     "description": "Create a landscape full body image of a futuristic alien emperor in the style of Studio Ghibli",
-    "created": "2024-12-18 07:30:29.013163",
+    "created": "2024-12-18 08:10:51.746808",
     "prompt": {
         "prompt": "Create a landscape full body image of a futuristic alien emperor in the style of Studio Ghibli",
-        "id": "b4e1c83f8321b0ea9410b61626c2dd1e",
+        "id": "c3ea2281dbf24a2531f1ce1a931c9d6f",
         "prompt_history": [
             "Create a landscape full body image of a futuristic alien emperor in the style of Studio Ghibli"
         ],
@@ -13,18 +13,18 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:12.116576",
+        "seeded_at": "2024-12-15 20:49:12.113267",
         "seed_prompt": "Create a landscape full body image of a futuristic alien emperor in the style of Studio Ghibli",
         "metadata": {
             "element": "emperor",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "tropical forest",
-            "animal": "giraffe",
+            "backdrop": "spaceship",
+            "animal": "camel",
             "modifiers": {
                 "image": "full body",
                 "element": "futuristic alien",
-                "backdrop": "futuristic alien"
+                "backdrop": "alien"
             }
         },
         "template": {
@@ -41,15 +41,15 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Futuristic Alien Emperor in Studio Ghibli Style"
+        "title": "The Regal Alien Emperor of the Future"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b64500394010.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b644153517629.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/2cac825646900e41a55595a384ba0bf2/2cac825646900e41a55595a384ba0bf2.jpg"
     },
     "tags": [],
     "model_version": "dreamshaper",
-    "name": "Nebulon Emperor",
+    "name": "Nebula Sovereign",
     "symbol": "2CAC82564",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/2cac825646900e41a55595a384ba0bf2/2cac825646900e41a55595a384ba0bf2.jpg"
 }
