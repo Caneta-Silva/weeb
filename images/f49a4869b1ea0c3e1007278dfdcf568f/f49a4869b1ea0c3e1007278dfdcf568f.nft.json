@@ -1,11 +1,11 @@
 {
     "id": "f49a4869b1ea0c3e1007278dfdcf568f",
-    "title": "Futuristic Desert Tribe Warrior - Studio Ghibli Style",
-    "description": "Futuristic Desert Tribe Warrior - Studio Ghibli Style",
-    "created": "2024-12-18 09:36:47.932941",
+    "title": "Futuristic Desert Tribe Warrior in the Style of Studio Ghibli",
+    "description": "Futuristic Desert Tribe Warrior in the Style of Studio Ghibli",
+    "created": "2024-12-18 10:44:27.856271",
     "prompt": {
         "prompt": "Create a landscape full body image of a futuristic desert tribe warrior in the style of Studio Ghibli",
-        "id": "31e8c4b76036772f47570e37e7a7b1a8",
+        "id": "b0161c9517386dbb069431348c07445c",
         "prompt_history": [
             "Create a landscape full body image of a futuristic desert tribe warrior in the style of Studio Ghibli"
         ],
@@ -13,18 +13,18 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:11.731064",
+        "seeded_at": "2024-12-15 20:49:11.728042",
         "seed_prompt": "Create a landscape full body image of a futuristic desert tribe warrior in the style of Studio Ghibli",
         "metadata": {
             "element": "desert tribe warrior",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "desert landscape",
-            "animal": "elephant",
+            "backdrop": "tropical forest",
+            "animal": "deer",
             "modifiers": {
                 "image": "full body",
                 "element": "futuristic",
-                "backdrop": "alien"
+                "backdrop": "futuristic"
             }
         },
         "template": {
@@ -41,15 +41,15 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Futuristic Desert Tribe Warrior - Studio Ghibli Style"
+        "title": "Futuristic Desert Tribe Warrior in the Style of Studio Ghibli"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b64854099931.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b643680242541.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/f49a4869b1ea0c3e1007278dfdcf568f/f49a4869b1ea0c3e1007278dfdcf568f.jpg"
     },
     "tags": [],
     "model_version": "dreamshaper",
-    "name": null,
+    "name": "DuneBlade",
     "symbol": "F49A4",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/f49a4869b1ea0c3e1007278dfdcf568f/f49a4869b1ea0c3e1007278dfdcf568f.jpg",
     "seller_fee_basis_points": 100,
