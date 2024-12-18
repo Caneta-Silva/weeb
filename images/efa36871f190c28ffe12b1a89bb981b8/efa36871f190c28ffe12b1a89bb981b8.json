@@ -2,10 +2,10 @@
     "id": "efa36871f190c28ffe12b1a89bb981b8",
     "title": "Futuristic Alien Firefighter in Studio Ghibli Style",
     "description": "Create a landscape full body image of a futuristic alien firefighter in the style of Studio Ghibli",
-    "created": "2024-12-16 20:01:59.175181",
+    "created": "2024-12-18 06:11:45.717848",
     "prompt": {
         "prompt": "Create a landscape full body image of a futuristic alien firefighter in the style of Studio Ghibli",
-        "id": "d3a4038b2d4cd71e880c68ac813eafe0",
+        "id": "86e4c0e4f118718842dadbe81a9df619",
         "prompt_history": [
             "Create a landscape full body image of a futuristic alien firefighter in the style of Studio Ghibli"
         ],
@@ -13,18 +13,18 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:12.138643",
+        "seeded_at": "2024-12-15 20:49:12.145326",
         "seed_prompt": "Create a landscape full body image of a futuristic alien firefighter in the style of Studio Ghibli",
         "metadata": {
             "element": "firefighter",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "fortress",
-            "animal": "giraffe",
+            "backdrop": "desert",
+            "animal": "horse",
             "modifiers": {
                 "image": "full body",
                 "element": "futuristic alien",
-                "backdrop": "futuristic"
+                "backdrop": "futuristic alien"
             }
         },
         "template": {
@@ -44,7 +44,7 @@
         "title": "Futuristic Alien Firefighter in Studio Ghibli Style"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b643293443499.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b6464191815.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/efa36871f190c28ffe12b1a89bb981b8/efa36871f190c28ffe12b1a89bb981b8.jpg"
     },
     "tags": [],
