@@ -1,11 +1,11 @@
 {
     "id": "bb4046d7f96e384e918feb69c54428e3",
-    "title": "Futuristic Tribe Warrior of the Unknown Forest",
+    "title": "Futuristic Tribe Warrior of the Enchanted Land",
     "description": "Create a landscape full body image of a futuristic tribe warrior in the style of Studio Ghibli",
-    "created": "2024-12-18 08:51:32.394965",
+    "created": "2024-12-18 09:30:11.524143",
     "prompt": {
         "prompt": "Create a landscape full body image of a futuristic tribe warrior in the style of Studio Ghibli",
-        "id": "ef3a122bd91b50754aa6331a0ab10d2b",
+        "id": "b4438eccded576406b06b284d5818835",
         "prompt_history": [
             "Create a landscape full body image of a futuristic tribe warrior in the style of Studio Ghibli"
         ],
@@ -13,13 +13,13 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:11.749210",
+        "seeded_at": "2024-12-15 20:49:11.746797",
         "seed_prompt": "Create a landscape full body image of a futuristic tribe warrior in the style of Studio Ghibli",
         "metadata": {
             "element": "tribe warrior",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "tropical forest",
+            "backdrop": "Martial landscape",
             "animal": "camel",
             "modifiers": {
                 "image": "full body",
@@ -41,15 +41,15 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Futuristic Tribe Warrior of the Unknown Forest"
+        "title": "Futuristic Tribe Warrior of the Enchanted Land"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b644191163325.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b643869744250.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/bb4046d7f96e384e918feb69c54428e3/bb4046d7f96e384e918feb69c54428e3.jpg"
     },
     "tags": [],
     "model_version": "dreamshaper",
-    "name": "Aurora Windrider",
+    "name": "Kazeiro",
     "symbol": "BB4046D7F",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/bb4046d7f96e384e918feb69c54428e3/bb4046d7f96e384e918feb69c54428e3.jpg"
 }
