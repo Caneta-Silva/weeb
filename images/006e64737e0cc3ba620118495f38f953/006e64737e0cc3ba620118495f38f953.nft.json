@@ -2,10 +2,10 @@
     "id": "006e64737e0cc3ba620118495f38f953",
     "title": "Futuristic Alien Tribe Chief in Studio Ghibli Style",
     "description": "Futuristic Alien Tribe Chief in Studio Ghibli Style",
-    "created": "2024-12-18 06:16:18.038434",
+    "created": "2024-12-18 06:20:50.256703",
     "prompt": {
         "prompt": "Create a landscape full body image of a futuristic alien tribe chief in the style of Studio Ghibli",
-        "id": "73937beb447960cf56c1dec77d24a54c",
+        "id": "6912033d820ce38780f04261de94bef6",
         "prompt_history": [
             "Create a landscape full body image of a futuristic alien tribe chief in the style of Studio Ghibli"
         ],
@@ -13,18 +13,18 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:12.086894",
+        "seeded_at": "2024-12-15 20:49:12.081489",
         "seed_prompt": "Create a landscape full body image of a futuristic alien tribe chief in the style of Studio Ghibli",
         "metadata": {
             "element": "tribe chief",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "forest",
-            "animal": "elephant",
+            "backdrop": "tropical forest",
+            "animal": "gnu",
             "modifiers": {
                 "image": "full body",
                 "element": "futuristic alien",
-                "backdrop": "futuristic alien"
+                "backdrop": "alien"
             }
         },
         "template": {
@@ -44,7 +44,7 @@
         "title": "Futuristic Alien Tribe Chief in Studio Ghibli Style"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b644274734135.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b642913509578.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/006e64737e0cc3ba620118495f38f953/006e64737e0cc3ba620118495f38f953.jpg"
     },
     "tags": [],
