@@ -2,10 +2,10 @@
     "id": "bb4046d7f96e384e918feb69c54428e3",
     "title": "Futuristic Tribe Warrior in Studio Ghibli Style",
     "description": "Create a landscape full body image of a futuristic tribe warrior in the style of Studio Ghibli",
-    "created": "2024-12-18 07:27:25.662098",
+    "created": "2024-12-18 07:32:59.380743",
     "prompt": {
         "prompt": "Create a landscape full body image of a futuristic tribe warrior in the style of Studio Ghibli",
-        "id": "255e476adcb3406d11f849c57cb613bf",
+        "id": "1bb6cf2ee7ea578ea610e0eb7dae200d",
         "prompt_history": [
             "Create a landscape full body image of a futuristic tribe warrior in the style of Studio Ghibli"
         ],
@@ -13,18 +13,18 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:11.747221",
+        "seeded_at": "2024-12-15 20:49:11.745961",
         "seed_prompt": "Create a landscape full body image of a futuristic tribe warrior in the style of Studio Ghibli",
         "metadata": {
             "element": "tribe warrior",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "desert landscape",
+            "backdrop": "fortress",
             "animal": "deer",
             "modifiers": {
                 "image": "full body",
                 "element": "futuristic",
-                "backdrop": "alien"
+                "backdrop": "futuristic"
             }
         },
         "template": {
@@ -44,12 +44,12 @@
         "title": "Futuristic Tribe Warrior in Studio Ghibli Style"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b643631919202.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b641238281798.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/bb4046d7f96e384e918feb69c54428e3/bb4046d7f96e384e918feb69c54428e3.jpg"
     },
     "tags": [],
     "model_version": "dreamshaper",
-    "name": "Aetherian Firewalker",
+    "name": "Akiro",
     "symbol": "BB4046D7F",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/bb4046d7f96e384e918feb69c54428e3/bb4046d7f96e384e918feb69c54428e3.jpg"
 }
