@@ -1,11 +1,11 @@
 {
     "id": "2692d5d19ec6b47f5ee135f3261135d0",
-    "title": "Alien Paladin Military Landscape",
+    "title": "Alien Paladin Military in Studio Ghibli Style",
     "description": "Create a landscape full body image of a alien paladin style military in the style of Studio Ghibli",
-    "created": "2024-12-18 07:45:08.951222",
+    "created": "2024-12-18 07:48:00.234705",
     "prompt": {
         "prompt": "Create a landscape full body image of a alien paladin style military in the style of Studio Ghibli",
-        "id": "0d89f63c7d54d3fea13b51cc553eb031",
+        "id": "1068b29c214c7f541dc3e4718fb4f7d6",
         "prompt_history": [
             "Create a landscape full body image of a alien paladin style military in the style of Studio Ghibli"
         ],
@@ -13,18 +13,18 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:11.858943",
+        "seeded_at": "2024-12-15 20:49:11.865978",
         "seed_prompt": "Create a landscape full body image of a alien paladin style military in the style of Studio Ghibli",
         "metadata": {
             "element": "paladin style military",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "desert",
-            "animal": "horse",
+            "backdrop": "tropical forest",
+            "animal": "rhino",
             "modifiers": {
                 "image": "full body",
                 "element": "alien",
-                "backdrop": "futuristic"
+                "backdrop": "alien"
             }
         },
         "template": {
@@ -41,15 +41,15 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Alien Paladin Military Landscape"
+        "title": "Alien Paladin Military in Studio Ghibli Style"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b643015954037.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b641851446248.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/2692d5d19ec6b47f5ee135f3261135d0/2692d5d19ec6b47f5ee135f3261135d0.jpg"
     },
     "tags": [],
     "model_version": "dreamshaper",
-    "name": "Ghibli Guardian of the Galactic Order",
+    "name": "Galaxia Guardian",
     "symbol": "2692D5D19",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/2692d5d19ec6b47f5ee135f3261135d0/2692d5d19ec6b47f5ee135f3261135d0.jpg"
 }
