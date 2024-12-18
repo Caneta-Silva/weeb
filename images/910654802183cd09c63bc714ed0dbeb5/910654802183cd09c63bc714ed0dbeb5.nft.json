@@ -1,11 +1,11 @@
 {
     "id": "910654802183cd09c63bc714ed0dbeb5",
-    "title": "Guardian of the Neon Forest",
-    "description": "Guardian of the Neon Forest",
-    "created": "2024-12-18 09:34:53.407867",
+    "title": "Space Guardian: The Alien Riot Police",
+    "description": "Space Guardian: The Alien Riot Police",
+    "created": "2024-12-18 10:35:26.803439",
     "prompt": {
         "prompt": "Create a landscape full body image of a alien riot police robot in the style of Studio Ghibli",
-        "id": "dcb0172e0269d0d957f294f130653ed3",
+        "id": "18d64d4ea62fa0d5a51e97a398cad259",
         "prompt_history": [
             "Create a landscape full body image of a alien riot police robot in the style of Studio Ghibli"
         ],
@@ -13,18 +13,18 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:11.880604",
+        "seeded_at": "2024-12-15 20:49:11.886425",
         "seed_prompt": "Create a landscape full body image of a alien riot police robot in the style of Studio Ghibli",
         "metadata": {
             "element": "riot police robot",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "tropical forest",
-            "animal": "elephant",
+            "backdrop": "forest",
+            "animal": "giraffe",
             "modifiers": {
                 "image": "full body",
                 "element": "alien",
-                "backdrop": "alien"
+                "backdrop": "futuristic alien"
             }
         },
         "template": {
@@ -41,15 +41,15 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Guardian of the Neon Forest"
+        "title": "Space Guardian: The Alien Riot Police"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b644294471221.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b643153944490.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/910654802183cd09c63bc714ed0dbeb5/910654802183cd09c63bc714ed0dbeb5.jpg"
     },
     "tags": [],
     "model_version": "dreamshaper",
-    "name": "Riotron GhibliBot",
+    "name": "Riottron Ghibliza",
     "symbol": "91065",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/910654802183cd09c63bc714ed0dbeb5/910654802183cd09c63bc714ed0dbeb5.jpg",
     "seller_fee_basis_points": 100,
