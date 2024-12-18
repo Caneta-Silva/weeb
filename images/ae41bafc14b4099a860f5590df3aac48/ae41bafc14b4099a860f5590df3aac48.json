@@ -1,11 +1,11 @@
 {
     "id": "ae41bafc14b4099a860f5590df3aac48",
-    "title": "Alien Medic in Studio Ghibli Style",
+    "title": "Alien Medic in a Studio Ghibli World",
     "description": "Create a landscape full body image of a alien medic in the style of Studio Ghibli",
-    "created": "2024-12-18 08:48:37.933477",
+    "created": "2024-12-18 09:52:51.890711",
     "prompt": {
         "prompt": "Create a landscape full body image of a alien medic in the style of Studio Ghibli",
-        "id": "892d6b60f0489e94b4ac727157ded585",
+        "id": "6e19242a8ded57192364c6e75759010f",
         "prompt_history": [
             "Create a landscape full body image of a alien medic in the style of Studio Ghibli"
         ],
@@ -13,18 +13,18 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:12.005921",
+        "seeded_at": "2024-12-15 20:49:12.000540",
         "seed_prompt": "Create a landscape full body image of a alien medic in the style of Studio Ghibli",
         "metadata": {
             "element": "medic",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "tropical forest",
-            "animal": "horse",
+            "backdrop": "waterfall",
+            "animal": "camel",
             "modifiers": {
                 "image": "full body",
                 "element": "alien",
-                "backdrop": "alien"
+                "backdrop": "futuristic"
             }
         },
         "template": {
@@ -41,10 +41,10 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Alien Medic in Studio Ghibli Style"
+        "title": "Alien Medic in a Studio Ghibli World"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b641642429289.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b642737284497.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/ae41bafc14b4099a860f5590df3aac48/ae41bafc14b4099a860f5590df3aac48.jpg"
     },
     "tags": [],
