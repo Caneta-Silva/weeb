@@ -1,0 +1,55 @@
+{
+    "id": "878f32f80cccf81b72f6e7b6a8024711",
+    "title": "The Enigmatic Alien Emperor",
+    "description": "Create a landscape full body image of a futuristic alien emperor in the style of Studio Ghibli",
+    "created": "2024-12-18 21:31:45.005320",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic alien emperor in the style of Studio Ghibli",
+        "id": "965a3f2f51ea51c979411c8b397f26f0",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic alien emperor in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-15 20:49:12.113179",
+        "seed_prompt": "Create a landscape full body image of a futuristic alien emperor in the style of Studio Ghibli",
+        "metadata": {
+            "element": "emperor",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "spaceship",
+            "animal": "gnu",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic alien",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "The Enigmatic Alien Emperor"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b641033286380.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/878f32f80cccf81b72f6e7b6a8024711/878f32f80cccf81b72f6e7b6a8024711.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "Astra Prime",
+    "symbol": "878F32F80",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/878f32f80cccf81b72f6e7b6a8024711/878f32f80cccf81b72f6e7b6a8024711.jpg"
+}
