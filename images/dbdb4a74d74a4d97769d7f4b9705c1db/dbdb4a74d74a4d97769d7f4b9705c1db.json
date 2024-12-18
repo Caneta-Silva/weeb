@@ -1,11 +1,11 @@
 {
     "id": "dbdb4a74d74a4d97769d7f4b9705c1db",
-    "title": "Alien Tribe Chief in Studio Ghibli Style",
+    "title": "The Alien Tribe Chief: A Studio Ghibli Inspired Portrait",
     "description": "Create a landscape full body image of a alien tribe chief in the style of Studio Ghibli",
-    "created": "2024-12-16 18:50:08.235045",
+    "created": "2024-12-18 06:24:09.952706",
     "prompt": {
         "prompt": "Create a landscape full body image of a alien tribe chief in the style of Studio Ghibli",
-        "id": "3a0c4358c7d0f91746ab0d4f3b4def9c",
+        "id": "f4b4c72bc770c7e9b09b2456fda3a925",
         "prompt_history": [
             "Create a landscape full body image of a alien tribe chief in the style of Studio Ghibli"
         ],
@@ -13,14 +13,14 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:11.921482",
+        "seeded_at": "2024-12-15 20:49:11.923216",
         "seed_prompt": "Create a landscape full body image of a alien tribe chief in the style of Studio Ghibli",
         "metadata": {
             "element": "tribe chief",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "tropical forest",
-            "animal": "gnu",
+            "backdrop": "fortress",
+            "animal": "giraffe",
             "modifiers": {
                 "image": "full body",
                 "element": "alien",
@@ -41,10 +41,10 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Alien Tribe Chief in Studio Ghibli Style"
+        "title": "The Alien Tribe Chief: A Studio Ghibli Inspired Portrait"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b642499908178.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b642622967105.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/dbdb4a74d74a4d97769d7f4b9705c1db/dbdb4a74d74a4d97769d7f4b9705c1db.jpg"
     },
     "tags": [],
