@@ -1,11 +1,11 @@
 {
     "id": "efa36871f190c28ffe12b1a89bb981b8",
-    "title": "Futuristic Alien Firefighter in the Style of Studio Ghibli",
+    "title": "Futuristic Alien Firefighter in Studio Ghibli Style Landscape",
     "description": "Create a landscape full body image of a futuristic alien firefighter in the style of Studio Ghibli",
-    "created": "2024-12-18 09:27:59.391584",
+    "created": "2024-12-18 10:17:30.632032",
     "prompt": {
         "prompt": "Create a landscape full body image of a futuristic alien firefighter in the style of Studio Ghibli",
-        "id": "98ed55326cd81cf082bf93a4af29635e",
+        "id": "8588af79dfc66bb8fc41f4163239a8ae",
         "prompt_history": [
             "Create a landscape full body image of a futuristic alien firefighter in the style of Studio Ghibli"
         ],
@@ -13,13 +13,13 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:12.141970",
+        "seeded_at": "2024-12-15 20:49:12.142608",
         "seed_prompt": "Create a landscape full body image of a futuristic alien firefighter in the style of Studio Ghibli",
         "metadata": {
             "element": "firefighter",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "tropical forest",
+            "backdrop": "forest",
             "animal": "camel",
             "modifiers": {
                 "image": "full body",
@@ -41,15 +41,15 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Futuristic Alien Firefighter in the Style of Studio Ghibli"
+        "title": "Futuristic Alien Firefighter in Studio Ghibli Style Landscape"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b64628483417.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b6448913569.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/efa36871f190c28ffe12b1a89bb981b8/efa36871f190c28ffe12b1a89bb981b8.jpg"
     },
     "tags": [],
     "model_version": "dreamshaper",
-    "name": "Futurian Flame Guardian",
+    "name": "Nova Flame Guardian",
     "symbol": "EFA36871F",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/efa36871f190c28ffe12b1a89bb981b8/efa36871f190c28ffe12b1a89bb981b8.jpg"
 }
