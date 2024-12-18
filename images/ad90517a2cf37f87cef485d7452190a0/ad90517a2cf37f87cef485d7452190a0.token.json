@@ -1,0 +1,55 @@
+{
+    "id": "ad90517a2cf37f87cef485d7452190a0",
+    "title": "Ghibli-Inspired Alien Shaman in Enchanting Landscape",
+    "description": "Create a landscape full body image of a alien shaman in the style of Studio Ghibli",
+    "created": "2024-12-18 15:31:00.303676",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a alien shaman in the style of Studio Ghibli",
+        "id": "95ba7c1cbaa03a350816e60b08bcdcbe",
+        "prompt_history": [
+            "Create a landscape full body image of a alien shaman in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-15 20:49:11.945692",
+        "seed_prompt": "Create a landscape full body image of a alien shaman in the style of Studio Ghibli",
+        "metadata": {
+            "element": "shaman",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "desert",
+            "animal": "horse",
+            "modifiers": {
+                "image": "full body",
+                "element": "alien",
+                "backdrop": "futuristic alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Ghibli-Inspired Alien Shaman in Enchanting Landscape"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b64132084893.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/ad90517a2cf37f87cef485d7452190a0/ad90517a2cf37f87cef485d7452190a0.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "Luminius Zenith",
+    "symbol": "AD90517A2",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/ad90517a2cf37f87cef485d7452190a0/ad90517a2cf37f87cef485d7452190a0.jpg"
+}
