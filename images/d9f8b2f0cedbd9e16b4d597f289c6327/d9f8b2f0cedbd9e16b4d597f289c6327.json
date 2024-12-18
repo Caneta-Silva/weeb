@@ -2,10 +2,10 @@
     "id": "d9f8b2f0cedbd9e16b4d597f289c6327",
     "title": "Futuristic Medic in Studio Ghibli Style",
     "description": "Create a landscape full body image of a futuristic medic in the style of Studio Ghibli",
-    "created": "2024-12-18 08:30:35.470378",
+    "created": "2024-12-18 08:46:10.857793",
     "prompt": {
         "prompt": "Create a landscape full body image of a futuristic medic in the style of Studio Ghibli",
-        "id": "9b6f3ed78372902b121610952a3e3a6f",
+        "id": "f70789268823d06fe3c462c02fe98590",
         "prompt_history": [
             "Create a landscape full body image of a futuristic medic in the style of Studio Ghibli"
         ],
@@ -13,18 +13,18 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:11.851252",
+        "seeded_at": "2024-12-15 20:49:11.854674",
         "seed_prompt": "Create a landscape full body image of a futuristic medic in the style of Studio Ghibli",
         "metadata": {
             "element": "medic",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "spaceship",
-            "animal": "giraffe",
+            "backdrop": "waterfall",
+            "animal": "deer",
             "modifiers": {
                 "image": "full body",
                 "element": "futuristic",
-                "backdrop": "alien"
+                "backdrop": "futuristic alien"
             }
         },
         "template": {
@@ -44,7 +44,7 @@
         "title": "Futuristic Medic in Studio Ghibli Style"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b641216331553.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b644106796817.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/d9f8b2f0cedbd9e16b4d597f289c6327/d9f8b2f0cedbd9e16b4d597f289c6327.jpg"
     },
     "tags": [],
