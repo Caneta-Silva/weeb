@@ -1,11 +1,11 @@
 {
     "id": "ae41bafc14b4099a860f5590df3aac48",
-    "title": "Alien Medic in a Studio Ghibli World",
-    "description": "Alien Medic in a Studio Ghibli World",
-    "created": "2024-12-18 09:52:51.890711",
+    "title": "Alien Medic in the Spirit of Studio Ghibli",
+    "description": "Alien Medic in the Spirit of Studio Ghibli",
+    "created": "2024-12-18 10:23:15.739886",
     "prompt": {
         "prompt": "Create a landscape full body image of a alien medic in the style of Studio Ghibli",
-        "id": "6e19242a8ded57192364c6e75759010f",
+        "id": "5a68de68708fcf13dd7637bd5d187619",
         "prompt_history": [
             "Create a landscape full body image of a alien medic in the style of Studio Ghibli"
         ],
@@ -13,13 +13,13 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:12.000540",
+        "seeded_at": "2024-12-15 20:49:12.001162",
         "seed_prompt": "Create a landscape full body image of a alien medic in the style of Studio Ghibli",
         "metadata": {
             "element": "medic",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "waterfall",
+            "backdrop": "tropical forest",
             "animal": "camel",
             "modifiers": {
                 "image": "full body",
@@ -41,15 +41,15 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Alien Medic in a Studio Ghibli World"
+        "title": "Alien Medic in the Spirit of Studio Ghibli"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b642737284497.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b64975923090.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/ae41bafc14b4099a860f5590df3aac48/ae41bafc14b4099a860f5590df3aac48.jpg"
     },
     "tags": [],
     "model_version": "dreamshaper",
-    "name": "Ghibli Alien Medic",
+    "name": "AlienHealer",
     "symbol": "AE41B",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/ae41bafc14b4099a860f5590df3aac48/ae41bafc14b4099a860f5590df3aac48.jpg",
     "seller_fee_basis_points": 100,
