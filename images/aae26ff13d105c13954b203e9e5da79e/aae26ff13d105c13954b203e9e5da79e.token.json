@@ -2,10 +2,10 @@
     "id": "aae26ff13d105c13954b203e9e5da79e",
     "title": "Futuristic Alien Desert Tribe Warrior",
     "description": "Create a landscape full body image of a futuristic alien desert tribe warrior in the style of Studio Ghibli",
-    "created": "2024-12-18 06:24:50.406377",
+    "created": "2024-12-18 07:15:24.407590",
     "prompt": {
         "prompt": "Create a landscape full body image of a futuristic alien desert tribe warrior in the style of Studio Ghibli",
-        "id": "6791688c2c2866ffca41832ce22226d0",
+        "id": "5c6aa56408ecea1ce69e214258bff65b",
         "prompt_history": [
             "Create a landscape full body image of a futuristic alien desert tribe warrior in the style of Studio Ghibli"
         ],
@@ -13,14 +13,14 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:12.053572",
+        "seeded_at": "2024-12-15 20:49:12.056377",
         "seed_prompt": "Create a landscape full body image of a futuristic alien desert tribe warrior in the style of Studio Ghibli",
         "metadata": {
             "element": "desert tribe warrior",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "Martial landscape",
-            "animal": "camel",
+            "backdrop": "forest",
+            "animal": "elephant",
             "modifiers": {
                 "image": "full body",
                 "element": "futuristic alien",
@@ -44,12 +44,12 @@
         "title": "Futuristic Alien Desert Tribe Warrior"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b64366985523.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b6482223875.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/aae26ff13d105c13954b203e9e5da79e/aae26ff13d105c13954b203e9e5da79e.jpg"
     },
     "tags": [],
     "model_version": "dreamshaper",
-    "name": "Nakai, the Desert Wanderer",
+    "name": "Rylo Sandshifter",
     "symbol": "AAE26FF13",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/aae26ff13d105c13954b203e9e5da79e/aae26ff13d105c13954b203e9e5da79e.jpg"
 }
