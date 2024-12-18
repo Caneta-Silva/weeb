@@ -1,11 +1,11 @@
 {
     "id": "910654802183cd09c63bc714ed0dbeb5",
-    "title": "Pulse of the Cosmos: The Sentry of the Stars",
+    "title": "Galactic Enforcer: Alien Riot Police Robot",
     "description": "Create a landscape full body image of a alien riot police robot in the style of Studio Ghibli",
-    "created": "2024-12-18 07:32:45.666086",
+    "created": "2024-12-18 08:54:43.463204",
     "prompt": {
         "prompt": "Create a landscape full body image of a alien riot police robot in the style of Studio Ghibli",
-        "id": "21c107386378166ed625698bd6bfdf97",
+        "id": "78c5aff3199dfc0e72d72be37a472e0f",
         "prompt_history": [
             "Create a landscape full body image of a alien riot police robot in the style of Studio Ghibli"
         ],
@@ -13,18 +13,18 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:11.884761",
+        "seeded_at": "2024-12-15 20:49:11.882463",
         "seed_prompt": "Create a landscape full body image of a alien riot police robot in the style of Studio Ghibli",
         "metadata": {
             "element": "riot police robot",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "desert",
-            "animal": "rhino",
+            "backdrop": "fortress",
+            "animal": "giraffe",
             "modifiers": {
                 "image": "full body",
                 "element": "alien",
-                "backdrop": "futuristic alien"
+                "backdrop": "alien"
             }
         },
         "template": {
@@ -41,10 +41,10 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Pulse of the Cosmos: The Sentry of the Stars"
+        "title": "Galactic Enforcer: Alien Riot Police Robot"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b641990864186.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b642747170434.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/910654802183cd09c63bc714ed0dbeb5/910654802183cd09c63bc714ed0dbeb5.jpg"
     },
     "tags": [],
