@@ -1,11 +1,11 @@
 {
     "id": "2cac825646900e41a55595a384ba0bf2",
-    "title": "The Futuristic Alien Emperor",
-    "description": "The Futuristic Alien Emperor",
-    "created": "2024-12-18 09:59:08.570974",
+    "title": "The Regal Alien Overlord of the Futuristic Realms",
+    "description": "The Regal Alien Overlord of the Futuristic Realms",
+    "created": "2024-12-18 10:42:52.511228",
     "prompt": {
         "prompt": "Create a landscape full body image of a futuristic alien emperor in the style of Studio Ghibli",
-        "id": "6b9f4b5d6890b93ffa0f9c7fa4ec2194",
+        "id": "ba6dce7788a10e5dfae614b72763cea8",
         "prompt_history": [
             "Create a landscape full body image of a futuristic alien emperor in the style of Studio Ghibli"
         ],
@@ -13,14 +13,14 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:12.113179",
+        "seeded_at": "2024-12-15 20:49:12.109828",
         "seed_prompt": "Create a landscape full body image of a futuristic alien emperor in the style of Studio Ghibli",
         "metadata": {
             "element": "emperor",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "spaceship",
-            "animal": "gnu",
+            "backdrop": "desert landscape",
+            "animal": "deer",
             "modifiers": {
                 "image": "full body",
                 "element": "futuristic alien",
@@ -41,15 +41,15 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "The Futuristic Alien Emperor"
+        "title": "The Regal Alien Overlord of the Futuristic Realms"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b64843216248.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b643745405883.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/2cac825646900e41a55595a384ba0bf2/2cac825646900e41a55595a384ba0bf2.jpg"
     },
     "tags": [],
     "model_version": "dreamshaper",
-    "name": "XenoEmperor",
+    "name": null,
     "symbol": "2CAC8",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/2cac825646900e41a55595a384ba0bf2/2cac825646900e41a55595a384ba0bf2.jpg",
     "seller_fee_basis_points": 100,
