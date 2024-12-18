@@ -1,0 +1,78 @@
+{
+    "id": "e0384266eb2294190c5aa1923944303e",
+    "title": "Futuristic Alien Firefighter in Ghibli Style Landscape",
+    "description": "Futuristic Alien Firefighter in Ghibli Style Landscape",
+    "created": "2024-12-18 18:18:46.570414",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic alien firefighter in the style of Studio Ghibli",
+        "id": "9632b7f38aceb6cc2432d7488f08e152",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic alien firefighter in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-15 20:49:12.136250",
+        "seed_prompt": "Create a landscape full body image of a futuristic alien firefighter in the style of Studio Ghibli",
+        "metadata": {
+            "element": "firefighter",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "tropical forest",
+            "animal": "horse",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic alien",
+                "backdrop": "futuristic"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Futuristic Alien Firefighter in Ghibli Style Landscape"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b644229397608.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/e0384266eb2294190c5aa1923944303e/e0384266eb2294190c5aa1923944303e.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "FuturAlienHero",
+    "symbol": "E0384",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/e0384266eb2294190c5aa1923944303e/e0384266eb2294190c5aa1923944303e.jpg",
+    "seller_fee_basis_points": 100,
+    "external_url": null,
+    "attributes": {},
+    "collection": {
+        "name": "weeb",
+        "family": "Caneta-Silva"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/e0384266eb2294190c5aa1923944303e/e0384266eb2294190c5aa1923944303e.jpg",
+                "type": "image/jpg"
+            }
+        ],
+        "category": "image",
+        "maxSupply": 0,
+        "creators": [
+            {
+                "address": "CXretoxLBQDmFwDbf4qJYVX49UaA4PPMy3pCtfm2yzVH",
+                "share": 100
+            }
+        ]
+    }
+}
