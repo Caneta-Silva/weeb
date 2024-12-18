@@ -1,0 +1,28 @@
+{
+    "id": "32def24711733c77080916e4603657b3",
+    "title": "Galactic Rider: A Studio Ghibli Inspired Portrait",
+    "description": "A nazi alien mounted on a horse in the style of Studio Ghibli",
+    "created": "2024-12-18 20:39:36.036332",
+    "prompt": {
+        "prompt": "A nazi alien mounted on a horse in the style of Studio Ghibli",
+        "id": "56222b8fec8ea25783ae6a18ce1208d7",
+        "prompt_history": [
+            "A nazi alien mounted on a horse in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-18 20:38:30.210636",
+        "seed_prompt": "A nazi alien mounted on a horse in the style of Studio Ghibli",
+        "metadata": null,
+        "template": null,
+        "title": "Galactic Rider: A Studio Ghibli Inspired Portrait"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b643036687323.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/32def24711733c77080916e4603657b3/32def24711733c77080916e4603657b3.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper"
+}
