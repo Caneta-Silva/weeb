@@ -1,0 +1,55 @@
+{
+    "id": "29537bd054162c984a504e7e4dc6f499",
+    "title": "Futuristic Alien Riot Police Robot in the Style of Studio Ghibli",
+    "description": "Create a landscape full body image of a futuristic alien riot police robot in the style of Studio Ghibli",
+    "created": "2024-12-18 21:35:55.280853",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic alien riot police robot in the style of Studio Ghibli",
+        "id": "3ad541ed2e073c20ea8cdf4a3e72ba77",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic alien riot police robot in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-15 20:49:12.030615",
+        "seed_prompt": "Create a landscape full body image of a futuristic alien riot police robot in the style of Studio Ghibli",
+        "metadata": {
+            "element": "riot police robot",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "waterfall",
+            "animal": "rhino",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic alien",
+                "backdrop": "futuristic"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Futuristic Alien Riot Police Robot in the Style of Studio Ghibli"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b643410176755.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/29537bd054162c984a504e7e4dc6f499/29537bd054162c984a504e7e4dc6f499.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": null,
+    "symbol": "29537BD05",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/29537bd054162c984a504e7e4dc6f499/29537bd054162c984a504e7e4dc6f499.jpg"
+}
