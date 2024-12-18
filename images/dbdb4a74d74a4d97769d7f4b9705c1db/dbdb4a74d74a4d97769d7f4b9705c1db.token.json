@@ -1,11 +1,11 @@
 {
     "id": "dbdb4a74d74a4d97769d7f4b9705c1db",
-    "title": "The Enigmatic Alien Tribe Chief",
+    "title": "Alien Tribe Chief in Studio Ghibli Style",
     "description": "Create a landscape full body image of a alien tribe chief in the style of Studio Ghibli",
-    "created": "2024-12-18 08:43:26.760760",
+    "created": "2024-12-18 08:53:36.177970",
     "prompt": {
         "prompt": "Create a landscape full body image of a alien tribe chief in the style of Studio Ghibli",
-        "id": "bf662d974293878f338fecf9bc07dad5",
+        "id": "c814079d017928ea568c7d7b069c97de",
         "prompt_history": [
             "Create a landscape full body image of a alien tribe chief in the style of Studio Ghibli"
         ],
@@ -13,18 +13,18 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:11.933342",
+        "seeded_at": "2024-12-15 20:49:11.922503",
         "seed_prompt": "Create a landscape full body image of a alien tribe chief in the style of Studio Ghibli",
         "metadata": {
             "element": "tribe chief",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "fortress",
+            "backdrop": "spaceship",
             "animal": "elephant",
             "modifiers": {
                 "image": "full body",
                 "element": "alien",
-                "backdrop": "futuristic alien"
+                "backdrop": "futuristic"
             }
         },
         "template": {
@@ -41,15 +41,15 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "The Enigmatic Alien Tribe Chief"
+        "title": "Alien Tribe Chief in Studio Ghibli Style"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b643909581660.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b643843159757.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/dbdb4a74d74a4d97769d7f4b9705c1db/dbdb4a74d74a4d97769d7f4b9705c1db.jpg"
     },
     "tags": [],
     "model_version": "dreamshaper",
-    "name": "Kiroshi, the Ancient Keeper",
+    "name": "Kazamiru, Chief of the Moonlight Clan",
     "symbol": "DBDB4A74D",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/dbdb4a74d74a4d97769d7f4b9705c1db/dbdb4a74d74a4d97769d7f4b9705c1db.jpg"
 }
