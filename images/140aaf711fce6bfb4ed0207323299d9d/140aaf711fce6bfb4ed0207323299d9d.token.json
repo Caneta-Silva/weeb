@@ -1,11 +1,11 @@
 {
     "id": "140aaf711fce6bfb4ed0207323299d9d",
-    "title": "Futuristic Alien Paladin Military in Studio Ghibli Style",
+    "title": "Futuristic Alien Paladin",
     "description": "Create a landscape full body image of a futuristic alien paladin style military in the style of Studio Ghibli",
-    "created": "2024-12-18 06:19:39.540918",
+    "created": "2024-12-18 06:43:12.193187",
     "prompt": {
         "prompt": "Create a landscape full body image of a futuristic alien paladin style military in the style of Studio Ghibli",
-        "id": "ee0599f0baa7774a3846aa284ac68b1f",
+        "id": "31e0e0465cac2373a00b411c825ad09c",
         "prompt_history": [
             "Create a landscape full body image of a futuristic alien paladin style military in the style of Studio Ghibli"
         ],
@@ -13,18 +13,18 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:12.017001",
+        "seeded_at": "2024-12-15 20:49:12.027902",
         "seed_prompt": "Create a landscape full body image of a futuristic alien paladin style military in the style of Studio Ghibli",
         "metadata": {
             "element": "paladin style military",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "spaceship",
-            "animal": "elephant",
+            "backdrop": "fortress",
+            "animal": "deer",
             "modifiers": {
                 "image": "full body",
                 "element": "futuristic alien",
-                "backdrop": "futuristic"
+                "backdrop": "futuristic alien"
             }
         },
         "template": {
@@ -41,15 +41,15 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Futuristic Alien Paladin Military in Studio Ghibli Style"
+        "title": "Futuristic Alien Paladin"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b64118857429.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b641860157077.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/140aaf711fce6bfb4ed0207323299d9d/140aaf711fce6bfb4ed0207323299d9d.jpg"
     },
     "tags": [],
     "model_version": "dreamshaper",
-    "name": "Nova Sentinalis",
+    "name": "Galactic Knight",
     "symbol": "140AAF711",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/140aaf711fce6bfb4ed0207323299d9d/140aaf711fce6bfb4ed0207323299d9d.jpg"
 }
