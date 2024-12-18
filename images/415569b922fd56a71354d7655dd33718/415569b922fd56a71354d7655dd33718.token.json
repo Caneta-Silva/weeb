@@ -1,11 +1,11 @@
 {
     "id": "415569b922fd56a71354d7655dd33718",
-    "title": "Sand Dunes and Sentinels",
+    "title": "Alien Desert Tribe Warrior in Studio Ghibli Style",
     "description": "Create a landscape full body image of a alien desert tribe warrior in the style of Studio Ghibli",
-    "created": "2024-12-18 07:20:17.643410",
+    "created": "2024-12-18 09:19:50.838435",
     "prompt": {
         "prompt": "Create a landscape full body image of a alien desert tribe warrior in the style of Studio Ghibli",
-        "id": "e91bcbb3a479463c931db4665044cd57",
+        "id": "c82868b92bad2b592ecafb2204968149",
         "prompt_history": [
             "Create a landscape full body image of a alien desert tribe warrior in the style of Studio Ghibli"
         ],
@@ -13,18 +13,18 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:11.899182",
+        "seeded_at": "2024-12-15 20:49:11.898269",
         "seed_prompt": "Create a landscape full body image of a alien desert tribe warrior in the style of Studio Ghibli",
         "metadata": {
             "element": "desert tribe warrior",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "desert landscape",
-            "animal": "giraffe",
+            "backdrop": "fortress",
+            "animal": "rhino",
             "modifiers": {
                 "image": "full body",
                 "element": "alien",
-                "backdrop": "futuristic alien"
+                "backdrop": "alien"
             }
         },
         "template": {
@@ -41,15 +41,15 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Sand Dunes and Sentinels"
+        "title": "Alien Desert Tribe Warrior in Studio Ghibli Style"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b643188756802.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b642616046131.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/415569b922fd56a71354d7655dd33718/415569b922fd56a71354d7655dd33718.jpg"
     },
     "tags": [],
     "model_version": "dreamshaper",
-    "name": "Dune Warden",
+    "name": "Zephyr Sandweaver",
     "symbol": "415569B92",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/415569b922fd56a71354d7655dd33718/415569b922fd56a71354d7655dd33718.jpg"
 }
