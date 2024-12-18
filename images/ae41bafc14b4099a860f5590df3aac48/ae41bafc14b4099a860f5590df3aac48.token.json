@@ -1,11 +1,11 @@
 {
     "id": "ae41bafc14b4099a860f5590df3aac48",
-    "title": "Alien Medic in a Magical Landscape",
+    "title": "Alien Medic in the Style of Studio Ghibli",
     "description": "Create a landscape full body image of a alien medic in the style of Studio Ghibli",
-    "created": "2024-12-18 06:27:03.954926",
+    "created": "2024-12-18 07:28:42.649890",
     "prompt": {
         "prompt": "Create a landscape full body image of a alien medic in the style of Studio Ghibli",
-        "id": "8e926b9cc398d9b6dc40a3febd6f491a",
+        "id": "3d78e85e2d4c84ea7cdcbcccb582c7e9",
         "prompt_history": [
             "Create a landscape full body image of a alien medic in the style of Studio Ghibli"
         ],
@@ -13,18 +13,18 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:12.002179",
+        "seeded_at": "2024-12-15 20:49:12.011877",
         "seed_prompt": "Create a landscape full body image of a alien medic in the style of Studio Ghibli",
         "metadata": {
             "element": "medic",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "spaceship",
-            "animal": "giraffe",
+            "backdrop": "forest",
+            "animal": "camel",
             "modifiers": {
                 "image": "full body",
                 "element": "alien",
-                "backdrop": "futuristic"
+                "backdrop": "futuristic alien"
             }
         },
         "template": {
@@ -41,15 +41,15 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Alien Medic in a Magical Landscape"
+        "title": "Alien Medic in the Style of Studio Ghibli"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b641827171293.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b641846349815.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/ae41bafc14b4099a860f5590df3aac48/ae41bafc14b4099a860f5590df3aac48.jpg"
     },
     "tags": [],
     "model_version": "dreamshaper",
-    "name": "LunaMedix",
+    "name": "Lumi the Galactic Healer",
     "symbol": "AE41BAFC1",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/ae41bafc14b4099a860f5590df3aac48/ae41bafc14b4099a860f5590df3aac48.jpg"
 }
