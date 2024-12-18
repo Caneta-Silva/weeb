@@ -1,0 +1,78 @@
+{
+    "id": "42ac5c3c50de257277ba2bc60151678b",
+    "title": "Futuristic Shaman of Enchanted Lands",
+    "description": "Futuristic Shaman of Enchanted Lands",
+    "created": "2024-12-18 18:10:19.350812",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic shaman in the style of Studio Ghibli",
+        "id": "b8415cbee5dd65c126354ad4750fc638",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic shaman in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-15 20:49:11.774449",
+        "seed_prompt": "Create a landscape full body image of a futuristic shaman in the style of Studio Ghibli",
+        "metadata": {
+            "element": "shaman",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "tropical forest",
+            "animal": "camel",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic",
+                "backdrop": "futuristic"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Futuristic Shaman of Enchanted Lands"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b642160236357.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/42ac5c3c50de257277ba2bc60151678b/42ac5c3c50de257277ba2bc60151678b.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "NeoShamanChibi",
+    "symbol": "42AC5",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/42ac5c3c50de257277ba2bc60151678b/42ac5c3c50de257277ba2bc60151678b.jpg",
+    "seller_fee_basis_points": 100,
+    "external_url": null,
+    "attributes": {},
+    "collection": {
+        "name": "weeb",
+        "family": "Caneta-Silva"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/42ac5c3c50de257277ba2bc60151678b/42ac5c3c50de257277ba2bc60151678b.jpg",
+                "type": "image/jpg"
+            }
+        ],
+        "category": "image",
+        "maxSupply": 0,
+        "creators": [
+            {
+                "address": "CXretoxLBQDmFwDbf4qJYVX49UaA4PPMy3pCtfm2yzVH",
+                "share": 100
+            }
+        ]
+    }
+}
