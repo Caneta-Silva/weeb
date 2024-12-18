@@ -1,0 +1,52 @@
+{
+    "id": "aa197dc24b1a17c369b823eaa861fa1e",
+    "title": "Futuristic Shaman of the Enchanted Horizon",
+    "description": "Create a landscape full body image of a futuristic shaman in the style of Studio Ghibli",
+    "created": "2024-12-18 16:36:33.691641",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic shaman in the style of Studio Ghibli",
+        "id": "98a37df57275462519821312898746f7",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic shaman in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-15 20:49:11.780054",
+        "seed_prompt": "Create a landscape full body image of a futuristic shaman in the style of Studio Ghibli",
+        "metadata": {
+            "element": "shaman",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "forest",
+            "animal": "elephant",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Futuristic Shaman of the Enchanted Horizon"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b64999069103.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/aa197dc24b1a17c369b823eaa861fa1e/aa197dc24b1a17c369b823eaa861fa1e.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper"
+}
