@@ -1,11 +1,11 @@
 {
     "id": "3334bb5acb8da5ff9806fe3badd73503",
-    "title": "Futuristic Tribe Chief in Studio Ghibli Style",
+    "title": "Futuristic Tribe Chief of the Enchanted Valley",
     "description": "Create a landscape full body image of a futuristic tribe chief in the style of Studio Ghibli",
-    "created": "2024-12-18 07:24:40.877310",
+    "created": "2024-12-18 08:01:11.170437",
     "prompt": {
         "prompt": "Create a landscape full body image of a futuristic tribe chief in the style of Studio Ghibli",
-        "id": "45c3367c418c7aa0bb158fa39de029f1",
+        "id": "4dda3841f66131bc61d9ef8298d0822f",
         "prompt_history": [
             "Create a landscape full body image of a futuristic tribe chief in the style of Studio Ghibli"
         ],
@@ -13,14 +13,14 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:11.758510",
+        "seeded_at": "2024-12-15 20:49:11.761046",
         "seed_prompt": "Create a landscape full body image of a futuristic tribe chief in the style of Studio Ghibli",
         "metadata": {
             "element": "tribe chief",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "waterfall",
-            "animal": "gnu",
+            "backdrop": "fortress",
+            "animal": "deer",
             "modifiers": {
                 "image": "full body",
                 "element": "futuristic",
@@ -41,10 +41,10 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Futuristic Tribe Chief in Studio Ghibli Style"
+        "title": "Futuristic Tribe Chief of the Enchanted Valley"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b641112583044.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b641451153405.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/3334bb5acb8da5ff9806fe3badd73503/3334bb5acb8da5ff9806fe3badd73503.jpg"
     },
     "tags": [],
