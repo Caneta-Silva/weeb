@@ -1,11 +1,11 @@
 {
     "id": "aae26ff13d105c13954b203e9e5da79e",
-    "title": "Futuristic Alien Desert Tribe Warrior",
+    "title": "Futuristic Alien Desert Tribe Warrior in the Style of Studio Ghibli",
     "description": "Create a landscape full body image of a futuristic alien desert tribe warrior in the style of Studio Ghibli",
-    "created": "2024-12-18 08:13:27.911340",
+    "created": "2024-12-18 10:20:13.889969",
     "prompt": {
         "prompt": "Create a landscape full body image of a futuristic alien desert tribe warrior in the style of Studio Ghibli",
-        "id": "ff3e72cc4dabc2e0c7ba83238b8a69a8",
+        "id": "91f84c463356fc6b6dacc6995a9d4ba4",
         "prompt_history": [
             "Create a landscape full body image of a futuristic alien desert tribe warrior in the style of Studio Ghibli"
         ],
@@ -13,14 +13,14 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:12.052282",
+        "seeded_at": "2024-12-15 20:49:12.048810",
         "seed_prompt": "Create a landscape full body image of a futuristic alien desert tribe warrior in the style of Studio Ghibli",
         "metadata": {
             "element": "desert tribe warrior",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "spaceship",
-            "animal": "gnu",
+            "backdrop": "Martial landscape",
+            "animal": "camel",
             "modifiers": {
                 "image": "full body",
                 "element": "futuristic alien",
@@ -41,15 +41,15 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Futuristic Alien Desert Tribe Warrior"
+        "title": "Futuristic Alien Desert Tribe Warrior in the Style of Studio Ghibli"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b643051536499.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b6475765812.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/aae26ff13d105c13954b203e9e5da79e/aae26ff13d105c13954b203e9e5da79e.jpg"
     },
     "tags": [],
     "model_version": "dreamshaper",
-    "name": "Hira Desertwalker",
+    "name": "Zephyr Sandscout",
     "symbol": "AAE26FF13",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/aae26ff13d105c13954b203e9e5da79e/aae26ff13d105c13954b203e9e5da79e.jpg"
 }
