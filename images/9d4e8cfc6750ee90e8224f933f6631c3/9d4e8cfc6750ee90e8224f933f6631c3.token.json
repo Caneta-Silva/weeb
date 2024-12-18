@@ -1,11 +1,11 @@
 {
     "id": "9d4e8cfc6750ee90e8224f933f6631c3",
-    "title": "Futuristic Emperor in Studio Ghibli Style",
+    "title": "The Majestic Futuristic Emperor",
     "description": "Create a landscape full body image of a futuristic emperor in the style of Studio Ghibli",
-    "created": "2024-12-18 07:13:05.113385",
+    "created": "2024-12-18 10:29:32.859719",
     "prompt": {
         "prompt": "Create a landscape full body image of a futuristic emperor in the style of Studio Ghibli",
-        "id": "fd7b2f72bfeb77f5cdf9e7a16789d427",
+        "id": "677855230097518719509b752a6100f7",
         "prompt_history": [
             "Create a landscape full body image of a futuristic emperor in the style of Studio Ghibli"
         ],
@@ -13,18 +13,18 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:11.802095",
+        "seeded_at": "2024-12-15 20:49:11.788236",
         "seed_prompt": "Create a landscape full body image of a futuristic emperor in the style of Studio Ghibli",
         "metadata": {
             "element": "emperor",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "fortress",
-            "animal": "gnu",
+            "backdrop": "desert",
+            "animal": "deer",
             "modifiers": {
                 "image": "full body",
                 "element": "futuristic",
-                "backdrop": "futuristic alien"
+                "backdrop": "futuristic"
             }
         },
         "template": {
@@ -41,15 +41,15 @@
             "name": "Standard",
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Futuristic Emperor in Studio Ghibli Style"
+        "title": "The Majestic Futuristic Emperor"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b64434480203.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b641931151708.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/9d4e8cfc6750ee90e8224f933f6631c3/9d4e8cfc6750ee90e8224f933f6631c3.jpg"
     },
     "tags": [],
     "model_version": "dreamshaper",
-    "name": "Zenith Monarch",
+    "name": "Aetherian Sovereign",
     "symbol": "9D4E8CFC6",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/9d4e8cfc6750ee90e8224f933f6631c3/9d4e8cfc6750ee90e8224f933f6631c3.jpg"
 }
