@@ -2,10 +2,10 @@
     "id": "006e64737e0cc3ba620118495f38f953",
     "title": "Futuristic Alien Tribe Chief in Studio Ghibli Style",
     "description": "Create a landscape full body image of a futuristic alien tribe chief in the style of Studio Ghibli",
-    "created": "2024-12-18 06:39:20.787724",
+    "created": "2024-12-18 08:26:36.610925",
     "prompt": {
         "prompt": "Create a landscape full body image of a futuristic alien tribe chief in the style of Studio Ghibli",
-        "id": "c369a942d8b0f90ff39d7226e813d6c8",
+        "id": "429a04bf18ff6684fe2a6d014fbcfccd",
         "prompt_history": [
             "Create a landscape full body image of a futuristic alien tribe chief in the style of Studio Ghibli"
         ],
@@ -13,14 +13,14 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-15 20:49:12.080973",
+        "seeded_at": "2024-12-15 20:49:12.080646",
         "seed_prompt": "Create a landscape full body image of a futuristic alien tribe chief in the style of Studio Ghibli",
         "metadata": {
             "element": "tribe chief",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
             "backdrop": "waterfall",
-            "animal": "camel",
+            "animal": "elephant",
             "modifiers": {
                 "image": "full body",
                 "element": "futuristic alien",
@@ -44,12 +44,12 @@
         "title": "Futuristic Alien Tribe Chief in Studio Ghibli Style"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b64452914412.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b643567931581.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/006e64737e0cc3ba620118495f38f953/006e64737e0cc3ba620118495f38f953.jpg"
     },
     "tags": [],
     "model_version": "dreamshaper",
-    "name": "Talorin, Chief of the Iridescent Seraphs",
+    "name": "Zalorin, Chief of the Galactic Nomads",
     "symbol": "006E64737",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/006e64737e0cc3ba620118495f38f953/006e64737e0cc3ba620118495f38f953.jpg"
 }
