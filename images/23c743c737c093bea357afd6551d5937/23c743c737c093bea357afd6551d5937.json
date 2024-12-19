@@ -1,0 +1,52 @@
+{
+    "id": "23c743c737c093bea357afd6551d5937",
+    "title": "Futuristic Alien Police: A Studio Ghibli Inspired Landscape",
+    "description": "Create a landscape full body image of a futuristic alien police in the style of Studio Ghibli",
+    "created": "2024-12-19 10:07:46.131864",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic alien police in the style of Studio Ghibli",
+        "id": "007370b83407400cb32930d50e387b0c",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic alien police in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-15 20:49:12.128541",
+        "seed_prompt": "Create a landscape full body image of a futuristic alien police in the style of Studio Ghibli",
+        "metadata": {
+            "element": "police",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "fortress",
+            "animal": "giraffe",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic alien",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Futuristic Alien Police: A Studio Ghibli Inspired Landscape"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b641649601118.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/23c743c737c093bea357afd6551d5937/23c743c737c093bea357afd6551d5937.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper"
+}
