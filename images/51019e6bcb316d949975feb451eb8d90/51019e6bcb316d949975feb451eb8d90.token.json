@@ -1,0 +1,55 @@
+{
+    "id": "51019e6bcb316d949975feb451eb8d90",
+    "title": "Desert Warrior of the Alien Tribe",
+    "description": "Create a landscape full body image of a alien desert tribe warrior in the style of Studio Ghibli",
+    "created": "2024-12-19 10:01:55.867822",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a alien desert tribe warrior in the style of Studio Ghibli",
+        "id": "13cb201aa280d2f81abc023f6d5e95ea",
+        "prompt_history": [
+            "Create a landscape full body image of a alien desert tribe warrior in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-15 20:49:11.901494",
+        "seed_prompt": "Create a landscape full body image of a alien desert tribe warrior in the style of Studio Ghibli",
+        "metadata": {
+            "element": "desert tribe warrior",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "tropical forest",
+            "animal": "rhino",
+            "modifiers": {
+                "image": "full body",
+                "element": "alien",
+                "backdrop": "futuristic alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Desert Warrior of the Alien Tribe"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b641924589811.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/51019e6bcb316d949975feb451eb8d90/51019e6bcb316d949975feb451eb8d90.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "Sandstorm Nomad",
+    "symbol": "51019E6BC",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/51019e6bcb316d949975feb451eb8d90/51019e6bcb316d949975feb451eb8d90.jpg"
+}
