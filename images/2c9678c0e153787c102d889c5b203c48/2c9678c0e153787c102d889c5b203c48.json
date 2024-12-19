@@ -1,0 +1,52 @@
+{
+    "id": "2c9678c0e153787c102d889c5b203c48",
+    "title": "The Alien Policeman of the Enchanted Forest",
+    "description": "Create a landscape full body image of a alien police in the style of Studio Ghibli",
+    "created": "2024-12-19 01:33:01.333259",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a alien police in the style of Studio Ghibli",
+        "id": "48074b2b9ad630b58b67a4bec35ed872",
+        "prompt_history": [
+            "Create a landscape full body image of a alien police in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-15 20:49:11.970486",
+        "seed_prompt": "Create a landscape full body image of a alien police in the style of Studio Ghibli",
+        "metadata": {
+            "element": "police",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "forest",
+            "animal": "giraffe",
+            "modifiers": {
+                "image": "full body",
+                "element": "alien",
+                "backdrop": "futuristic"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "The Alien Policeman of the Enchanted Forest"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b642729101715.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/2c9678c0e153787c102d889c5b203c48/2c9678c0e153787c102d889c5b203c48.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper"
+}
