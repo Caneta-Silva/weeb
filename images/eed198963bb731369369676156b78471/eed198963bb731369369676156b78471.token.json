@@ -1,0 +1,55 @@
+{
+    "id": "eed198963bb731369369676156b78471",
+    "title": "Futuristic Riot Police Robot in Studio Ghibli Style",
+    "description": "Create a landscape full body image of a futuristic riot police robot in the style of Studio Ghibli",
+    "created": "2024-12-19 01:21:58.413347",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic riot police robot in the style of Studio Ghibli",
+        "id": "df4a3f2ed751c18521493beeb252bb65",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic riot police robot in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-15 20:49:11.713634",
+        "seed_prompt": "Create a landscape full body image of a futuristic riot police robot in the style of Studio Ghibli",
+        "metadata": {
+            "element": "riot police robot",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "spaceship",
+            "animal": "camel",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic",
+                "backdrop": "futuristic"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Futuristic Riot Police Robot in Studio Ghibli Style"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b643914156222.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/eed198963bb731369369676156b78471/eed198963bb731369369676156b78471.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "Juno Sentry",
+    "symbol": "EED198963",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/eed198963bb731369369676156b78471/eed198963bb731369369676156b78471.jpg"
+}
