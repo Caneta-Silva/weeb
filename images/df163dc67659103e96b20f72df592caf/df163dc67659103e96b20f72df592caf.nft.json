@@ -1,0 +1,78 @@
+{
+    "id": "df163dc67659103e96b20f72df592caf",
+    "title": "Futuristic Shaman in the Enchanted Valley",
+    "description": "Futuristic Shaman in the Enchanted Valley",
+    "created": "2024-12-19 01:36:00.953745",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic shaman in the style of Studio Ghibli",
+        "id": "11998cb0c9d87a6bcd31eecaaf735829",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic shaman in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-15 20:49:11.775234",
+        "seed_prompt": "Create a landscape full body image of a futuristic shaman in the style of Studio Ghibli",
+        "metadata": {
+            "element": "shaman",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "forest",
+            "animal": "rhino",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic",
+                "backdrop": "futuristic"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Futuristic Shaman in the Enchanted Valley"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b643028959884.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/df163dc67659103e96b20f72df592caf/df163dc67659103e96b20f72df592caf.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "Futurishaman",
+    "symbol": "DF163",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/df163dc67659103e96b20f72df592caf/df163dc67659103e96b20f72df592caf.jpg",
+    "seller_fee_basis_points": 100,
+    "external_url": null,
+    "attributes": {},
+    "collection": {
+        "name": "weeb",
+        "family": "Caneta-Silva"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/df163dc67659103e96b20f72df592caf/df163dc67659103e96b20f72df592caf.jpg",
+                "type": "image/jpg"
+            }
+        ],
+        "category": "image",
+        "maxSupply": 0,
+        "creators": [
+            {
+                "address": "CXretoxLBQDmFwDbf4qJYVX49UaA4PPMy3pCtfm2yzVH",
+                "share": 100
+            }
+        ]
+    }
+}
