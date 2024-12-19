@@ -1,0 +1,78 @@
+{
+    "id": "593141f3a961d58b3f3ebcc23232cc0c",
+    "title": "Futuristic Paladins: A Studio Ghibli-Inspired Military Landscape",
+    "description": "Futuristic Paladins: A Studio Ghibli-Inspired Military Landscape",
+    "created": "2024-12-19 10:00:36.122722",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic paladin style military in the style of Studio Ghibli",
+        "id": "582e53d3e4582095f4330d7bae31e64c",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic paladin style military in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-15 20:49:11.700184",
+        "seed_prompt": "Create a landscape full body image of a futuristic paladin style military in the style of Studio Ghibli",
+        "metadata": {
+            "element": "paladin style military",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "desert",
+            "animal": "elephant",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Futuristic Paladins: A Studio Ghibli-Inspired Military Landscape"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b641275285348.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/593141f3a961d58b3f3ebcc23232cc0c/593141f3a961d58b3f3ebcc23232cc0c.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "GhibliPaladin32",
+    "symbol": "59314",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/593141f3a961d58b3f3ebcc23232cc0c/593141f3a961d58b3f3ebcc23232cc0c.jpg",
+    "seller_fee_basis_points": 100,
+    "external_url": null,
+    "attributes": {},
+    "collection": {
+        "name": "weeb",
+        "family": "Caneta-Silva"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/593141f3a961d58b3f3ebcc23232cc0c/593141f3a961d58b3f3ebcc23232cc0c.jpg",
+                "type": "image/jpg"
+            }
+        ],
+        "category": "image",
+        "maxSupply": 0,
+        "creators": [
+            {
+                "address": "CXretoxLBQDmFwDbf4qJYVX49UaA4PPMy3pCtfm2yzVH",
+                "share": 100
+            }
+        ]
+    }
+}
