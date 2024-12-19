@@ -1,0 +1,55 @@
+{
+    "id": "612008361329433f39e2b3e2723e198c",
+    "title": "Futuristic Alien Desert Tribe Warrior",
+    "description": "Create a landscape full body image of a futuristic alien desert tribe warrior in the style of Studio Ghibli",
+    "created": "2024-12-19 10:14:16.103437",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic alien desert tribe warrior in the style of Studio Ghibli",
+        "id": "10f7fabbbf7b697cef6feb6a1e3d0755",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic alien desert tribe warrior in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-15 20:49:12.057291",
+        "seed_prompt": "Create a landscape full body image of a futuristic alien desert tribe warrior in the style of Studio Ghibli",
+        "metadata": {
+            "element": "desert tribe warrior",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "spaceship",
+            "animal": "gnu",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic alien",
+                "backdrop": "futuristic alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Futuristic Alien Desert Tribe Warrior"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b642366289330.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/612008361329433f39e2b3e2723e198c/612008361329433f39e2b3e2723e198c.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "Zephyr Sands",
+    "symbol": "612008361",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/612008361329433f39e2b3e2723e198c/612008361329433f39e2b3e2723e198c.jpg"
+}
