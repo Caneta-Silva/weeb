@@ -1,0 +1,55 @@
+{
+    "id": "12b5243f07ae539eaaa38bb8f9ab6a7d",
+    "title": "Futuristic Desert Tribe Warrior - Studio Ghibli Style",
+    "description": "Create a landscape full body image of a futuristic desert tribe warrior in the style of Studio Ghibli",
+    "created": "2024-12-19 01:40:48.333277",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic desert tribe warrior in the style of Studio Ghibli",
+        "id": "0ea3df8073a8f62c0eb2312c20e1ae06",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic desert tribe warrior in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-15 20:49:11.734213",
+        "seed_prompt": "Create a landscape full body image of a futuristic desert tribe warrior in the style of Studio Ghibli",
+        "metadata": {
+            "element": "desert tribe warrior",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "spaceship",
+            "animal": "giraffe",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Futuristic Desert Tribe Warrior - Studio Ghibli Style"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b642712881069.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/12b5243f07ae539eaaa38bb8f9ab6a7d/12b5243f07ae539eaaa38bb8f9ab6a7d.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "Dune Whisperer",
+    "symbol": "12B5243F0",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/12b5243f07ae539eaaa38bb8f9ab6a7d/12b5243f07ae539eaaa38bb8f9ab6a7d.jpg"
+}
