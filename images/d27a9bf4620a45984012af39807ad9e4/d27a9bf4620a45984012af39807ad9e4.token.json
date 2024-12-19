@@ -1,0 +1,55 @@
+{
+    "id": "d27a9bf4620a45984012af39807ad9e4",
+    "title": "Futuristic Tribe Chief of the Lost Valley",
+    "description": "Create a landscape full body image of a futuristic tribe chief in the style of Studio Ghibli",
+    "created": "2024-12-19 09:59:04.409030",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic tribe chief in the style of Studio Ghibli",
+        "id": "588abaa2eea8dd794ab302013777ae20",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic tribe chief in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-15 20:49:11.768729",
+        "seed_prompt": "Create a landscape full body image of a futuristic tribe chief in the style of Studio Ghibli",
+        "metadata": {
+            "element": "tribe chief",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "waterfall",
+            "animal": "camel",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic",
+                "backdrop": "futuristic alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Futuristic Tribe Chief of the Lost Valley"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b6410716893.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/d27a9bf4620a45984012af39807ad9e4/d27a9bf4620a45984012af39807ad9e4.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "Amaruuk, the Sky Weaver",
+    "symbol": "D27A9BF46",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/d27a9bf4620a45984012af39807ad9e4/d27a9bf4620a45984012af39807ad9e4.jpg"
+}
