@@ -1,0 +1,55 @@
+{
+    "id": "9ab47d7ecac47e85581e6a03b927db26",
+    "title": "Galactic Hero: The Alien Firefighter",
+    "description": "Create a landscape full body image of a alien firefighter in the style of Studio Ghibli",
+    "created": "2024-12-19 01:48:45.229714",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a alien firefighter in the style of Studio Ghibli",
+        "id": "6edbad322c1c1cafc27e0198e371aebc",
+        "prompt_history": [
+            "Create a landscape full body image of a alien firefighter in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-15 20:49:11.992823",
+        "seed_prompt": "Create a landscape full body image of a alien firefighter in the style of Studio Ghibli",
+        "metadata": {
+            "element": "firefighter",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "Martial landscape",
+            "animal": "gnu",
+            "modifiers": {
+                "image": "full body",
+                "element": "alien",
+                "backdrop": "futuristic alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Galactic Hero: The Alien Firefighter"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b642009132323.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/9ab47d7ecac47e85581e6a03b927db26/9ab47d7ecac47e85581e6a03b927db26.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "Nova Blazeguard",
+    "symbol": "9AB47D7EC",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/9ab47d7ecac47e85581e6a03b927db26/9ab47d7ecac47e85581e6a03b927db26.jpg"
+}
