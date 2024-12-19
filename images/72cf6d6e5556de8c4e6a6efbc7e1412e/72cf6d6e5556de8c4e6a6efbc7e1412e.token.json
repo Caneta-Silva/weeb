@@ -1,0 +1,55 @@
+{
+    "id": "72cf6d6e5556de8c4e6a6efbc7e1412e",
+    "title": "Desert Wanderer: A Studio Ghibli-Inspired Alien Tribal Warrior",
+    "description": "Create a landscape full body image of a alien desert tribe warrior in the style of Studio Ghibli",
+    "created": "2024-12-19 01:41:39.780962",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a alien desert tribe warrior in the style of Studio Ghibli",
+        "id": "14dbc5dbe18fa4de2c37ee2701f6a8d8",
+        "prompt_history": [
+            "Create a landscape full body image of a alien desert tribe warrior in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-15 20:49:11.893568",
+        "seed_prompt": "Create a landscape full body image of a alien desert tribe warrior in the style of Studio Ghibli",
+        "metadata": {
+            "element": "desert tribe warrior",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "Martial landscape",
+            "animal": "gnu",
+            "modifiers": {
+                "image": "full body",
+                "element": "alien",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Desert Wanderer: A Studio Ghibli-Inspired Alien Tribal Warrior"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b642538292123.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/72cf6d6e5556de8c4e6a6efbc7e1412e/72cf6d6e5556de8c4e6a6efbc7e1412e.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "Nebula Sandwalker",
+    "symbol": "72CF6D6E5",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/72cf6d6e5556de8c4e6a6efbc7e1412e/72cf6d6e5556de8c4e6a6efbc7e1412e.jpg"
+}
