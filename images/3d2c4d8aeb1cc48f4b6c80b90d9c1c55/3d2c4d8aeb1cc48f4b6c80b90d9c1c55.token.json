@@ -1,0 +1,55 @@
+{
+    "id": "3d2c4d8aeb1cc48f4b6c80b90d9c1c55",
+    "title": "Futuristic Firefighter of the Enchanted City",
+    "description": "Create a landscape full body image of a futuristic firefighter in the style of Studio Ghibli",
+    "created": "2024-12-19 01:31:43.586480",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic firefighter in the style of Studio Ghibli",
+        "id": "af34816a2b36e4790d43a870dfb85831",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic firefighter in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-15 20:49:11.835690",
+        "seed_prompt": "Create a landscape full body image of a futuristic firefighter in the style of Studio Ghibli",
+        "metadata": {
+            "element": "firefighter",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "desert landscape",
+            "animal": "elephant",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic",
+                "backdrop": "futuristic alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Futuristic Firefighter of the Enchanted City"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b643514619814.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/3d2c4d8aeb1cc48f4b6c80b90d9c1c55/3d2c4d8aeb1cc48f4b6c80b90d9c1c55.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "Embertron",
+    "symbol": "3D2C4D8AE",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/3d2c4d8aeb1cc48f4b6c80b90d9c1c55/3d2c4d8aeb1cc48f4b6c80b90d9c1c55.jpg"
+}
