@@ -1,0 +1,52 @@
+{
+    "id": "ddcfdbb4a67bf6412e4c8094b6d3a35c",
+    "title": "Alien Medic in Studio Ghibli Style",
+    "description": "Create a landscape full body image of a alien medic in the style of Studio Ghibli",
+    "created": "2024-12-19 01:15:32.117729",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a alien medic in the style of Studio Ghibli",
+        "id": "1b7362f86aaedbf7e1e74695aa0980ab",
+        "prompt_history": [
+            "Create a landscape full body image of a alien medic in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-15 20:49:12.004643",
+        "seed_prompt": "Create a landscape full body image of a alien medic in the style of Studio Ghibli",
+        "metadata": {
+            "element": "medic",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "desert",
+            "animal": "horse",
+            "modifiers": {
+                "image": "full body",
+                "element": "alien",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Alien Medic in Studio Ghibli Style"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b641479964781.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/ddcfdbb4a67bf6412e4c8094b6d3a35c/ddcfdbb4a67bf6412e4c8094b6d3a35c.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper"
+}
