@@ -1,0 +1,78 @@
+{
+    "id": "4a192bd26921f996812ee219ec757646",
+    "title": "Alien Police Officer in the Style of Studio Ghibli",
+    "description": "Alien Police Officer in the Style of Studio Ghibli",
+    "created": "2024-12-19 01:22:18.210688",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a alien police in the style of Studio Ghibli",
+        "id": "d8e71497044d1fb40f56ebfffc91a7e7",
+        "prompt_history": [
+            "Create a landscape full body image of a alien police in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-15 20:49:11.969178",
+        "seed_prompt": "Create a landscape full body image of a alien police in the style of Studio Ghibli",
+        "metadata": {
+            "element": "police",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "waterfall",
+            "animal": "giraffe",
+            "modifiers": {
+                "image": "full body",
+                "element": "alien",
+                "backdrop": "futuristic"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Alien Police Officer in the Style of Studio Ghibli"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b641896296629.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/4a192bd26921f996812ee219ec757646/4a192bd26921f996812ee219ec757646.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "GhibliCop",
+    "symbol": "4A192",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/4a192bd26921f996812ee219ec757646/4a192bd26921f996812ee219ec757646.jpg",
+    "seller_fee_basis_points": 100,
+    "external_url": null,
+    "attributes": {},
+    "collection": {
+        "name": "weeb",
+        "family": "Caneta-Silva"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/4a192bd26921f996812ee219ec757646/4a192bd26921f996812ee219ec757646.jpg",
+                "type": "image/jpg"
+            }
+        ],
+        "category": "image",
+        "maxSupply": 0,
+        "creators": [
+            {
+                "address": "CXretoxLBQDmFwDbf4qJYVX49UaA4PPMy3pCtfm2yzVH",
+                "share": 100
+            }
+        ]
+    }
+}
