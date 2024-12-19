@@ -1,0 +1,52 @@
+{
+    "id": "6542521401d3f0486ddcd9990d53ed5f",
+    "title": "Galactic Peacekeeper: A Tribute to Studio Ghibli",
+    "description": "Create a landscape full body image of a alien riot police robot in the style of Studio Ghibli",
+    "created": "2024-12-19 01:27:31.240228",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a alien riot police robot in the style of Studio Ghibli",
+        "id": "86df6538478b4e6b80fd2b01974289b8",
+        "prompt_history": [
+            "Create a landscape full body image of a alien riot police robot in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-15 20:49:11.878707",
+        "seed_prompt": "Create a landscape full body image of a alien riot police robot in the style of Studio Ghibli",
+        "metadata": {
+            "element": "riot police robot",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "desert landscape",
+            "animal": "elephant",
+            "modifiers": {
+                "image": "full body",
+                "element": "alien",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Galactic Peacekeeper: A Tribute to Studio Ghibli"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b644048956355.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/6542521401d3f0486ddcd9990d53ed5f/6542521401d3f0486ddcd9990d53ed5f.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper"
+}
