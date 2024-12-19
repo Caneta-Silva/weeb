@@ -1,0 +1,55 @@
+{
+    "id": "e9577ea04b7dabc6fca60a51ab045a9a",
+    "title": "Futuristic Alien Paladin: Sentinel of the Ethereal Realms",
+    "description": "Create a landscape full body image of a futuristic alien paladin style military in the style of Studio Ghibli",
+    "created": "2024-12-19 01:19:09.881426",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic alien paladin style military in the style of Studio Ghibli",
+        "id": "f599acbc8eeb5c749993ef9eb76507f1",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic alien paladin style military in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-15 20:49:12.016757",
+        "seed_prompt": "Create a landscape full body image of a futuristic alien paladin style military in the style of Studio Ghibli",
+        "metadata": {
+            "element": "paladin style military",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "forest",
+            "animal": "camel",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic alien",
+                "backdrop": "futuristic"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Futuristic Alien Paladin: Sentinel of the Ethereal Realms"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b643164769969.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/e9577ea04b7dabc6fca60a51ab045a9a/e9577ea04b7dabc6fca60a51ab045a9a.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "Galaxian Guardian",
+    "symbol": "E9577EA04",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/e9577ea04b7dabc6fca60a51ab045a9a/e9577ea04b7dabc6fca60a51ab045a9a.jpg"
+}
