@@ -1,0 +1,55 @@
+{
+    "id": "ef069b2d1105f8de12273535086af2e5",
+    "title": "Journey of the Futuristic Alien Shaman",
+    "description": "Create a landscape full body image of a futuristic alien shaman in the style of Studio Ghibli",
+    "created": "2024-12-19 01:47:31.239679",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic alien shaman in the style of Studio Ghibli",
+        "id": "bdc0ed6612d9018d0343f789fdd265a0",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic alien shaman in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-15 20:49:12.091162",
+        "seed_prompt": "Create a landscape full body image of a futuristic alien shaman in the style of Studio Ghibli",
+        "metadata": {
+            "element": "shaman",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "tropical forest",
+            "animal": "horse",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic alien",
+                "backdrop": "futuristic"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Journey of the Futuristic Alien Shaman"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b643568961115.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/ef069b2d1105f8de12273535086af2e5/ef069b2d1105f8de12273535086af2e5.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "AstraGlow",
+    "symbol": "EF069B2D1",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/ef069b2d1105f8de12273535086af2e5/ef069b2d1105f8de12273535086af2e5.jpg"
+}
