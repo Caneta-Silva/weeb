@@ -1,0 +1,52 @@
+{
+    "id": "c0971798fd5aa8737a24b1e97e2e3a0b",
+    "title": "Futuristic Shaman Amidst the Mystical Landscapes",
+    "description": "Create a landscape full body image of a futuristic shaman in the style of Studio Ghibli",
+    "created": "2024-12-19 01:53:17.272883",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic shaman in the style of Studio Ghibli",
+        "id": "66b75c35766d33a2b7aa95132c2e7d89",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic shaman in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-15 20:49:11.775746",
+        "seed_prompt": "Create a landscape full body image of a futuristic shaman in the style of Studio Ghibli",
+        "metadata": {
+            "element": "shaman",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "spaceship",
+            "animal": "gnu",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic",
+                "backdrop": "futuristic"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Futuristic Shaman Amidst the Mystical Landscapes"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b641761605488.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/c0971798fd5aa8737a24b1e97e2e3a0b/c0971798fd5aa8737a24b1e97e2e3a0b.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper"
+}
