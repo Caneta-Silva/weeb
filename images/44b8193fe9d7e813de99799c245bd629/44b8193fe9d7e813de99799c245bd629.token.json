@@ -1,0 +1,55 @@
+{
+    "id": "44b8193fe9d7e813de99799c245bd629",
+    "title": "Futuristic Tribe Warrior in Studio Ghibli Style",
+    "description": "Create a landscape full body image of a futuristic tribe warrior in the style of Studio Ghibli",
+    "created": "2024-12-19 01:19:02.437121",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic tribe warrior in the style of Studio Ghibli",
+        "id": "526e1c26b72ccee03f3c07e77d6a5894",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic tribe warrior in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-15 20:49:11.755902",
+        "seed_prompt": "Create a landscape full body image of a futuristic tribe warrior in the style of Studio Ghibli",
+        "metadata": {
+            "element": "tribe warrior",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "fortress",
+            "animal": "gnu",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic",
+                "backdrop": "futuristic alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Futuristic Tribe Warrior in Studio Ghibli Style"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b642435450296.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/44b8193fe9d7e813de99799c245bd629/44b8193fe9d7e813de99799c245bd629.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "Astral Bladeheart",
+    "symbol": "44B8193FE",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/44b8193fe9d7e813de99799c245bd629/44b8193fe9d7e813de99799c245bd629.jpg"
+}
