@@ -1,0 +1,55 @@
+{
+    "id": "a085127654e8586d00b4d3cc6162fbf1",
+    "title": "Alien Tribe Warrior in the Style of Studio Ghibli",
+    "description": "Create a landscape full body image of a alien tribe warrior in the style of Studio Ghibli",
+    "created": "2024-12-19 01:44:18.860276",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a alien tribe warrior in the style of Studio Ghibli",
+        "id": "5f5fd2e27a4cebeb11dc52825b7012f1",
+        "prompt_history": [
+            "Create a landscape full body image of a alien tribe warrior in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-15 20:49:11.908745",
+        "seed_prompt": "Create a landscape full body image of a alien tribe warrior in the style of Studio Ghibli",
+        "metadata": {
+            "element": "tribe warrior",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "Martial landscape",
+            "animal": "deer",
+            "modifiers": {
+                "image": "full body",
+                "element": "alien",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Alien Tribe Warrior in the Style of Studio Ghibli"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b643013517739.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/a085127654e8586d00b4d3cc6162fbf1/a085127654e8586d00b4d3cc6162fbf1.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "Zorvex the Sentinel",
+    "symbol": "A08512765",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/a085127654e8586d00b4d3cc6162fbf1/a085127654e8586d00b4d3cc6162fbf1.jpg"
+}
