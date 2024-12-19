@@ -1,0 +1,55 @@
+{
+    "id": "082cc9edc47453f1f8a75e4da4a4f44b",
+    "title": "Alien Police Patrol in the Enchanted Forest",
+    "description": "Create a landscape full body image of a alien police in the style of Studio Ghibli",
+    "created": "2024-12-19 01:29:17.589887",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a alien police in the style of Studio Ghibli",
+        "id": "c35fb1c070eed0ebf6ac87d7004b66b2",
+        "prompt_history": [
+            "Create a landscape full body image of a alien police in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-15 20:49:11.972378",
+        "seed_prompt": "Create a landscape full body image of a alien police in the style of Studio Ghibli",
+        "metadata": {
+            "element": "police",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "Martial landscape",
+            "animal": "deer",
+            "modifiers": {
+                "image": "full body",
+                "element": "alien",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Alien Police Patrol in the Enchanted Forest"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b643324512449.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/082cc9edc47453f1f8a75e4da4a4f44b/082cc9edc47453f1f8a75e4da4a4f44b.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "Xenoguardian",
+    "symbol": "082CC9EDC",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/082cc9edc47453f1f8a75e4da4a4f44b/082cc9edc47453f1f8a75e4da4a4f44b.jpg"
+}
