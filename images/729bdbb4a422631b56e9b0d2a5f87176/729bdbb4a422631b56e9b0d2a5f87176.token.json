@@ -1,0 +1,55 @@
+{
+    "id": "729bdbb4a422631b56e9b0d2a5f87176",
+    "title": "Astro Spirit: The Alien Shaman",
+    "description": "Create a landscape full body image of a alien shaman in the style of Studio Ghibli",
+    "created": "2024-12-19 01:12:43.212032",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a alien shaman in the style of Studio Ghibli",
+        "id": "e28a9fd710da07e7f0632e233fde1f0c",
+        "prompt_history": [
+            "Create a landscape full body image of a alien shaman in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-15 20:49:11.940445",
+        "seed_prompt": "Create a landscape full body image of a alien shaman in the style of Studio Ghibli",
+        "metadata": {
+            "element": "shaman",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "desert",
+            "animal": "horse",
+            "modifiers": {
+                "image": "full body",
+                "element": "alien",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Astro Spirit: The Alien Shaman"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b643688569112.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/729bdbb4a422631b56e9b0d2a5f87176/729bdbb4a422631b56e9b0d2a5f87176.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "Glimmering Starlight Sage",
+    "symbol": "729BDBB4A",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/729bdbb4a422631b56e9b0d2a5f87176/729bdbb4a422631b56e9b0d2a5f87176.jpg"
+}
