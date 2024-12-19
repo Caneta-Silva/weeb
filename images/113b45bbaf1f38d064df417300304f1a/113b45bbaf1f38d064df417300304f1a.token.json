@@ -1,0 +1,55 @@
+{
+    "id": "113b45bbaf1f38d064df417300304f1a",
+    "title": "The Futuristic Emperor of Studio Ghibli's Dreams",
+    "description": "Create a landscape full body image of a futuristic emperor in the style of Studio Ghibli",
+    "created": "2024-12-19 10:03:54.541190",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic emperor in the style of Studio Ghibli",
+        "id": "439273981efc76faf34d355596f8e804",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic emperor in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-15 20:49:11.789337",
+        "seed_prompt": "Create a landscape full body image of a futuristic emperor in the style of Studio Ghibli",
+        "metadata": {
+            "element": "emperor",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "tropical forest",
+            "animal": "giraffe",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic",
+                "backdrop": "futuristic"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "The Futuristic Emperor of Studio Ghibli's Dreams"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b64908341930.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/113b45bbaf1f38d064df417300304f1a/113b45bbaf1f38d064df417300304f1a.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "Nebula Reign",
+    "symbol": "113B45BBA",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/113b45bbaf1f38d064df417300304f1a/113b45bbaf1f38d064df417300304f1a.jpg"
+}
