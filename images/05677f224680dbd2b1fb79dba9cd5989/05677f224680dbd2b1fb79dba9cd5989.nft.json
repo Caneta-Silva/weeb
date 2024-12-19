@@ -1,0 +1,78 @@
+{
+    "id": "05677f224680dbd2b1fb79dba9cd5989",
+    "title": "Futuristic Police Officer in Studio Ghibli Style Landscape",
+    "description": "Futuristic Police Officer in Studio Ghibli Style Landscape",
+    "created": "2024-12-19 01:26:02.853902",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic police in the style of Studio Ghibli",
+        "id": "b69af04dc2cc27899cd6fe0f802ba40c",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic police in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-15 20:49:11.812677",
+        "seed_prompt": "Create a landscape full body image of a futuristic police in the style of Studio Ghibli",
+        "metadata": {
+            "element": "police",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "fortress",
+            "animal": "rhino",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Futuristic Police Officer in Studio Ghibli Style Landscape"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b642189856684.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/05677f224680dbd2b1fb79dba9cd5989/05677f224680dbd2b1fb79dba9cd5989.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "GhibliCop2025",
+    "symbol": "05677",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/05677f224680dbd2b1fb79dba9cd5989/05677f224680dbd2b1fb79dba9cd5989.jpg",
+    "seller_fee_basis_points": 100,
+    "external_url": null,
+    "attributes": {},
+    "collection": {
+        "name": "weeb",
+        "family": "Caneta-Silva"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/05677f224680dbd2b1fb79dba9cd5989/05677f224680dbd2b1fb79dba9cd5989.jpg",
+                "type": "image/jpg"
+            }
+        ],
+        "category": "image",
+        "maxSupply": 0,
+        "creators": [
+            {
+                "address": "CXretoxLBQDmFwDbf4qJYVX49UaA4PPMy3pCtfm2yzVH",
+                "share": 100
+            }
+        ]
+    }
+}
