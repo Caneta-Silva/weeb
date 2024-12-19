@@ -1,0 +1,55 @@
+{
+    "id": "b27620dba8bd0635a46c31af46b7c456",
+    "title": "Fantasy Alien Paladin Military in Studio Ghibli Style",
+    "description": "Create a landscape full body image of a alien paladin style military in the style of Studio Ghibli",
+    "created": "2024-12-19 01:37:51.432061",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a alien paladin style military in the style of Studio Ghibli",
+        "id": "f98e732f4e30da829234c5cf150f4ff7",
+        "prompt_history": [
+            "Create a landscape full body image of a alien paladin style military in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-15 20:49:11.858943",
+        "seed_prompt": "Create a landscape full body image of a alien paladin style military in the style of Studio Ghibli",
+        "metadata": {
+            "element": "paladin style military",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "desert",
+            "animal": "horse",
+            "modifiers": {
+                "image": "full body",
+                "element": "alien",
+                "backdrop": "futuristic"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Fantasy Alien Paladin Military in Studio Ghibli Style"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b642588139048.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/b27620dba8bd0635a46c31af46b7c456/b27620dba8bd0635a46c31af46b7c456.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "Stardust Sentinel",
+    "symbol": "B27620DBA",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/b27620dba8bd0635a46c31af46b7c456/b27620dba8bd0635a46c31af46b7c456.jpg"
+}
