@@ -1,0 +1,52 @@
+{
+    "id": "5c3f8ae2f063760490245097f4559f17",
+    "title": "Cybernetic Guardian: A Studio Ghibli-Inspired Alien Police Officer",
+    "description": "Create a landscape full body image of a futuristic alien police in the style of Studio Ghibli",
+    "created": "2024-12-19 10:04:21.452802",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic alien police in the style of Studio Ghibli",
+        "id": "b88b78a9dfd5ffe33ea15a88ebd2cc49",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic alien police in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-15 20:49:12.127061",
+        "seed_prompt": "Create a landscape full body image of a futuristic alien police in the style of Studio Ghibli",
+        "metadata": {
+            "element": "police",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "forest",
+            "animal": "horse",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic alien",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Cybernetic Guardian: A Studio Ghibli-Inspired Alien Police Officer"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b642652229358.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/5c3f8ae2f063760490245097f4559f17/5c3f8ae2f063760490245097f4559f17.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper"
+}
