@@ -1,0 +1,52 @@
+{
+    "id": "cd6bd230ca601af2503b6613b8623276",
+    "title": "Alien Medic in Studio Ghibli Style",
+    "description": "Create a landscape full body image of a alien medic in the style of Studio Ghibli",
+    "created": "2024-12-19 10:06:57.394233",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a alien medic in the style of Studio Ghibli",
+        "id": "67da85c73caf9a0c8d47c66e3cd2c17d",
+        "prompt_history": [
+            "Create a landscape full body image of a alien medic in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-15 20:49:12.005288",
+        "seed_prompt": "Create a landscape full body image of a alien medic in the style of Studio Ghibli",
+        "metadata": {
+            "element": "medic",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "waterfall",
+            "animal": "horse",
+            "modifiers": {
+                "image": "full body",
+                "element": "alien",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Alien Medic in Studio Ghibli Style"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b641236499131.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/cd6bd230ca601af2503b6613b8623276/cd6bd230ca601af2503b6613b8623276.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper"
+}
