@@ -1,0 +1,78 @@
+{
+    "id": "78a379ee7b22cbd4a4f8b102a4c31f7b",
+    "title": "Alien Police Guardian of a Mystical Landscape",
+    "description": "Alien Police Guardian of a Mystical Landscape",
+    "created": "2024-12-19 10:09:14.522455",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a alien police in the style of Studio Ghibli",
+        "id": "9b026134a3efbcbb7a85a5158251fa4e",
+        "prompt_history": [
+            "Create a landscape full body image of a alien police in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-15 20:49:11.976418",
+        "seed_prompt": "Create a landscape full body image of a alien police in the style of Studio Ghibli",
+        "metadata": {
+            "element": "police",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "fortress",
+            "animal": "giraffe",
+            "modifiers": {
+                "image": "full body",
+                "element": "alien",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Alien Police Guardian of a Mystical Landscape"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b644287282373.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/78a379ee7b22cbd4a4f8b102a4c31f7b/78a379ee7b22cbd4a4f8b102a4c31f7b.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": null,
+    "symbol": "78A37",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/78a379ee7b22cbd4a4f8b102a4c31f7b/78a379ee7b22cbd4a4f8b102a4c31f7b.jpg",
+    "seller_fee_basis_points": 100,
+    "external_url": null,
+    "attributes": {},
+    "collection": {
+        "name": "weeb",
+        "family": "Caneta-Silva"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/78a379ee7b22cbd4a4f8b102a4c31f7b/78a379ee7b22cbd4a4f8b102a4c31f7b.jpg",
+                "type": "image/jpg"
+            }
+        ],
+        "category": "image",
+        "maxSupply": 0,
+        "creators": [
+            {
+                "address": "CXretoxLBQDmFwDbf4qJYVX49UaA4PPMy3pCtfm2yzVH",
+                "share": 100
+            }
+        ]
+    }
+}
