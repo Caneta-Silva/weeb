@@ -1,0 +1,55 @@
+{
+    "id": "4d18c318dc7bec081fe72dfac10b80e1",
+    "title": "Alien Paladin Militia in a Studio Ghibli-inspired Landscape",
+    "description": "Create a landscape full body image of a alien paladin style military in the style of Studio Ghibli",
+    "created": "2024-12-19 01:46:50.547248",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a alien paladin style military in the style of Studio Ghibli",
+        "id": "e2300c2ddb74ba159b9027d911191bba",
+        "prompt_history": [
+            "Create a landscape full body image of a alien paladin style military in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-15 20:49:11.858107",
+        "seed_prompt": "Create a landscape full body image of a alien paladin style military in the style of Studio Ghibli",
+        "metadata": {
+            "element": "paladin style military",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "Martial landscape",
+            "animal": "camel",
+            "modifiers": {
+                "image": "full body",
+                "element": "alien",
+                "backdrop": "futuristic"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Alien Paladin Militia in a Studio Ghibli-inspired Landscape"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b642095337653.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/4d18c318dc7bec081fe72dfac10b80e1/4d18c318dc7bec081fe72dfac10b80e1.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "Ghibli Alien Paladin Warrior",
+    "symbol": "4D18C318D",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/4d18c318dc7bec081fe72dfac10b80e1/4d18c318dc7bec081fe72dfac10b80e1.jpg"
+}
