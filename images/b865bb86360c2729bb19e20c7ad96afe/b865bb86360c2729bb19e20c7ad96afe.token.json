@@ -1,0 +1,55 @@
+{
+    "id": "b865bb86360c2729bb19e20c7ad96afe",
+    "title": "Futuristic Alien Warrior of the Tribes",
+    "description": "Create a landscape full body image of a futuristic alien tribe warrior in the style of Studio Ghibli",
+    "created": "2024-12-19 01:43:13.008105",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic alien tribe warrior in the style of Studio Ghibli",
+        "id": "7afa7e0bfa998a6bd8190502d1715f87",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic alien tribe warrior in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-15 20:49:12.058999",
+        "seed_prompt": "Create a landscape full body image of a futuristic alien tribe warrior in the style of Studio Ghibli",
+        "metadata": {
+            "element": "tribe warrior",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "desert landscape",
+            "animal": "elephant",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic alien",
+                "backdrop": "futuristic"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Futuristic Alien Warrior of the Tribes"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b641648547062.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/b865bb86360c2729bb19e20c7ad96afe/b865bb86360c2729bb19e20c7ad96afe.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "Kazumi Silverleaf",
+    "symbol": "B865BB863",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/b865bb86360c2729bb19e20c7ad96afe/b865bb86360c2729bb19e20c7ad96afe.jpg"
+}
