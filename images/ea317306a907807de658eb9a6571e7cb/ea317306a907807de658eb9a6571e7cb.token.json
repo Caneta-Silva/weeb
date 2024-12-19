@@ -1,0 +1,55 @@
+{
+    "id": "ea317306a907807de658eb9a6571e7cb",
+    "title": "Futuristic Alien Riot Police Robot in Studio Ghibli Style",
+    "description": "Create a landscape full body image of a futuristic alien riot police robot in the style of Studio Ghibli",
+    "created": "2024-12-19 01:28:58.647740",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic alien riot police robot in the style of Studio Ghibli",
+        "id": "5f7c65d8fb9e29cee107e13c84f8be00",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic alien riot police robot in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-15 20:49:12.042870",
+        "seed_prompt": "Create a landscape full body image of a futuristic alien riot police robot in the style of Studio Ghibli",
+        "metadata": {
+            "element": "riot police robot",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "fortress",
+            "animal": "horse",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic alien",
+                "backdrop": "futuristic alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Futuristic Alien Riot Police Robot in Studio Ghibli Style"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b644289452347.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/ea317306a907807de658eb9a6571e7cb/ea317306a907807de658eb9a6571e7cb.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "Nextron",
+    "symbol": "EA317306A",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/ea317306a907807de658eb9a6571e7cb/ea317306a907807de658eb9a6571e7cb.jpg"
+}
