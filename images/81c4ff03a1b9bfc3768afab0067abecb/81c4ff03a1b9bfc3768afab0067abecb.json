@@ -1,0 +1,52 @@
+{
+    "id": "81c4ff03a1b9bfc3768afab0067abecb",
+    "title": "The Futuristic Emperor of Studio Ghibli",
+    "description": "Create a landscape full body image of a futuristic emperor in the style of Studio Ghibli",
+    "created": "2024-12-19 09:57:02.755791",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic emperor in the style of Studio Ghibli",
+        "id": "1d7b72fcc10d8d6cc965ee918f9809fe",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic emperor in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-15 20:49:11.801022",
+        "seed_prompt": "Create a landscape full body image of a futuristic emperor in the style of Studio Ghibli",
+        "metadata": {
+            "element": "emperor",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "spaceship",
+            "animal": "horse",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic",
+                "backdrop": "futuristic alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "The Futuristic Emperor of Studio Ghibli"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b643780937097.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/81c4ff03a1b9bfc3768afab0067abecb/81c4ff03a1b9bfc3768afab0067abecb.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper"
+}
