@@ -1,0 +1,78 @@
+{
+    "id": "226bf27577ea9827e42db12fac896b64",
+    "title": "The Brave Alien Firefighter",
+    "description": "The Brave Alien Firefighter",
+    "created": "2024-12-19 10:01:01.812497",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a alien firefighter in the style of Studio Ghibli",
+        "id": "48a30e92e80fb864935262b937385f9c",
+        "prompt_history": [
+            "Create a landscape full body image of a alien firefighter in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-15 20:49:11.989269",
+        "seed_prompt": "Create a landscape full body image of a alien firefighter in the style of Studio Ghibli",
+        "metadata": {
+            "element": "firefighter",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "waterfall",
+            "animal": "deer",
+            "modifiers": {
+                "image": "full body",
+                "element": "alien",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "The Brave Alien Firefighter"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b642575345074.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/226bf27577ea9827e42db12fac896b64/226bf27577ea9827e42db12fac896b64.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "GalaxiaHero",
+    "symbol": "226BF",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/226bf27577ea9827e42db12fac896b64/226bf27577ea9827e42db12fac896b64.jpg",
+    "seller_fee_basis_points": 100,
+    "external_url": null,
+    "attributes": {},
+    "collection": {
+        "name": "weeb",
+        "family": "Caneta-Silva"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/226bf27577ea9827e42db12fac896b64/226bf27577ea9827e42db12fac896b64.jpg",
+                "type": "image/jpg"
+            }
+        ],
+        "category": "image",
+        "maxSupply": 0,
+        "creators": [
+            {
+                "address": "CXretoxLBQDmFwDbf4qJYVX49UaA4PPMy3pCtfm2yzVH",
+                "share": 100
+            }
+        ]
+    }
+}
