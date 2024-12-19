@@ -1,0 +1,55 @@
+{
+    "id": "e588497c0e1af361c3b29d297de7baf7",
+    "title": "Futuristic Tribe Chief of the Enchanted Valley",
+    "description": "Create a landscape full body image of a futuristic tribe chief in the style of Studio Ghibli",
+    "created": "2024-12-19 01:22:27.619293",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic tribe chief in the style of Studio Ghibli",
+        "id": "e22537c22431fde5e53f62cf03bceee2",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic tribe chief in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-15 20:49:11.761418",
+        "seed_prompt": "Create a landscape full body image of a futuristic tribe chief in the style of Studio Ghibli",
+        "metadata": {
+            "element": "tribe chief",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "Martial landscape",
+            "animal": "horse",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Futuristic Tribe Chief of the Enchanted Valley"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b643069948431.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/e588497c0e1af361c3b29d297de7baf7/e588497c0e1af361c3b29d297de7baf7.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "Ashi, Chief of the Neon Valley",
+    "symbol": "E588497C0",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/e588497c0e1af361c3b29d297de7baf7/e588497c0e1af361c3b29d297de7baf7.jpg"
+}
