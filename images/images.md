@@ -2495,6 +2495,38 @@
 | **Template**   | Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}                                                                                                                                           |
 
 
+### 📷 e46c18adf29bf2ce63d3d094aaaec52e 
+
+![data.id](./e46c18adf29bf2ce63d3d094aaaec52e/e46c18adf29bf2ce63d3d094aaaec52e.jpg)
+
+| Field          | Value                                                                                                                     |
+|----------------|---------------------------------------------------------------------------------------------------------------------------|
+| **Image ID**             | e46c18adf29bf2ce63d3d094aaaec52e                                                                                                             |
+| **Title**           | Futuristic Shaman Serenity                                                                                                       |
+| **Description**           | Create a landscape full body image of a futuristic shaman in the style of Studio Ghibli                                                                                                       |
+| **CreatedAt**        | 2024-12-20 22:35:17.634232                                                                                                        |
+| **Model**        | dreamshaper                                                                                                        |
+| **OpenAI**         | [OpenAI Image URL](http://192.168.1.85:8081/generated-images/b643384022440.png)                                                                                |
+| **GitHub**         | [GitHub Image URL](https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/e46c18adf29bf2ce63d3d094aaaec52e/e46c18adf29bf2ce63d3d094aaaec52e.jpg)                                                                                |
+| **Tags**       | None                                                                                                                   |
+
+### 📜 6963b038e208ef5830696a88b6d8d561
+
+> Create a landscape full body image of a futuristic shaman in the style of Studio Ghibli
+
+| Field          | Value                                                                                                                                                                      |
+|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Prompt ID**  | 6963b038e208ef5830696a88b6d8d561                                                                                                                                                            |
+| **Prompt History** | <ul><li>**Input:**  <br> **Output:**  <br> **Type:** </li></ul> |
+| **Seeded At** | 2024-12-15 20:49:11.786078                                                                                                                                                   |
+| **Revised At** | None                                                                                                                                                   |
+| **Revised Prompt** | No                                                                                                                                                                      |
+| **Enhanced At** | None                                                                                                                                                  |
+| **Enhanced Prompt** | No                                                                                                                                                                    |
+
+| **Template**   | Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}                                                                                                                                           |
+
+
 ### 📷 cd6bd230ca601af2503b6613b8623276 
 
 ![data.id](./cd6bd230ca601af2503b6613b8623276/cd6bd230ca601af2503b6613b8623276.jpg)
@@ -5431,6 +5463,38 @@
 | **Prompt ID**  | 98a37df57275462519821312898746f7                                                                                                                                                            |
 | **Prompt History** | <ul><li>**Input:**  <br> **Output:**  <br> **Type:** </li></ul> |
 | **Seeded At** | 2024-12-15 20:49:11.780054                                                                                                                                                   |
+| **Revised At** | None                                                                                                                                                   |
+| **Revised Prompt** | No                                                                                                                                                                      |
+| **Enhanced At** | None                                                                                                                                                  |
+| **Enhanced Prompt** | No                                                                                                                                                                    |
+
+| **Template**   | Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}                                                                                                                                           |
+
+
+### 📷 e3dfa60a6505036c78fd9a7815d64b9e 
+
+![data.id](./e3dfa60a6505036c78fd9a7815d64b9e/e3dfa60a6505036c78fd9a7815d64b9e.jpg)
+
+| Field          | Value                                                                                                                     |
+|----------------|---------------------------------------------------------------------------------------------------------------------------|
+| **Image ID**             | e3dfa60a6505036c78fd9a7815d64b9e                                                                                                             |
+| **Title**           | Futuristic Alien Tribe Chief in the Style of Studio Ghibli                                                                                                       |
+| **Description**           | Create a landscape full body image of a futuristic alien tribe chief in the style of Studio Ghibli                                                                                                       |
+| **CreatedAt**        | 2024-12-20 22:44:39.754818                                                                                                        |
+| **Model**        | dreamshaper                                                                                                        |
+| **OpenAI**         | [OpenAI Image URL](http://192.168.1.85:8081/generated-images/b644008716341.png)                                                                                |
+| **GitHub**         | [GitHub Image URL](https://raw.githubusercontent.com/Caneta-Silva/weeb/refs/heads/main/images/e3dfa60a6505036c78fd9a7815d64b9e/e3dfa60a6505036c78fd9a7815d64b9e.jpg)                                                                                |
+| **Tags**       | None                                                                                                                   |
+
+### 📜 a2276573b0624cfce3a4613d7cab773a
+
+> Create a landscape full body image of a futuristic alien tribe chief in the style of Studio Ghibli
+
+| Field          | Value                                                                                                                                                                      |
+|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Prompt ID**  | a2276573b0624cfce3a4613d7cab773a                                                                                                                                                            |
+| **Prompt History** | <ul><li>**Input:**  <br> **Output:**  <br> **Type:** </li></ul> |
+| **Seeded At** | 2024-12-15 20:49:12.083902                                                                                                                                                   |
 | **Revised At** | None                                                                                                                                                   |
 | **Revised Prompt** | No                                                                                                                                                                      |
 | **Enhanced At** | None                                                                                                                                                  |
